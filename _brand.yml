@@ -1,0 +1,16 @@
+color:
+  primary: "#0F766E"
+  secondary: "#0B5D57"
+  link: "#0F766E"
+  light: "#ffffff"
+  dark: "#0F172A"
+
+typography:
+  fonts:
+    - family: Lora
+      source: google
+    - family: Inter
+      source: google
+  headings: Lora
+  base: Inter
+  monospace: "JetBrains Mono"

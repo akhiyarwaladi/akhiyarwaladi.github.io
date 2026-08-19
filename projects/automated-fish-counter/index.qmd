@@ -3,6 +3,7 @@ title: "Automated Fish Counter"
 description: "Embedded system with ultrasonic sensing and an Android companion app for automated fish measurement, counting, and sorting."
 date: 2016-04-23
 categories: [Embedded Systems, IoT, Computer Vision, Android]
+image: ../../images/projects/automated-fish-counter.png
 ---
 
 ## What Problem Is Being Solved?

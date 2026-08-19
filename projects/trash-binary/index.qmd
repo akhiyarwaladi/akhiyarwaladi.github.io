@@ -3,6 +3,7 @@ title: "Trash Binary"
 description: "Binary image classification project for trash sorting."
 date: 2019-01-01
 categories: [Deep Learning, Computer Vision, Image Classification]
+image: ../../images/projects/trash-binary.png
 ---
 
 ## What Problem Is Being Solved?

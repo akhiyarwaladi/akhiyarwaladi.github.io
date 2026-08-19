@@ -3,6 +3,7 @@ title: "Sigap Mobile"
 description: "Mobile application project supporting rapid response services."
 date: 2020-01-01
 categories: [Mobile Development, Android]
+image: ../../images/projects/sigap-mobile.png
 ---
 
 ## What Problem Is Being Solved?

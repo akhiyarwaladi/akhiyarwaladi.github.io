@@ -3,6 +3,7 @@ title: "IoT FST Dashboard"
 description: "Web dashboard for monitoring IoT sensor data within the Faculty of Science and Technology."
 date: 2026-03-09
 categories: [IoT, Web Development, Dashboard, Laravel]
+image: ../../images/projects/iot-fst-dashboard.png
 ---
 
 ## What Problem Is Being Solved?

@@ -3,6 +3,7 @@ title: "Fire Spot"
 description: "Hotspot clustering analysis for Bangka Belitung Islands Province using agglomerative hierarchical clustering."
 date: 2025-10-09
 categories: [Data Mining, Clustering, Environmental Analytics]
+image: ../../images/projects/fire-spot.png
 ---
 
 ## What Problem Is Being Solved?

@@ -3,6 +3,7 @@ title: "ML Tutorials"
 description: "A growing collection of machine-learning teaching notebooks covering fundamentals through applied examples."
 date: 2026-03-01
 categories: [Machine Learning, Teaching, Jupyter Notebooks]
+image: ../../images/projects/ml-tutorials.png
 ---
 
 ## What Problem Is Being Solved?

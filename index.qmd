@@ -2,7 +2,7 @@
 title: "Akhiyar Waladi"
 about:
   template: solana
-  image: images/profile.png
+  image: images/avatar.png
   image-shape: round
   links:
     - icon: envelope
@@ -32,6 +32,10 @@ Before joining academia, I spent several years as a **Data Scientist** — most 
 I hold a **Master of Computer Science (M.Kom.)** from Universitas Indonesia and a **Bachelor of Computer Science (S.Komp.)** from IPB University. My research is published in Scopus-indexed and SINTA-accredited venues, and my work is tracked on [Google Scholar](https://sinta.kemdiktisaintek.go.id/authors/profile/6931115/?view=googlescholar), [Scopus](https://www.scopus.com/), and [SINTA](https://sinta.kemdiktisaintek.go.id/authors/profile/6931115).
 
 ## Selected Research
+
+::: {.callout-note}
+**Research focus.** I apply computational intelligence to practical problems in agriculture, health, industry, and public administration.
+:::
 
 - **Pattern Recognition** — deep learning and feature-based recognition applied to scanned documents, fish counting, remote sensing scenes, and medical imagery.
 - **Predictive Systems** — time-series forecasting with SARIMA and LSTM for energy exports and stock prices; predictive analytics with machine learning.

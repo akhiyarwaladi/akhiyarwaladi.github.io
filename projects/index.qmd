@@ -4,7 +4,7 @@ listing:
   contents: "**/index.qmd"
   type: grid
   sort: "date desc"
-  fields: [date, title, description, categories]
+  fields: [date, title, description, categories, image]
   image-height: 200px
 ---
 

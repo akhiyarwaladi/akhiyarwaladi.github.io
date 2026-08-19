@@ -46,8 +46,8 @@ website:
 format:
   html:
     theme:
-      light: cosmo
-      dark: darkly
+      light: [cosmo, brand]
+      dark: [darkly, brand]
     css: styles.css
     toc: true
     grid:
