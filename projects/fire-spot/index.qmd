@@ -1,0 +1,26 @@
+---
+title: "Fire Spot"
+description: "Hotspot clustering analysis for Bangka Belitung Islands Province using agglomerative hierarchical clustering."
+date: 2025-10-09
+categories: [Data Mining, Clustering, Environmental Analytics]
+---
+
+## What Problem Is Being Solved?
+
+Forest and land fires are a recurring environmental challenge in Indonesia. Understanding where hotspots cluster helps authorities prioritize fire prevention and response.
+
+## How It Works
+
+This project applies the **agglomerative hierarchical clustering algorithm** to satellite-derived hotspot data for Bangka Belitung Islands Province, revealing spatial clusters of fire activity.
+
+## My Role
+
+Researcher and developer of the clustering analysis.
+
+## What Was Produced
+
+Clustering analysis code and results, which also informed a [journal publication](https://github.com/akhiyarwaladi/fire_spot).
+
+## Links
+
+- [GitHub repository](https://github.com/akhiyarwaladi/fire_spot)

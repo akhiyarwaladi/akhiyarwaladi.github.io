@@ -1,0 +1,30 @@
+---
+title: "Transfer Learning Architecture Selection for Remote Sensing Scene Classification"
+description: "Benchmarking CNN and Vision Transformer transfer-learning architectures for classifying remote sensing scenes."
+date: 2026-06-16
+categories: [Remote Sensing, Deep Learning, Transfer Learning, Computer Vision]
+doi: "10.34288/jri.v8i3.515"
+author:
+  - name: "Akhiyar Waladi"
+    affiliation: "Universitas Jambi"
+  - name: "Hasanatul Iftitah"
+    affiliation: "Universitas Jambi"
+---
+
+## Summary
+
+Scene classification is a core task in remote sensing. This paper systematically compares transfer-learning architectures — including convolutional neural networks and Vision Transformers — to identify which backbone performs best for classifying remote sensing scenes.
+
+## Contribution
+
+- Benchmarks multiple transfer-learning architectures on remote sensing scene classification.
+- Provides a practical architecture-selection guide for practitioners and researchers working with aerial and satellite imagery.
+
+## Links
+
+- [DOI](https://doi.org/10.34288/jri.v8i3.515)
+- [Publisher page](https://ejournal.kresnamediapublisher.com/index.php/jri/article/view/515)
+
+## Keywords
+
+Remote Sensing · Scene Classification · Transfer Learning · Vision Transformer · Benchmark Comparison

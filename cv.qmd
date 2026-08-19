@@ -1,0 +1,59 @@
+---
+title: "Curriculum Vitae"
+---
+
+## Akhiyar Waladi, S.Komp., M.Kom.
+
+Lecturer (Asisten Ahli) · Department of Electrical Engineering · Faculty of Science and Technology · Universitas Jambi
+
+- **NIDN:** 1995072301 · **SINTA ID:** 6931115
+- **Email:** [akhiyarwaladi@gmail.com](mailto:akhiyarwaladi@gmail.com) · [akhiyar.waladi@unja.ac.id](mailto:akhiyar.waladi@unja.ac.id)
+- **Links:** [GitHub](https://github.com/akhiyarwaladi) · [LinkedIn](https://id.linkedin.com/in/akhiyar-waladi) · [SINTA](https://sinta.kemdiktisaintek.go.id/authors/profile/6931115)
+
+## Education
+
+| Degree | Institution | Program | Year |
+|---|---|---|---|
+| S2 (M.Kom.) | Universitas Indonesia | Ilmu Komputer | 2018–2020 |
+| S1 (S.Komp.) | IPB University (Institut Pertanian Bogor) | Ilmu Komputer | 2013–2017 |
+
+## Experience
+
+**Lecturer (Asisten Ahli)** — Universitas Jambi, Department of Electrical Engineering, FST (Sep 2024 – present)
+
+- Teach artificial intelligence, machine learning, data mining, and pattern recognition.
+- Supervise student projects and theses.
+- Conduct research and community-service (pengabdian) programs in AI, IoT, and data science.
+
+**Data Scientist** — Alfagift, Global Loyalty Indonesia, Tangerang (Sep 2020 – Aug 2024)
+
+- Built data products, forecasting models, and machine-learning pipelines for a retail loyalty platform.
+- Developed customer segmentation and recommendation systems.
+
+**Data Scientist** — kumparan, Jakarta (Sep 2018 – Dec 2019; Jan – Jul 2020)
+
+- Developed NLP and machine-learning solutions in the research department of a digital media platform.
+
+## Research & Expertise
+
+- Pattern Recognition · Computer Vision · Deep Learning
+- Predictive Systems & Time-Series Forecasting (SARIMA, LSTM)
+- Machine Learning & Data Mining (classification, clustering, segmentation)
+- Expert Systems & Intelligent Computing
+- IoT Systems
+
+## Selected Publications
+
+1. Transfer Learning Architecture Selection for Remote Sensing Scene Classification. *Jurnal Riset Informatika* 8(3), 2026. [DOI](https://doi.org/10.34288/jri.v8i3.515)
+2. Multi-Architecture CNN Analysis for Automated Malaria Detection. *PROCA* 2(2), 2026. [DOI](https://doi.org/10.22437/proca.v2i2.55514)
+3. Application of K-means Clustering Algorithm on Customer Segmentation for Effective Marketing Strategy. *Media JISI* 1(2), 2025.
+4. Prediksi Nilai Ekspor Migas Indonesia Menggunakan Metode SARIMA dan LSTM. *SATESI* 5(1), 2025.
+5. Automatic Counting Based on Scanned Election Form Using Feature Match and CNN. *ICACSIS 2019*.
+
+Full list: [Publications page](publications/index.qmd).
+
+## Professional Service
+
+- Community-service (pengabdian) training for SMK students (IoT/smart farming, 2026), MTs students (AI literacy, 2025), and Pondok Pesantren Darul Arifin (financial information systems, 2025).
+
+*This page is a web version of my CV. A downloadable PDF can be added on request — please [contact me](contact.qmd).*

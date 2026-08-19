@@ -1,0 +1,27 @@
+---
+title: "Automated Fish Counter"
+description: "Embedded system with ultrasonic sensing and an Android companion app for automated fish measurement, counting, and sorting."
+date: 2016-04-23
+categories: [Embedded Systems, IoT, Computer Vision, Android]
+---
+
+## What Problem Is Being Solved?
+
+Indonesia has enormous tuna potential in the Indian Ocean, yet fish data is scarce because fishermen record catches manually. This project automates fish counting and sorting, capturing data for every catch.
+
+## How It Works
+
+An embedded system built with **Intel Galileo**, a stepper motor, servo, ultrasonic sensor, and a simple conveyor model measures each fish's length and thickness, counts it, sorts fish by length, and sends the captured data to an Android device.
+
+## My Role
+
+Co-developer of the embedded system and the Android integration, built during a 24-hour hackathon.
+
+## What Was Produced
+
+A working prototype integrating microcontroller data with an Android device, demonstrated on [Devpost](https://devpost.com/software/automated-fish-counter).
+
+## Links
+
+- [GitHub repository](https://github.com/akhiyarwaladi/Automated-Fish-Counter)
+- [Devpost project](https://devpost.com/software/automated-fish-counter)

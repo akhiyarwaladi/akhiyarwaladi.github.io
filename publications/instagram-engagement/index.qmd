@@ -1,0 +1,37 @@
+---
+title: "Color Complexity and Sharpness for Instagram Engagement"
+description: "Machine-learning classification of how visual and temporal features affect Instagram engagement."
+date: 2026-07-15
+categories: [Machine Learning, Social Media Analytics, Computer Vision]
+doi: "10.22437/proca.v2i2.55582"
+author:
+  - name: "Akhiyar Waladi"
+    affiliation: "Universitas Jambi"
+  - name: "Jefri Marzal"
+    affiliation: "Universitas Jambi"
+  - name: "Muhammad Razi A"
+    affiliation: "Universitas Jambi"
+  - name: "Miranty Yudistira"
+    affiliation: "Universitas Jambi"
+  - name: "Hasanatul Iftitah"
+    affiliation: "Universitas Jambi"
+  - name: "Hamzah Alghifari"
+    affiliation: "Universitas Jambi"
+---
+
+## Summary
+
+What makes a social-media post perform well? This study trains machine-learning classifiers on visual features (such as color complexity and sharpness) and temporal features to predict Instagram engagement.
+
+## Contribution
+
+- Quantifies how color complexity and image sharpness relate to engagement.
+- Demonstrates a reproducible machine-learning classification pipeline for social media analytics.
+
+## Links
+
+- [DOI](https://doi.org/10.22437/proca.v2i2.55582)
+
+## Keywords
+
+Instagram Engagement · Visual Features · Temporal Features · Machine Learning Classification · Social Media Analytics

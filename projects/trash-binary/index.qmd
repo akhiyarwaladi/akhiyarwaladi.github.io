@@ -1,0 +1,26 @@
+---
+title: "Trash Binary"
+description: "Binary image classification project for trash sorting."
+date: 2019-01-01
+categories: [Deep Learning, Computer Vision, Image Classification]
+---
+
+## What Problem Is Being Solved?
+
+Waste sorting is essential for recycling but is often done manually. This project explores automated trash classification from images.
+
+## How It Works
+
+A **binary image classification** project using deep learning to distinguish trash categories from photographs.
+
+## My Role
+
+Researcher and developer of the classification model.
+
+## What Was Produced
+
+Classification model code and experiments.
+
+## Links
+
+- [GitHub repository](https://github.com/akhiyarwaladi/TrashBinary)

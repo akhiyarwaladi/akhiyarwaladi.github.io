@@ -1,0 +1,29 @@
+---
+title: "Prediksi Nilai Ekspor Migas Indonesia Menggunakan Metode SARIMA dan LSTM"
+description: "Forecasting Indonesian oil and gas export values by comparing SARIMA and LSTM time-series models."
+date: 2025-02-20
+categories: [Time Series, Forecasting, LSTM, Machine Learning]
+author:
+  - name: "H. Kuswanto"
+    affiliation: "Universitas Jambi"
+  - name: "P.E.P. Utomo"
+    affiliation: "Universitas Jambi"
+  - name: "U. Khaira"
+    affiliation: "Universitas Jambi"
+  - name: "Akhiyar Waladi"
+    affiliation: "Universitas Jambi"
+---
+
+## Summary
+
+Accurate forecasts of oil and gas export values help economic planning. This study compares two forecasting approaches — the classical SARIMA model and the deep-learning LSTM network — for predicting Indonesian oil & gas export values.
+
+## Contribution
+
+- Systematic comparison of SARIMA vs LSTM on macroeconomic time series.
+- Practical guidance on when classical vs deep-learning forecasting is preferable.
+- Published in *SATESI: Jurnal Sains Teknologi dan Sistem Informasi* 5(1), 69–79.
+
+## Keywords
+
+SARIMA · LSTM · Time-Series Forecasting · Export Prediction · Machine Learning

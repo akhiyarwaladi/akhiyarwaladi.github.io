@@ -1,0 +1,27 @@
+---
+title: "Automatic Counting Based on Scanned Election Form Using Feature Match and Convolutional Neural Network"
+description: "An automated vote-counting system for scanned election forms using feature matching and CNN."
+date: 2019-10-28
+categories: [Pattern Recognition, Computer Vision, Convolutional Neural Network, Document Analysis]
+author:
+  - name: "Akhiyar Waladi"
+    affiliation: "Universitas Indonesia"
+---
+
+## Summary
+
+Manual vote counting is slow and error-prone. This research developed a system that automatically counts votes from scanned election forms by combining feature-matching techniques with a convolutional neural network for accurate recognition.
+
+## Contribution
+
+- Pipeline combining feature matching with CNN classification for scanned forms.
+- Demonstrates an applied pattern-recognition solution for document-based public administration.
+- Presented at the Scopus-indexed IEEE ICACSIS conference (2019).
+
+## Links
+
+- [IEEE Xplore / ICACSIS 2019](https://ieeexplore.ieee.org/)
+
+## Keywords
+
+Vote Counting · Feature Matching · Convolutional Neural Network · Document Analysis · Pattern Recognition

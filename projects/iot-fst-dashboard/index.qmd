@@ -1,0 +1,26 @@
+---
+title: "IoT FST Dashboard"
+description: "Web dashboard for monitoring IoT sensor data within the Faculty of Science and Technology."
+date: 2026-03-09
+categories: [IoT, Web Development, Dashboard, Laravel]
+---
+
+## What Problem Is Being Solved?
+
+IoT devices generate sensor data that is only useful when it can be monitored in real time. This dashboard provides a central web interface to view and manage sensor data streams for the faculty.
+
+## How It Works
+
+A web application built with **Laravel (Blade)** that collects, stores, and visualizes IoT sensor readings in an accessible dashboard.
+
+## My Role
+
+Designer and developer of the dashboard application.
+
+## What Was Produced
+
+A deployable IoT monitoring dashboard for the Faculty of Science and Technology.
+
+## Links
+
+- [GitHub repository](https://github.com/akhiyarwaladi/iot_fst_dashboard)

@@ -1,0 +1,26 @@
+---
+title: "ML Tutorials"
+description: "A growing collection of machine-learning teaching notebooks covering fundamentals through applied examples."
+date: 2026-03-01
+categories: [Machine Learning, Teaching, Jupyter Notebooks]
+---
+
+## What Problem Is Being Solved?
+
+Machine learning is best learned by doing. This repository provides structured, executable notebooks that support my teaching and help students and practitioners build ML skills step by step.
+
+## How It Works
+
+A collection of **Jupyter notebooks** in Python covering machine-learning fundamentals, from data preparation through supervised and unsupervised learning.
+
+## My Role
+
+Author and maintainer, using the notebooks in courses such as [Machine Learning](../../teaching/machine-learning/index.qmd) and [Data Mining](../../teaching/data-mining/index.qmd).
+
+## What Was Produced
+
+A reusable, open teaching resource for machine learning.
+
+## Links
+
+- [GitHub repository](https://github.com/akhiyarwaladi/ml_tutorial)

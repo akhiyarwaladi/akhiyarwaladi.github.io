@@ -1,0 +1,56 @@
+---
+title: "Research"
+---
+
+My research applies artificial intelligence, machine learning, and pattern recognition to solve practical problems in agriculture, health, industry, and public administration. I work primarily with deep learning, computer vision, time-series forecasting, and clustering methods.
+
+## Research Themes
+
+### Pattern Recognition & Computer Vision
+
+I develop recognition systems for structured and unstructured visual data — from scanned election forms and remote sensing scenes to agricultural and medical imagery.
+
+- **Automatic counting based on scanned election form using feature match and CNN** — a system that automatically tallies votes from scanned election forms (ICACSIS 2019, Scopus-indexed).
+- **Transfer learning for remote sensing scene classification** — benchmarking CNN and Vision Transformer architectures for scene recognition.
+- **Multi-architecture CNN analysis for automated malaria detection** — detecting *Plasmodium* species and lifecycle stages in microscopy images with YOLO and CNN variants.
+- **Land cover classification** — improving accuracy of Sentinel-2 land cover classification using Random Forest.
+- **Automated Fish Counter** — embedded vision system for fish measurement, counting, and sorting.
+
+### Predictive Systems & Time-Series Forecasting
+
+I build forecasting and prediction models for economic, energy, and market data.
+
+- **Prediksi Nilai Ekspor Migas Indonesia** — forecasting Indonesian oil & gas export values using SARIMA and LSTM (SATESI, 2025).
+- **Stock price prediction with LSTM** — machine-learning approach to stock price forecasting (Media JISI, 2025).
+- **Predictive analytics for education trends** — KNN-based analysis of Indonesian education data 2021–2023.
+- **Predictive systems** are a core expertise area: designing and building computational systems that turn historical data into actionable forecasts.
+
+### Machine Learning, Clustering & Segmentation
+
+I use unsupervised and supervised learning to reveal structure in data.
+
+- **K-means customer segmentation** — clustering for effective marketing strategy (Media JISI, 2025).
+- **Hierarchical clustering of Indonesian provinces** — grouping provinces by household gas usage ratio (JEKIN, 2025).
+- **Hotspot clustering in Bangka Belitung Islands** — agglomerative hierarchical clustering for fire hotspot analysis.
+- **Instagram engagement analysis** — machine-learning classification of visual and temporal features.
+
+### Expert Systems & Intelligent Computing
+
+I design domain-specific decision-support and intelligent systems, an area I teach and apply through community-service projects:
+
+- **Rancang bangun sistem komputasi** — construction of computational systems for real users.
+- **IoT monitoring systems** — smart farming plant monitoring taught to vocational (SMK) students.
+- **Financial information systems** — data-management systems for pesantren administrators.
+
+## Selected Research Output
+
+- **Scopus:** 2 documents, 3 citations (H-index 1).
+- **Google Scholar:** 19 documents, 30 citations (H-index 3).
+- Full details on the [Publications page](publications/index.qmd) and via [SINTA](https://sinta.kemdiktisaintek.go.id/authors/profile/6931115).
+
+## Ongoing Directions
+
+- Deep learning for agricultural and environmental monitoring in Jambi (land cover, hotspots, IoT sensing).
+- Applied AI for health and medical imaging (malaria detection, diagnostics).
+- Reliable time-series and predictive modeling for Indonesian economic data.
+- Educational AI literacy and community empowerment through training programs.

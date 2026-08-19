@@ -1,0 +1,27 @@
+---
+title: "Peningkatan Akurasi Klasifikasi Tutupan Lahan Menggunakan Random Forest pada Data Sentinel-2 di Jambi"
+description: "Improving land-cover classification accuracy over Jambi using Random Forest on Sentinel-2 satellite data."
+date: 2025-12-15
+categories: [Remote Sensing, Machine Learning, Random Forest, Land Cover]
+author:
+  - name: "Akhiyar Waladi"
+    affiliation: "Universitas Jambi"
+---
+
+## Summary
+
+Land-cover mapping supports environmental and agricultural planning. This study uses the Random Forest algorithm on Sentinel-2 satellite imagery to classify land cover across Jambi province, achieving improved accuracy over baseline methods.
+
+## Contribution
+
+- Applied Random Forest classifier to Sentinel-2 data for Jambi land-cover mapping.
+- Quantifies accuracy improvements and discusses feature/pixel settings.
+- Published in *Jurnal Ilmu Komputer* (Fasilkom UMRI).
+
+## Links
+
+- [Full-text PDF](https://ejurnal.umri.ac.id/index.php/JIK/article/download/8886/3478)
+
+## Keywords
+
+Random Forest · Sentinel-2 · Land Cover Classification · Remote Sensing · Jambi

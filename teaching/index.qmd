@@ -1,0 +1,33 @@
+---
+title: "Teaching"
+---
+
+I teach courses in the [Department of Electrical Engineering](https://teknik-elektro.fst.unja.ac.id/), Faculty of Science and Technology, Universitas Jambi. My teaching areas sit at the intersection of artificial intelligence, data science, and computational systems, and are informed by both my research and my industry experience as a data scientist.
+
+## Courses
+
+- [Artificial Intelligence](artificial-intelligence/index.qmd)
+- [Machine Learning](machine-learning/index.qmd)
+- [Data Mining](data-mining/index.qmd)
+- [Pattern Recognition](pattern-recognition/index.qmd)
+
+## Teaching Philosophy
+
+I believe students learn best by doing. My courses combine:
+
+- **Clear theory** — the mathematical foundations behind algorithms, explained from first principles.
+- **Hands-on practice** — executable notebooks and small projects on real, locally relevant datasets.
+- **Industry perspective** — examples drawn from data-science practice in retail and media, where models must be robust, interpretable, and production-ready.
+
+## Learning Materials
+
+Course pages will be progressively expanded with modules, slides, notebooks, exercises, and datasets. Check back regularly — or [contact me](../contact.qmd) if you would like to collaborate on teaching materials.
+
+## Supervision
+
+I supervise undergraduate student projects and theses (tugas akhir/skripsi) in topics such as:
+
+- Machine learning and deep learning applications
+- Computer vision and pattern recognition
+- IoT systems and embedded intelligence
+- Time-series forecasting and predictive systems

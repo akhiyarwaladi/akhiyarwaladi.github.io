@@ -1,0 +1,28 @@
+---
+title: "Data Mining"
+---
+
+An introduction to discovering useful patterns and knowledge from large datasets. The course covers the data-mining process, classification, clustering, association rules, and their application to real-world data.
+
+## Topics
+
+1. **Data Mining Overview** — the KDD process and data preprocessing.
+2. **Classification** — decision trees, Naive Bayes, KNN, and ensemble methods.
+3. **Clustering** — partitional (K-means) and hierarchical (agglomerative) methods.
+4. **Association Rules** — frequent itemsets and Apriori.
+5. **Evaluation & Interpretation** — measuring and interpreting mining results.
+6. **Applications** — segmentation, anomaly detection, and market analysis.
+
+## Learning Outcomes
+
+By the end of the course, students will be able to:
+
+- Apply the end-to-end data-mining process to a dataset.
+- Choose appropriate algorithms for classification, clustering, and association tasks.
+- Interpret and communicate discovered patterns.
+- Appreciate the ethical and privacy considerations of data mining.
+
+## Resources
+
+- Example studies from my research, including [K-means customer segmentation](../../publications/kmeans-customer-segmentation/index.qmd) and [hotspot clustering](https://github.com/akhiyarwaladi/fire_spot).
+- Additional materials will be posted here progressively.

@@ -1,0 +1,57 @@
+project:
+  type: website
+
+website:
+  title: "Akhiyar Waladi"
+  description: "Lecturer and researcher in Artificial Intelligence, Machine Learning, and Pattern Recognition at Universitas Jambi."
+  site-url: "https://akhiyarwaladi.github.io"
+  favicon: images/favicon.png
+  image: images/og-image.png
+  open-graph: true
+  twitter-card: true
+  search: true
+  back-to-top-navigation: true
+
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: About
+        href: about.qmd
+      - text: Research
+        href: research.qmd
+      - text: Publications
+        href: publications/index.qmd
+      - text: Teaching
+        href: teaching/index.qmd
+      - text: Projects
+        href: projects/index.qmd
+      - text: Contact
+        href: contact.qmd
+    right:
+      - icon: github
+        href: https://github.com/akhiyarwaladi
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://id.linkedin.com/in/akhiyar-waladi
+        aria-label: LinkedIn
+      - icon: google
+        href: https://sinta.kemdiktisaintek.go.id/authors/profile/6931115/?view=googlescholar
+        aria-label: Google Scholar
+
+  page-footer:
+    left: "© 2026 Akhiyar Waladi, S.Komp., M.Kom. · Universitas Jambi"
+    right: "Built with Quarto and GitHub Pages"
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    css: styles.css
+    toc: true
+    grid:
+      body-width: 1200px
+
+execute:
+  freeze: auto

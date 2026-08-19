@@ -1,0 +1,31 @@
+---
+title: "Application of K-means Clustering Algorithm on Customer Segmentation for Effective Marketing Strategy"
+description: "Segmenting retail customers with K-means clustering to support targeted marketing strategies."
+date: 2025-06-15
+categories: [Machine Learning, Clustering, Data Mining, Marketing Analytics]
+author:
+  - name: "Akhiyar Waladi"
+    affiliation: "Universitas Jambi"
+  - name: "R. Rizaldi"
+    affiliation: "Universitas Jambi"
+  - name: "M.A.H. Sutoyo"
+    affiliation: "Universitas Jambi"
+---
+
+## Summary
+
+Understanding customer groups is essential for effective marketing. This paper applies the K-means clustering algorithm to segment customers and derive profiles that support targeted, data-driven marketing strategies.
+
+## Contribution
+
+- End-to-end customer segmentation workflow with K-means.
+- Translates clustering results into actionable marketing strategy.
+- Builds on industry experience applying segmentation at a retail loyalty platform.
+
+## Links
+
+- *Media Journal of Information System and Informatic* 1(2), 16–25.
+
+## Keywords
+
+K-means · Customer Segmentation · Marketing Strategy · Data Mining · Clustering

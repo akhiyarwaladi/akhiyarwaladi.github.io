@@ -1,0 +1,11 @@
+---
+title: "Projects"
+listing:
+  contents: "**/index.qmd"
+  type: grid
+  sort: "date desc"
+  fields: [date, title, description, categories]
+  image-height: 200px
+---
+
+Selected projects from research, teaching, and engineering. Source code is available on [GitHub](https://github.com/akhiyarwaladi).

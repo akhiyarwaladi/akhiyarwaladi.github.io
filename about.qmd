@@ -1,0 +1,57 @@
+---
+title: "About"
+---
+
+## Biography
+
+I am Akhiyar Waladi, a lecturer (Asisten Ahli) in the Department of Electrical Engineering, Faculty of Science and Technology, Universitas Jambi, where I teach and research topics in artificial intelligence, machine learning, pattern recognition, and predictive systems.
+
+My path into computing started at IPB University (Institut Pertanian Bogor), where I earned my Bachelor of Computer Science in 2017. During my undergraduate years I explored embedded systems and computer vision — co-developing an *Automated Fish Counter*, an embedded system integrated with an Android device for automated fish measurement, counting, and sorting (showcased on [Devpost](https://devpost.com/software/automated-fish-counter)). I continued to a Master of Computer Science at Universitas Indonesia (2018–2020), where I deepened my work on pattern recognition and machine learning, including research on automatic counting of scanned election forms using feature matching and convolutional neural networks.
+
+Between 2018 and 2024 I worked in industry as a **Data Scientist**, first at **kumparan** (2018–2020) in Jakarta and then at **Alfagift – Global Loyalty Indonesia** (2020–2024) in Tangerang. In these roles I built and maintained data products, forecasting systems, recommendation and segmentation models, and end-to-end machine-learning pipelines used by millions of retail customers.
+
+Since September 2024, I have been a lecturer at Universitas Jambi. I currently teach undergraduate courses in the electrical engineering program, supervise student projects, and lead community-service (pengabdian) programs that bring AI and IoT literacy to schools, pesantren, and vocational students in the Jambi region.
+
+## Research Interests
+
+My research centers on applying computational intelligence to practical problems:
+
+- **Pattern Recognition** — deep learning and feature-based recognition for documents, remote sensing scenes, agricultural imagery, and medical imaging.
+- **Predictive Systems** — time-series forecasting (SARIMA, LSTM), stock price prediction, and trend analysis.
+- **Machine Learning & Data Mining** — clustering (K-means, hierarchical, agglomerative), classification, and customer/regional segmentation.
+- **Expert Systems & Intelligent Computing** — design and construction of domain-specific decision-support systems.
+- **Computer Vision & Deep Learning** — CNN architectures, transfer learning, and object/feature detection.
+
+## Education
+
+| Degree | Institution | Program | Year |
+|---|---|---|---|
+| S2 (M.Kom.) | Universitas Indonesia | Ilmu Komputer | 2018–2020 |
+| S1 (S.Komp.) | IPB University (Institut Pertanian Bogor) | Ilmu Komputer | 2013–2017 |
+
+## Academic Experience
+
+- **Lecturer (Asisten Ahli)** — Department of Electrical Engineering, Faculty of Science and Technology, Universitas Jambi (Sep 2024 – present).
+
+## Industry Experience
+
+- **Data Scientist** — Alfagift, Global Loyalty Indonesia, Tangerang, Banten (Sep 2020 – Aug 2024). Built data products, forecasting models, and machine-learning pipelines for a retail loyalty platform.
+- **Data Scientist** — kumparan, Jakarta (Sep 2018 – Dec 2019; Jan – Jul 2020). Research department; developed NLP and machine-learning solutions for a digital media platform.
+
+## Professional Profiles
+
+- **SINTA ID 6931115** — [SINTA Profile](https://sinta.kemdiktisaintek.go.id/authors/profile/6931115) · [Google Scholar](https://sinta.kemdiktisaintek.go.id/authors/profile/6931115/?view=googlescholar)
+- **GitHub** — [akhiyarwaladi](https://github.com/akhiyarwaladi)
+- **LinkedIn** — [akhiyar-waladi](https://id.linkedin.com/in/akhiyar-waladi)
+- **Institutional** — [Universitas Jambi researcher profile](https://riset.unja.ac.id/) · [Electrical Engineering Department](https://teknik-elektro.fst.unja.ac.id/tenaga-pendidik-dosen/)
+- **NIDN:** 1995072301
+
+## Community Service (Pengabdian) Highlights
+
+- **IoT training for SMK students** — "Pemberdayaan Siswa SMK melalui Pelatihan IoT untuk Sistem Monitoring Tanaman dalam Mendukung Smart Farming" (2026).
+- **AI education for madrasah students** — "Sosialisasi Pemanfaatan Artificial Intelligence untuk Edukasi pada Siswa-Siswi MTs Negeri 3 Kota Jambi" (2025).
+- **Financial information system training** — "Pelatihan Sistem Informasi Keuangan Pengelolaan Data Pengeluaran pada Pondok Pesantren Darul Arifin Jambi" (2025).
+
+## Download CV
+
+A printable summary of my CV is available on the [CV page](cv.qmd).

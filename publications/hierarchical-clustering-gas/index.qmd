@@ -1,0 +1,32 @@
+---
+title: "Pengelompokan Provinsi di Indonesia Berdasarkan Rasio Penggunaan Gas Rumah Tangga pada Tahun 2023 Menggunakan Hierarchical Clustering"
+description: "Grouping Indonesian provinces by household gas usage ratio using hierarchical clustering."
+date: 2025-04-15
+categories: [Clustering, Data Mining, Energy Analytics]
+author:
+  - name: "A.A. Nasution"
+    affiliation: "Universitas Jambi"
+  - name: "P.E.P. Utomo"
+    affiliation: "Universitas Jambi"
+  - name: "U. Khaira"
+    affiliation: "Universitas Jambi"
+  - name: "Akhiyar Waladi"
+    affiliation: "Universitas Jambi"
+---
+
+## Summary
+
+Household gas usage varies widely across Indonesian provinces. This study applies hierarchical clustering to group provinces based on their household gas usage ratios in 2023, revealing regional consumption patterns useful for energy policy.
+
+## Contribution
+
+- Hierarchical clustering analysis of household energy data at provincial scale.
+- Insights into regional disparities in domestic gas consumption.
+
+## Links
+
+- *JEKIN – Jurnal Teknik Informatika* 5(1), 212–221.
+
+## Keywords
+
+Hierarchical Clustering · Household Gas Ratio · Energy Analytics · Data Mining

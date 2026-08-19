@@ -1,0 +1,28 @@
+---
+title: "Pattern Recognition"
+---
+
+An introduction to recognizing patterns in data — with a strong emphasis on computer vision and machine-learning approaches used in real recognition systems.
+
+## Topics
+
+1. **Pattern Recognition Fundamentals** — the recognition pipeline and feature extraction.
+2. **Feature Engineering** — descriptors, feature matching, and representation.
+3. **Classical Classifiers** — nearest neighbors, Bayes, and support vector machines.
+4. **Deep Learning for Recognition** — CNNs, transfer learning, and modern architectures.
+5. **Computer Vision Applications** — document analysis, object detection, and image classification.
+6. **Evaluation** — accuracy, precision/recall, and real-world constraints.
+
+## Learning Outcomes
+
+By the end of the course, students will be able to:
+
+- Design a recognition pipeline from raw data to classification.
+- Select and apply feature-based and deep-learning methods appropriately.
+- Evaluate recognition systems with appropriate metrics.
+- Understand the trade-offs between classical and deep approaches.
+
+## Resources
+
+- Research examples: [Automatic election-form counting](../../publications/automatic-counting-election/index.qmd), [Remote sensing scene classification](../../publications/transfer-learning-remote-sensing/index.qmd), and [Malaria detection](../../publications/malaria-detection-cnn/index.qmd).
+- Notebooks and exercises will be added progressively.
