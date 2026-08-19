@@ -1,5 +1,16 @@
 [
   {
+    "listing": "/projects/index.html",
+    "items": [
+      "/projects/iot-fst-dashboard/index.html",
+      "/projects/ml-tutorials/index.html",
+      "/projects/fire-spot/index.html",
+      "/projects/sigap-mobile/index.html",
+      "/projects/trash-binary/index.html",
+      "/projects/automated-fish-counter/index.html"
+    ]
+  },
+  {
     "listing": "/publications/index.html",
     "items": [
       "/publications/malaria-detection-cnn/index.html",
@@ -10,17 +21,6 @@
       "/publications/hierarchical-clustering-gas/index.html",
       "/publications/sarima-lstm-ekspor/index.html",
       "/publications/automatic-counting-election/index.html"
-    ]
-  },
-  {
-    "listing": "/projects/index.html",
-    "items": [
-      "/projects/iot-fst-dashboard/index.html",
-      "/projects/ml-tutorials/index.html",
-      "/projects/fire-spot/index.html",
-      "/projects/sigap-mobile/index.html",
-      "/projects/trash-binary/index.html",
-      "/projects/automated-fish-counter/index.html"
     ]
   }
 ]

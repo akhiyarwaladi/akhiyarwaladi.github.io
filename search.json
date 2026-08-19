@@ -1,129 +1,73 @@
 [
   {
-    "objectID": "teaching/pattern-recognition/index.html",
-    "href": "teaching/pattern-recognition/index.html",
-    "title": "Pattern Recognition",
+    "objectID": "publications/instagram-engagement/index.html",
+    "href": "publications/instagram-engagement/index.html",
+    "title": "Color Complexity and Sharpness for Instagram Engagement",
     "section": "",
-    "text": "An introduction to recognizing patterns in data — with a strong emphasis on computer vision and machine-learning approaches used in real recognition systems."
+    "text": "What makes a social-media post perform well? This study trains machine-learning classifiers on visual features (such as color complexity and sharpness) and temporal features to predict Instagram engagement."
   },
   {
-    "objectID": "teaching/pattern-recognition/index.html#topics",
-    "href": "teaching/pattern-recognition/index.html#topics",
-    "title": "Pattern Recognition",
-    "section": "Topics",
-    "text": "Topics\n\nPattern Recognition Fundamentals — the recognition pipeline and feature extraction.\nFeature Engineering — descriptors, feature matching, and representation.\nClassical Classifiers — nearest neighbors, Bayes, and support vector machines.\nDeep Learning for Recognition — CNNs, transfer learning, and modern architectures.\nComputer Vision Applications — document analysis, object detection, and image classification.\nEvaluation — accuracy, precision/recall, and real-world constraints."
-  },
-  {
-    "objectID": "teaching/pattern-recognition/index.html#learning-outcomes",
-    "href": "teaching/pattern-recognition/index.html#learning-outcomes",
-    "title": "Pattern Recognition",
-    "section": "Learning Outcomes",
-    "text": "Learning Outcomes\nBy the end of the course, students will be able to:\n\nDesign a recognition pipeline from raw data to classification.\nSelect and apply feature-based and deep-learning methods appropriately.\nEvaluate recognition systems with appropriate metrics.\nUnderstand the trade-offs between classical and deep approaches."
-  },
-  {
-    "objectID": "teaching/pattern-recognition/index.html#resources",
-    "href": "teaching/pattern-recognition/index.html#resources",
-    "title": "Pattern Recognition",
-    "section": "Resources",
-    "text": "Resources\n\nResearch examples: Automatic election-form counting, Remote sensing scene classification, and Malaria detection.\nNotebooks and exercises will be added progressively."
-  },
-  {
-    "objectID": "teaching/index.html",
-    "href": "teaching/index.html",
-    "title": "Teaching",
+    "objectID": "publications/instagram-engagement/index.html#summary",
+    "href": "publications/instagram-engagement/index.html#summary",
+    "title": "Color Complexity and Sharpness for Instagram Engagement",
     "section": "",
-    "text": "I teach courses in the Department of Electrical Engineering, Faculty of Science and Technology, Universitas Jambi. My teaching areas sit at the intersection of artificial intelligence, data science, and computational systems, and are informed by both my research and my industry experience as a data scientist."
+    "text": "What makes a social-media post perform well? This study trains machine-learning classifiers on visual features (such as color complexity and sharpness) and temporal features to predict Instagram engagement."
   },
   {
-    "objectID": "teaching/index.html#courses",
-    "href": "teaching/index.html#courses",
-    "title": "Teaching",
-    "section": "Courses",
-    "text": "Courses\n\nArtificial Intelligence\nMachine Learning\nData Mining\nPattern Recognition"
-  },
-  {
-    "objectID": "teaching/index.html#teaching-philosophy",
-    "href": "teaching/index.html#teaching-philosophy",
-    "title": "Teaching",
-    "section": "Teaching Philosophy",
-    "text": "Teaching Philosophy\nI believe students learn best by doing. My courses combine:\n\nClear theory — the mathematical foundations behind algorithms, explained from first principles.\nHands-on practice — executable notebooks and small projects on real, locally relevant datasets.\nIndustry perspective — examples drawn from data-science practice in retail and media, where models must be robust, interpretable, and production-ready."
-  },
-  {
-    "objectID": "teaching/index.html#learning-materials",
-    "href": "teaching/index.html#learning-materials",
-    "title": "Teaching",
-    "section": "Learning Materials",
-    "text": "Learning Materials\nCourse pages will be progressively expanded with modules, slides, notebooks, exercises, and datasets. Check back regularly — or contact me if you would like to collaborate on teaching materials."
-  },
-  {
-    "objectID": "teaching/index.html#supervision",
-    "href": "teaching/index.html#supervision",
-    "title": "Teaching",
-    "section": "Supervision",
-    "text": "Supervision\nI supervise undergraduate student projects and theses (tugas akhir/skripsi) in topics such as:\n\nMachine learning and deep learning applications\nComputer vision and pattern recognition\nIoT systems and embedded intelligence\nTime-series forecasting and predictive systems"
-  },
-  {
-    "objectID": "teaching/artificial-intelligence/index.html",
-    "href": "teaching/artificial-intelligence/index.html",
-    "title": "Artificial Intelligence",
-    "section": "",
-    "text": "An introduction to the theory and practice of artificial intelligence, covering intelligent agents, search, knowledge representation, and machine learning — with emphasis on how AI systems are designed, built, and evaluated."
-  },
-  {
-    "objectID": "teaching/artificial-intelligence/index.html#topics",
-    "href": "teaching/artificial-intelligence/index.html#topics",
-    "title": "Artificial Intelligence",
-    "section": "Topics",
-    "text": "Topics\n\nIntelligent Agents — agent architectures, environments, and rationality.\nProblem Solving & Search — uninformed and informed search, heuristics, and constraint satisfaction.\nKnowledge Representation & Reasoning — logic, rules, and expert systems.\nUncertainty & Probabilistic Reasoning — Bayesian inference and decision making.\nMachine Learning Foundations — supervised and unsupervised learning, model evaluation.\nAI Applications — computer vision, NLP, and intelligent systems in practice."
-  },
-  {
-    "objectID": "teaching/artificial-intelligence/index.html#learning-outcomes",
-    "href": "teaching/artificial-intelligence/index.html#learning-outcomes",
-    "title": "Artificial Intelligence",
-    "section": "Learning Outcomes",
-    "text": "Learning Outcomes\nBy the end of the course, students will be able to:\n\nDescribe the core paradigms of AI and identify which technique suits a given problem.\nImplement search and reasoning algorithms in Python.\nBuild and evaluate basic machine-learning models.\nDiscuss ethical and practical considerations in AI deployment."
-  },
-  {
-    "objectID": "teaching/artificial-intelligence/index.html#resources",
-    "href": "teaching/artificial-intelligence/index.html#resources",
-    "title": "Artificial Intelligence",
-    "section": "Resources",
-    "text": "Resources\n\nSlides, notebooks, and exercises will be posted here as the course progresses.\nRelated reading and datasets can be discussed by contact."
-  },
-  {
-    "objectID": "publications/transfer-learning-remote-sensing/index.html",
-    "href": "publications/transfer-learning-remote-sensing/index.html",
-    "title": "Transfer Learning Architecture Selection for Remote Sensing Scene Classification",
-    "section": "",
-    "text": "Scene classification is a core task in remote sensing. This paper systematically compares transfer-learning architectures — including convolutional neural networks and Vision Transformers — to identify which backbone performs best for classifying remote sensing scenes."
-  },
-  {
-    "objectID": "publications/transfer-learning-remote-sensing/index.html#summary",
-    "href": "publications/transfer-learning-remote-sensing/index.html#summary",
-    "title": "Transfer Learning Architecture Selection for Remote Sensing Scene Classification",
-    "section": "",
-    "text": "Scene classification is a core task in remote sensing. This paper systematically compares transfer-learning architectures — including convolutional neural networks and Vision Transformers — to identify which backbone performs best for classifying remote sensing scenes."
-  },
-  {
-    "objectID": "publications/transfer-learning-remote-sensing/index.html#contribution",
-    "href": "publications/transfer-learning-remote-sensing/index.html#contribution",
-    "title": "Transfer Learning Architecture Selection for Remote Sensing Scene Classification",
+    "objectID": "publications/instagram-engagement/index.html#contribution",
+    "href": "publications/instagram-engagement/index.html#contribution",
+    "title": "Color Complexity and Sharpness for Instagram Engagement",
     "section": "Contribution",
-    "text": "Contribution\n\nBenchmarks multiple transfer-learning architectures on remote sensing scene classification.\nProvides a practical architecture-selection guide for practitioners and researchers working with aerial and satellite imagery."
+    "text": "Contribution\n\nQuantifies how color complexity and image sharpness relate to engagement.\nDemonstrates a reproducible machine-learning classification pipeline for social media analytics."
   },
   {
-    "objectID": "publications/transfer-learning-remote-sensing/index.html#links",
-    "href": "publications/transfer-learning-remote-sensing/index.html#links",
-    "title": "Transfer Learning Architecture Selection for Remote Sensing Scene Classification",
+    "objectID": "publications/instagram-engagement/index.html#links",
+    "href": "publications/instagram-engagement/index.html#links",
+    "title": "Color Complexity and Sharpness for Instagram Engagement",
     "section": "Links",
-    "text": "Links\n\nDOI\nPublisher page"
+    "text": "Links\n\nDOI"
   },
   {
-    "objectID": "publications/transfer-learning-remote-sensing/index.html#keywords",
-    "href": "publications/transfer-learning-remote-sensing/index.html#keywords",
-    "title": "Transfer Learning Architecture Selection for Remote Sensing Scene Classification",
+    "objectID": "publications/instagram-engagement/index.html#keywords",
+    "href": "publications/instagram-engagement/index.html#keywords",
+    "title": "Color Complexity and Sharpness for Instagram Engagement",
     "section": "Keywords",
-    "text": "Keywords\nRemote Sensing · Scene Classification · Transfer Learning · Vision Transformer · Benchmark Comparison"
+    "text": "Keywords\nInstagram Engagement · Visual Features · Temporal Features · Machine Learning Classification · Social Media Analytics"
+  },
+  {
+    "objectID": "publications/hierarchical-clustering-gas/index.html",
+    "href": "publications/hierarchical-clustering-gas/index.html",
+    "title": "Pengelompokan Provinsi di Indonesia Berdasarkan Rasio Penggunaan Gas Rumah Tangga pada Tahun 2023 Menggunakan Hierarchical Clustering",
+    "section": "",
+    "text": "Household gas usage varies widely across Indonesian provinces. This study applies hierarchical clustering to group provinces based on their household gas usage ratios in 2023, revealing regional consumption patterns useful for energy policy."
+  },
+  {
+    "objectID": "publications/hierarchical-clustering-gas/index.html#summary",
+    "href": "publications/hierarchical-clustering-gas/index.html#summary",
+    "title": "Pengelompokan Provinsi di Indonesia Berdasarkan Rasio Penggunaan Gas Rumah Tangga pada Tahun 2023 Menggunakan Hierarchical Clustering",
+    "section": "",
+    "text": "Household gas usage varies widely across Indonesian provinces. This study applies hierarchical clustering to group provinces based on their household gas usage ratios in 2023, revealing regional consumption patterns useful for energy policy."
+  },
+  {
+    "objectID": "publications/hierarchical-clustering-gas/index.html#contribution",
+    "href": "publications/hierarchical-clustering-gas/index.html#contribution",
+    "title": "Pengelompokan Provinsi di Indonesia Berdasarkan Rasio Penggunaan Gas Rumah Tangga pada Tahun 2023 Menggunakan Hierarchical Clustering",
+    "section": "Contribution",
+    "text": "Contribution\n\nHierarchical clustering analysis of household energy data at provincial scale.\nInsights into regional disparities in domestic gas consumption."
+  },
+  {
+    "objectID": "publications/hierarchical-clustering-gas/index.html#links",
+    "href": "publications/hierarchical-clustering-gas/index.html#links",
+    "title": "Pengelompokan Provinsi di Indonesia Berdasarkan Rasio Penggunaan Gas Rumah Tangga pada Tahun 2023 Menggunakan Hierarchical Clustering",
+    "section": "Links",
+    "text": "Links\n\nJEKIN – Jurnal Teknik Informatika 5(1), 212–221."
+  },
+  {
+    "objectID": "publications/hierarchical-clustering-gas/index.html#keywords",
+    "href": "publications/hierarchical-clustering-gas/index.html#keywords",
+    "title": "Pengelompokan Provinsi di Indonesia Berdasarkan Rasio Penggunaan Gas Rumah Tangga pada Tahun 2023 Menggunakan Hierarchical Clustering",
+    "section": "Keywords",
+    "text": "Keywords\nHierarchical Clustering · Household Gas Ratio · Energy Analytics · Data Mining"
   },
   {
     "objectID": "publications/malaria-detection-cnn/index.html",
@@ -161,53 +105,32 @@
     "text": "Keywords\nMalaria Detection · Deep Learning · YOLO · Class Imbalance · Medical Imaging · Plasmodium Species · Lifecycle Stages"
   },
   {
-    "objectID": "publications/kmeans-customer-segmentation/index.html",
-    "href": "publications/kmeans-customer-segmentation/index.html",
-    "title": "Application of K-means Clustering Algorithm on Customer Segmentation for Effective Marketing Strategy",
+    "objectID": "publications/sarima-lstm-ekspor/index.html",
+    "href": "publications/sarima-lstm-ekspor/index.html",
+    "title": "Prediksi Nilai Ekspor Migas Indonesia Menggunakan Metode SARIMA dan LSTM",
     "section": "",
-    "text": "Understanding customer groups is essential for effective marketing. This paper applies the K-means clustering algorithm to segment customers and derive profiles that support targeted, data-driven marketing strategies."
+    "text": "Accurate forecasts of oil and gas export values help economic planning. This study compares two forecasting approaches — the classical SARIMA model and the deep-learning LSTM network — for predicting Indonesian oil & gas export values."
   },
   {
-    "objectID": "publications/kmeans-customer-segmentation/index.html#summary",
-    "href": "publications/kmeans-customer-segmentation/index.html#summary",
-    "title": "Application of K-means Clustering Algorithm on Customer Segmentation for Effective Marketing Strategy",
+    "objectID": "publications/sarima-lstm-ekspor/index.html#summary",
+    "href": "publications/sarima-lstm-ekspor/index.html#summary",
+    "title": "Prediksi Nilai Ekspor Migas Indonesia Menggunakan Metode SARIMA dan LSTM",
     "section": "",
-    "text": "Understanding customer groups is essential for effective marketing. This paper applies the K-means clustering algorithm to segment customers and derive profiles that support targeted, data-driven marketing strategies."
+    "text": "Accurate forecasts of oil and gas export values help economic planning. This study compares two forecasting approaches — the classical SARIMA model and the deep-learning LSTM network — for predicting Indonesian oil & gas export values."
   },
   {
-    "objectID": "publications/kmeans-customer-segmentation/index.html#contribution",
-    "href": "publications/kmeans-customer-segmentation/index.html#contribution",
-    "title": "Application of K-means Clustering Algorithm on Customer Segmentation for Effective Marketing Strategy",
+    "objectID": "publications/sarima-lstm-ekspor/index.html#contribution",
+    "href": "publications/sarima-lstm-ekspor/index.html#contribution",
+    "title": "Prediksi Nilai Ekspor Migas Indonesia Menggunakan Metode SARIMA dan LSTM",
     "section": "Contribution",
-    "text": "Contribution\n\nEnd-to-end customer segmentation workflow with K-means.\nTranslates clustering results into actionable marketing strategy.\nBuilds on industry experience applying segmentation at a retail loyalty platform."
+    "text": "Contribution\n\nSystematic comparison of SARIMA vs LSTM on macroeconomic time series.\nPractical guidance on when classical vs deep-learning forecasting is preferable.\nPublished in SATESI: Jurnal Sains Teknologi dan Sistem Informasi 5(1), 69–79."
   },
   {
-    "objectID": "publications/kmeans-customer-segmentation/index.html#links",
-    "href": "publications/kmeans-customer-segmentation/index.html#links",
-    "title": "Application of K-means Clustering Algorithm on Customer Segmentation for Effective Marketing Strategy",
-    "section": "Links",
-    "text": "Links\n\nMedia Journal of Information System and Informatic 1(2), 16–25."
-  },
-  {
-    "objectID": "publications/kmeans-customer-segmentation/index.html#keywords",
-    "href": "publications/kmeans-customer-segmentation/index.html#keywords",
-    "title": "Application of K-means Clustering Algorithm on Customer Segmentation for Effective Marketing Strategy",
+    "objectID": "publications/sarima-lstm-ekspor/index.html#keywords",
+    "href": "publications/sarima-lstm-ekspor/index.html#keywords",
+    "title": "Prediksi Nilai Ekspor Migas Indonesia Menggunakan Metode SARIMA dan LSTM",
     "section": "Keywords",
-    "text": "Keywords\nK-means · Customer Segmentation · Marketing Strategy · Data Mining · Clustering"
-  },
-  {
-    "objectID": "publications/index.html",
-    "href": "publications/index.html",
-    "title": "Publications",
-    "section": "",
-    "text": "My publication record is tracked on SINTA and Google Scholar. Below is the full list of journal and conference outputs."
-  },
-  {
-    "objectID": "publications/index.html#complete-publication-list",
-    "href": "publications/index.html#complete-publication-list",
-    "title": "Publications",
-    "section": "Complete Publication List",
-    "text": "Complete Publication List\n\n2026\n\nPemberdayaan Siswa SMK melalui Pelatihan IoT untuk Sistem Monitoring Tanaman dalam Mendukung Smart Farming. U. Khaira, E. Saputra, A. Waladi, Y. Perdana, N.R. Hanum, H. Iftitah, R. Ashar, et al. Jurnal Masyarakat Madani Indonesia 5(1), 434–445.\nTransfer Learning Architecture Selection for Remote Sensing Scene Classification. A. Waladi, H. Iftitah. Jurnal Riset Informatika 8(3). DOI: 10.34288/jri.v8i3.515\nMulti-Architecture CNN Analysis for Automated Malaria Detection. A. Waladi, N.R. Hanum, Y. Perdana, H. Iftitah, F. Wahyuni, R. Ashar. PROCA 2(2). DOI: 10.22437/proca.v2i2.55514\nColor Complexity and Sharpness for Instagram Engagement. A. Waladi, J. Marzal, M. Razi A., M. Yudistira, H. Iftitah, H. Alghifari. PROCA 2(2). DOI: 10.22437/proca.v2i2.55582\n\n\n\n2025\n\nPengelompokan Provinsi di Indonesia Berdasarkan Rasio Penggunaan Gas Rumah Tangga pada Tahun 2023 Menggunakan Hierarchical Clustering. A.A. Nasution, P.E.P. Utomo, U. Khaira, A. Waladi. JEKIN – Jurnal Teknik Informatika 5(1), 212–221.\nImplementation of Machine Learning for Stock Price Prediction Using the LSTM Algorithm. N.R.H. Nindy, H. Iftitah, A. Waladi, Y. Perdana. Media Journal of Information System and Informatic 1(2).\nPrediksi Nilai Ekspor Migas Indonesia Menggunakan Metode SARIMA dan LSTM. H. Kuswanto, P.E.P. Utomo, U. Khaira, A. Waladi. SATESI: Jurnal Sains Teknologi dan Sistem Informasi 5(1), 69–79.\nSosialisasi Pemanfaatan Artificial Intelligence untuk Edukasi pada Siswa-Siswi MTs Negeri 3 Kota Jambi. N.R.H. Nindy, A. Waladi, H. Iftitah, Y. Perdana, R. Ashar. Jurnal Pengabdian Dosen Indonesia 2(1), 35–44.\nAnalisis Prediktif Tren Pendidikan di Indonesia Menggunakan KNN (Studi Kasus Data Pendidikan 2021–2023). M.B. Nasution, A. Waladi, U. Khaira, P.E.P. Utomo. Education Library 1(2), 62–73.\nApplication of K-means Clustering Algorithm on Customer Segmentation for Effective Marketing Strategy. A. Waladi, R. Rizaldi, M.A.H. Sutoyo. Media Journal of Information System and Informatic 1(2), 16–25.\nComparative Analysis of Triangulation Methods for Optimal Solutions to the Art Gallery Problem. J. Marzal, N. Rarasati, A. Waladi, Y. Perdana. PIKSEL: Penelitian Ilmu Komputer Sistem Embedded and Logic 13(1), 173–182.\nPelatihan Sistem Informasi Keuangan Pengelolaan Data Pengeluaran pada Pondok Pesantren Darul Arifin Jambi. A. Waladi, H. Iftitah, N.R. Hanum, Y. Perdana, R. Ashar. Jurnal Pengabdian Dosen Indonesia 2(2), 37–46.\nHotspot Clustering in Bangka Belitung Islands Province Using Agglomerative Hierarchical Clustering Algorithm. A. Setiawan, A. Waladi, R. Ashar. Media Journal of Information System and Informatic 1(2), 26–35.\nPeningkatan Akurasi Klasifikasi Tutupan Lahan Menggunakan Random Forest pada Data Sentinel-2 di Jambi. A. Waladi, et al. Jurnal Ilmu Komputer (Fasilkom UMRI). PDF\n\n\n\n2019\n\nAutomatic Counting Based on Scanned Election Form Using Feature Match and Convolutional Neural Network. A. Waladi, et al. 2019 International Conference on Advanced Computer Science and Information Systems (ICACSIS). (Scopus-indexed)"
+    "text": "Keywords\nSARIMA · LSTM · Time-Series Forecasting · Export Prediction · Machine Learning"
   },
   {
     "objectID": "publications/automatic-counting-election/index.html",
@@ -245,44 +168,170 @@
     "text": "Keywords\nVote Counting · Feature Matching · Convolutional Neural Network · Document Analysis · Pattern Recognition"
   },
   {
-    "objectID": "projects/sigap-mobile/index.html",
-    "href": "projects/sigap-mobile/index.html",
-    "title": "Sigap Mobile",
+    "objectID": "teaching/data-mining/index.html",
+    "href": "teaching/data-mining/index.html",
+    "title": "Data Mining",
     "section": "",
-    "text": "Rapid response services need efficient mobile tools to coordinate and deliver timely assistance. This project develops a mobile application to support those workflows."
+    "text": "An introduction to discovering useful patterns and knowledge from large datasets. The course covers the data-mining process, classification, clustering, association rules, and their application to real-world data."
   },
   {
-    "objectID": "projects/sigap-mobile/index.html#what-problem-is-being-solved",
-    "href": "projects/sigap-mobile/index.html#what-problem-is-being-solved",
-    "title": "Sigap Mobile",
-    "section": "",
-    "text": "Rapid response services need efficient mobile tools to coordinate and deliver timely assistance. This project develops a mobile application to support those workflows."
+    "objectID": "teaching/data-mining/index.html#topics",
+    "href": "teaching/data-mining/index.html#topics",
+    "title": "Data Mining",
+    "section": "Topics",
+    "text": "Topics\n\nData Mining Overview — the KDD process and data preprocessing.\nClassification — decision trees, Naive Bayes, KNN, and ensemble methods.\nClustering — partitional (K-means) and hierarchical (agglomerative) methods.\nAssociation Rules — frequent itemsets and Apriori.\nEvaluation & Interpretation — measuring and interpreting mining results.\nApplications — segmentation, anomaly detection, and market analysis."
   },
   {
-    "objectID": "projects/sigap-mobile/index.html#how-it-works",
-    "href": "projects/sigap-mobile/index.html#how-it-works",
-    "title": "Sigap Mobile",
+    "objectID": "teaching/data-mining/index.html#learning-outcomes",
+    "href": "teaching/data-mining/index.html#learning-outcomes",
+    "title": "Data Mining",
+    "section": "Learning Outcomes",
+    "text": "Learning Outcomes\nBy the end of the course, students will be able to:\n\nApply the end-to-end data-mining process to a dataset.\nChoose appropriate algorithms for classification, clustering, and association tasks.\nInterpret and communicate discovered patterns.\nAppreciate the ethical and privacy considerations of data mining."
+  },
+  {
+    "objectID": "teaching/data-mining/index.html#resources",
+    "href": "teaching/data-mining/index.html#resources",
+    "title": "Data Mining",
+    "section": "Resources",
+    "text": "Resources\n\nExample studies from my research, including K-means customer segmentation and hotspot clustering.\nAdditional materials will be posted here progressively."
+  },
+  {
+    "objectID": "teaching/artificial-intelligence/index.html",
+    "href": "teaching/artificial-intelligence/index.html",
+    "title": "Artificial Intelligence",
+    "section": "",
+    "text": "An introduction to the theory and practice of artificial intelligence, covering intelligent agents, search, knowledge representation, and machine learning — with emphasis on how AI systems are designed, built, and evaluated."
+  },
+  {
+    "objectID": "teaching/artificial-intelligence/index.html#topics",
+    "href": "teaching/artificial-intelligence/index.html#topics",
+    "title": "Artificial Intelligence",
+    "section": "Topics",
+    "text": "Topics\n\nIntelligent Agents — agent architectures, environments, and rationality.\nProblem Solving & Search — uninformed and informed search, heuristics, and constraint satisfaction.\nKnowledge Representation & Reasoning — logic, rules, and expert systems.\nUncertainty & Probabilistic Reasoning — Bayesian inference and decision making.\nMachine Learning Foundations — supervised and unsupervised learning, model evaluation.\nAI Applications — computer vision, NLP, and intelligent systems in practice."
+  },
+  {
+    "objectID": "teaching/artificial-intelligence/index.html#learning-outcomes",
+    "href": "teaching/artificial-intelligence/index.html#learning-outcomes",
+    "title": "Artificial Intelligence",
+    "section": "Learning Outcomes",
+    "text": "Learning Outcomes\nBy the end of the course, students will be able to:\n\nDescribe the core paradigms of AI and identify which technique suits a given problem.\nImplement search and reasoning algorithms in Python.\nBuild and evaluate basic machine-learning models.\nDiscuss ethical and practical considerations in AI deployment."
+  },
+  {
+    "objectID": "teaching/artificial-intelligence/index.html#resources",
+    "href": "teaching/artificial-intelligence/index.html#resources",
+    "title": "Artificial Intelligence",
+    "section": "Resources",
+    "text": "Resources\n\nSlides, notebooks, and exercises will be posted here as the course progresses.\nRelated reading and datasets can be discussed by contact."
+  },
+  {
+    "objectID": "teaching/pattern-recognition/index.html",
+    "href": "teaching/pattern-recognition/index.html",
+    "title": "Pattern Recognition",
+    "section": "",
+    "text": "An introduction to recognizing patterns in data — with a strong emphasis on computer vision and machine-learning approaches used in real recognition systems."
+  },
+  {
+    "objectID": "teaching/pattern-recognition/index.html#topics",
+    "href": "teaching/pattern-recognition/index.html#topics",
+    "title": "Pattern Recognition",
+    "section": "Topics",
+    "text": "Topics\n\nPattern Recognition Fundamentals — the recognition pipeline and feature extraction.\nFeature Engineering — descriptors, feature matching, and representation.\nClassical Classifiers — nearest neighbors, Bayes, and support vector machines.\nDeep Learning for Recognition — CNNs, transfer learning, and modern architectures.\nComputer Vision Applications — document analysis, object detection, and image classification.\nEvaluation — accuracy, precision/recall, and real-world constraints."
+  },
+  {
+    "objectID": "teaching/pattern-recognition/index.html#learning-outcomes",
+    "href": "teaching/pattern-recognition/index.html#learning-outcomes",
+    "title": "Pattern Recognition",
+    "section": "Learning Outcomes",
+    "text": "Learning Outcomes\nBy the end of the course, students will be able to:\n\nDesign a recognition pipeline from raw data to classification.\nSelect and apply feature-based and deep-learning methods appropriately.\nEvaluate recognition systems with appropriate metrics.\nUnderstand the trade-offs between classical and deep approaches."
+  },
+  {
+    "objectID": "teaching/pattern-recognition/index.html#resources",
+    "href": "teaching/pattern-recognition/index.html#resources",
+    "title": "Pattern Recognition",
+    "section": "Resources",
+    "text": "Resources\n\nResearch examples: Automatic election-form counting, Remote sensing scene classification, and Malaria detection.\nNotebooks and exercises will be added progressively."
+  },
+  {
+    "objectID": "projects/fire-spot/index.html",
+    "href": "projects/fire-spot/index.html",
+    "title": "Fire Spot",
+    "section": "",
+    "text": "Forest and land fires are a recurring environmental challenge in Indonesia. Understanding where hotspots cluster helps authorities prioritize fire prevention and response."
+  },
+  {
+    "objectID": "projects/fire-spot/index.html#what-problem-is-being-solved",
+    "href": "projects/fire-spot/index.html#what-problem-is-being-solved",
+    "title": "Fire Spot",
+    "section": "",
+    "text": "Forest and land fires are a recurring environmental challenge in Indonesia. Understanding where hotspots cluster helps authorities prioritize fire prevention and response."
+  },
+  {
+    "objectID": "projects/fire-spot/index.html#how-it-works",
+    "href": "projects/fire-spot/index.html#how-it-works",
+    "title": "Fire Spot",
     "section": "How It Works",
-    "text": "How It Works\nAn Android mobile application designed to streamline communication and coordination for rapid response operations."
+    "text": "How It Works\nThis project applies the agglomerative hierarchical clustering algorithm to satellite-derived hotspot data for Bangka Belitung Islands Province, revealing spatial clusters of fire activity."
   },
   {
-    "objectID": "projects/sigap-mobile/index.html#my-role",
-    "href": "projects/sigap-mobile/index.html#my-role",
-    "title": "Sigap Mobile",
+    "objectID": "projects/fire-spot/index.html#my-role",
+    "href": "projects/fire-spot/index.html#my-role",
+    "title": "Fire Spot",
     "section": "My Role",
-    "text": "My Role\nDeveloper contributing to the mobile application."
+    "text": "My Role\nResearcher and developer of the clustering analysis."
   },
   {
-    "objectID": "projects/sigap-mobile/index.html#what-was-produced",
-    "href": "projects/sigap-mobile/index.html#what-was-produced",
-    "title": "Sigap Mobile",
+    "objectID": "projects/fire-spot/index.html#what-was-produced",
+    "href": "projects/fire-spot/index.html#what-was-produced",
+    "title": "Fire Spot",
     "section": "What Was Produced",
-    "text": "What Was Produced\nA mobile application source codebase."
+    "text": "What Was Produced\nClustering analysis code and results, which also informed a journal publication."
   },
   {
-    "objectID": "projects/sigap-mobile/index.html#links",
-    "href": "projects/sigap-mobile/index.html#links",
-    "title": "Sigap Mobile",
+    "objectID": "projects/fire-spot/index.html#links",
+    "href": "projects/fire-spot/index.html#links",
+    "title": "Fire Spot",
+    "section": "Links",
+    "text": "Links\n\nGitHub repository"
+  },
+  {
+    "objectID": "projects/trash-binary/index.html",
+    "href": "projects/trash-binary/index.html",
+    "title": "Trash Binary",
+    "section": "",
+    "text": "Waste sorting is essential for recycling but is often done manually. This project explores automated trash classification from images."
+  },
+  {
+    "objectID": "projects/trash-binary/index.html#what-problem-is-being-solved",
+    "href": "projects/trash-binary/index.html#what-problem-is-being-solved",
+    "title": "Trash Binary",
+    "section": "",
+    "text": "Waste sorting is essential for recycling but is often done manually. This project explores automated trash classification from images."
+  },
+  {
+    "objectID": "projects/trash-binary/index.html#how-it-works",
+    "href": "projects/trash-binary/index.html#how-it-works",
+    "title": "Trash Binary",
+    "section": "How It Works",
+    "text": "How It Works\nA binary image classification project using deep learning to distinguish trash categories from photographs."
+  },
+  {
+    "objectID": "projects/trash-binary/index.html#my-role",
+    "href": "projects/trash-binary/index.html#my-role",
+    "title": "Trash Binary",
+    "section": "My Role",
+    "text": "My Role\nResearcher and developer of the classification model."
+  },
+  {
+    "objectID": "projects/trash-binary/index.html#what-was-produced",
+    "href": "projects/trash-binary/index.html#what-was-produced",
+    "title": "Trash Binary",
+    "section": "What Was Produced",
+    "text": "What Was Produced\nClassification model code and experiments."
+  },
+  {
+    "objectID": "projects/trash-binary/index.html#links",
+    "href": "projects/trash-binary/index.html#links",
+    "title": "Trash Binary",
     "section": "Links",
     "text": "Links\n\nGitHub repository"
   },
@@ -329,48 +378,6 @@
     "text": "Links\n\nGitHub repository"
   },
   {
-    "objectID": "projects/fire-spot/index.html",
-    "href": "projects/fire-spot/index.html",
-    "title": "Fire Spot",
-    "section": "",
-    "text": "Forest and land fires are a recurring environmental challenge in Indonesia. Understanding where hotspots cluster helps authorities prioritize fire prevention and response."
-  },
-  {
-    "objectID": "projects/fire-spot/index.html#what-problem-is-being-solved",
-    "href": "projects/fire-spot/index.html#what-problem-is-being-solved",
-    "title": "Fire Spot",
-    "section": "",
-    "text": "Forest and land fires are a recurring environmental challenge in Indonesia. Understanding where hotspots cluster helps authorities prioritize fire prevention and response."
-  },
-  {
-    "objectID": "projects/fire-spot/index.html#how-it-works",
-    "href": "projects/fire-spot/index.html#how-it-works",
-    "title": "Fire Spot",
-    "section": "How It Works",
-    "text": "How It Works\nThis project applies the agglomerative hierarchical clustering algorithm to satellite-derived hotspot data for Bangka Belitung Islands Province, revealing spatial clusters of fire activity."
-  },
-  {
-    "objectID": "projects/fire-spot/index.html#my-role",
-    "href": "projects/fire-spot/index.html#my-role",
-    "title": "Fire Spot",
-    "section": "My Role",
-    "text": "My Role\nResearcher and developer of the clustering analysis."
-  },
-  {
-    "objectID": "projects/fire-spot/index.html#what-was-produced",
-    "href": "projects/fire-spot/index.html#what-was-produced",
-    "title": "Fire Spot",
-    "section": "What Was Produced",
-    "text": "What Was Produced\nClustering analysis code and results, which also informed a journal publication."
-  },
-  {
-    "objectID": "projects/fire-spot/index.html#links",
-    "href": "projects/fire-spot/index.html#links",
-    "title": "Fire Spot",
-    "section": "Links",
-    "text": "Links\n\nGitHub repository"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Akhiyar Waladi",
@@ -411,48 +418,6 @@
     "title": "Akhiyar Waladi",
     "section": "Get in Touch",
     "text": "Get in Touch\nI am always happy to discuss research collaborations, teaching materials, and machine-learning applications.\n\nEmail: akhiyarwaladi@gmail.com · akhiyar.waladi@unja.ac.id\nGitHub: github.com/akhiyarwaladi\nLinkedIn: linkedin.com/in/akhiyar-waladi"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "I am happy to discuss research collaborations, student supervision, teaching materials, and machine-learning projects. Please reach me through any of the channels below."
-  },
-  {
-    "objectID": "contact.html#email",
-    "href": "contact.html#email",
-    "title": "Contact",
-    "section": "Email",
-    "text": "Email\n\nPersonal: akhiyarwaladi@gmail.com\nInstitutional: akhiyar.waladi@unja.ac.id"
-  },
-  {
-    "objectID": "contact.html#affiliation",
-    "href": "contact.html#affiliation",
-    "title": "Contact",
-    "section": "Affiliation",
-    "text": "Affiliation\nUniversitas Jambi Faculty of Science and Technology (FST) Department of Electrical Engineering Kampus Pinang Masak, Jl. Jambi – Muara Bulian KM 15, Muaro Jambi, Jambi, Indonesia"
-  },
-  {
-    "objectID": "contact.html#profiles",
-    "href": "contact.html#profiles",
-    "title": "Contact",
-    "section": "Profiles",
-    "text": "Profiles\n\nGitHub — github.com/akhiyarwaladi\nLinkedIn — linkedin.com/in/akhiyar-waladi\nSINTA — sinta.kemdiktisaintek.go.id/authors/profile/6931115\nGoogle Scholar — profile via SINTA\nInstitutional researcher profile — riset.unja.ac.id\nElectrical Engineering Department — teknik-elektro.fst.unja.ac.id"
-  },
-  {
-    "objectID": "contact.html#identifiers",
-    "href": "contact.html#identifiers",
-    "title": "Contact",
-    "section": "Identifiers",
-    "text": "Identifiers\n\nNIDN: 1995072301\nSINTA ID: 6931115"
-  },
-  {
-    "objectID": "contact.html#availability",
-    "href": "contact.html#availability",
-    "title": "Contact",
-    "section": "Availability",
-    "text": "Availability\nI typically respond to email within a few working days. For student supervision or collaboration inquiries, please include a brief description of your project and timeline."
   },
   {
     "objectID": "about.html",
@@ -567,53 +532,46 @@
     "text": "Professional Service\n\nCommunity-service (pengabdian) training for SMK students (IoT/smart farming, 2026), MTs students (AI literacy, 2025), and Pondok Pesantren Darul Arifin (financial information systems, 2025).\n\nThis page is a web version of my CV. A downloadable PDF can be added on request — please contact me."
   },
   {
-    "objectID": "projects/automated-fish-counter/index.html",
-    "href": "projects/automated-fish-counter/index.html",
-    "title": "Automated Fish Counter",
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
     "section": "",
-    "text": "Indonesia has enormous tuna potential in the Indian Ocean, yet fish data is scarce because fishermen record catches manually. This project automates fish counting and sorting, capturing data for every catch."
+    "text": "I am happy to discuss research collaborations, student supervision, teaching materials, and machine-learning projects. Please reach me through any of the channels below."
   },
   {
-    "objectID": "projects/automated-fish-counter/index.html#what-problem-is-being-solved",
-    "href": "projects/automated-fish-counter/index.html#what-problem-is-being-solved",
-    "title": "Automated Fish Counter",
-    "section": "",
-    "text": "Indonesia has enormous tuna potential in the Indian Ocean, yet fish data is scarce because fishermen record catches manually. This project automates fish counting and sorting, capturing data for every catch."
+    "objectID": "contact.html#email",
+    "href": "contact.html#email",
+    "title": "Contact",
+    "section": "Email",
+    "text": "Email\n\nPersonal: akhiyarwaladi@gmail.com\nInstitutional: akhiyar.waladi@unja.ac.id"
   },
   {
-    "objectID": "projects/automated-fish-counter/index.html#how-it-works",
-    "href": "projects/automated-fish-counter/index.html#how-it-works",
-    "title": "Automated Fish Counter",
-    "section": "How It Works",
-    "text": "How It Works\nAn embedded system built with Intel Galileo, a stepper motor, servo, ultrasonic sensor, and a simple conveyor model measures each fish’s length and thickness, counts it, sorts fish by length, and sends the captured data to an Android device."
+    "objectID": "contact.html#affiliation",
+    "href": "contact.html#affiliation",
+    "title": "Contact",
+    "section": "Affiliation",
+    "text": "Affiliation\nUniversitas Jambi Faculty of Science and Technology (FST) Department of Electrical Engineering Kampus Pinang Masak, Jl. Jambi – Muara Bulian KM 15, Muaro Jambi, Jambi, Indonesia"
   },
   {
-    "objectID": "projects/automated-fish-counter/index.html#my-role",
-    "href": "projects/automated-fish-counter/index.html#my-role",
-    "title": "Automated Fish Counter",
-    "section": "My Role",
-    "text": "My Role\nCo-developer of the embedded system and the Android integration, built during a 24-hour hackathon."
+    "objectID": "contact.html#profiles",
+    "href": "contact.html#profiles",
+    "title": "Contact",
+    "section": "Profiles",
+    "text": "Profiles\n\nGitHub — github.com/akhiyarwaladi\nLinkedIn — linkedin.com/in/akhiyar-waladi\nSINTA — sinta.kemdiktisaintek.go.id/authors/profile/6931115\nGoogle Scholar — profile via SINTA\nInstitutional researcher profile — riset.unja.ac.id\nElectrical Engineering Department — teknik-elektro.fst.unja.ac.id"
   },
   {
-    "objectID": "projects/automated-fish-counter/index.html#what-was-produced",
-    "href": "projects/automated-fish-counter/index.html#what-was-produced",
-    "title": "Automated Fish Counter",
-    "section": "What Was Produced",
-    "text": "What Was Produced\nA working prototype integrating microcontroller data with an Android device, demonstrated on Devpost."
+    "objectID": "contact.html#identifiers",
+    "href": "contact.html#identifiers",
+    "title": "Contact",
+    "section": "Identifiers",
+    "text": "Identifiers\n\nNIDN: 1995072301\nSINTA ID: 6931115"
   },
   {
-    "objectID": "projects/automated-fish-counter/index.html#links",
-    "href": "projects/automated-fish-counter/index.html#links",
-    "title": "Automated Fish Counter",
-    "section": "Links",
-    "text": "Links\n\nGitHub repository\nDevpost project"
-  },
-  {
-    "objectID": "projects/index.html",
-    "href": "projects/index.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Selected projects from research, teaching, and engineering. Source code is available on GitHub.\n\n\n\n\n\n\n\n\n\n\n\nIoT FST Dashboard\n\n\n\nIoT\n\nWeb Development\n\nDashboard\n\nLaravel\n\n\n\nWeb dashboard for monitoring IoT sensor data within the Faculty of Science and Technology.\n\n\n\nMar 9, 2026\n\n\n\n\n\n\n\n\n\n\nML Tutorials\n\n\n\nMachine Learning\n\nTeaching\n\nJupyter Notebooks\n\n\n\nA growing collection of machine-learning teaching notebooks covering fundamentals through applied examples.\n\n\n\nMar 1, 2026\n\n\n\n\n\n\n\n\n\n\nFire Spot\n\n\n\nData Mining\n\nClustering\n\nEnvironmental Analytics\n\n\n\nHotspot clustering analysis for Bangka Belitung Islands Province using agglomerative hierarchical clustering.\n\n\n\nOct 9, 2025\n\n\n\n\n\n\n\n\n\n\nSigap Mobile\n\n\n\nMobile Development\n\nAndroid\n\n\n\nMobile application project supporting rapid response services.\n\n\n\nJan 1, 2020\n\n\n\n\n\n\n\n\n\n\nTrash Binary\n\n\n\nDeep Learning\n\nComputer Vision\n\nImage Classification\n\n\n\nBinary image classification project for trash sorting.\n\n\n\nJan 1, 2019\n\n\n\n\n\n\n\n\n\n\nAutomated Fish Counter\n\n\n\nEmbedded Systems\n\nIoT\n\nComputer Vision\n\nAndroid\n\n\n\nEmbedded system with ultrasonic sensing and an Android companion app for automated fish measurement, counting, and sorting.\n\n\n\nApr 23, 2016\n\n\n\n\n\n\nNo matching items\n Back to top"
+    "objectID": "contact.html#availability",
+    "href": "contact.html#availability",
+    "title": "Contact",
+    "section": "Availability",
+    "text": "Availability\nI typically respond to email within a few working days. For student supervision or collaboration inquiries, please include a brief description of your project and timeline."
   },
   {
     "objectID": "projects/ml-tutorials/index.html",
@@ -658,116 +616,256 @@
     "text": "Links\n\nGitHub repository"
   },
   {
-    "objectID": "projects/trash-binary/index.html",
-    "href": "projects/trash-binary/index.html",
-    "title": "Trash Binary",
+    "objectID": "projects/sigap-mobile/index.html",
+    "href": "projects/sigap-mobile/index.html",
+    "title": "Sigap Mobile",
     "section": "",
-    "text": "Waste sorting is essential for recycling but is often done manually. This project explores automated trash classification from images."
+    "text": "Rapid response services need efficient mobile tools to coordinate and deliver timely assistance. This project develops a mobile application to support those workflows."
   },
   {
-    "objectID": "projects/trash-binary/index.html#what-problem-is-being-solved",
-    "href": "projects/trash-binary/index.html#what-problem-is-being-solved",
-    "title": "Trash Binary",
+    "objectID": "projects/sigap-mobile/index.html#what-problem-is-being-solved",
+    "href": "projects/sigap-mobile/index.html#what-problem-is-being-solved",
+    "title": "Sigap Mobile",
     "section": "",
-    "text": "Waste sorting is essential for recycling but is often done manually. This project explores automated trash classification from images."
+    "text": "Rapid response services need efficient mobile tools to coordinate and deliver timely assistance. This project develops a mobile application to support those workflows."
   },
   {
-    "objectID": "projects/trash-binary/index.html#how-it-works",
-    "href": "projects/trash-binary/index.html#how-it-works",
-    "title": "Trash Binary",
+    "objectID": "projects/sigap-mobile/index.html#how-it-works",
+    "href": "projects/sigap-mobile/index.html#how-it-works",
+    "title": "Sigap Mobile",
     "section": "How It Works",
-    "text": "How It Works\nA binary image classification project using deep learning to distinguish trash categories from photographs."
+    "text": "How It Works\nAn Android mobile application designed to streamline communication and coordination for rapid response operations."
   },
   {
-    "objectID": "projects/trash-binary/index.html#my-role",
-    "href": "projects/trash-binary/index.html#my-role",
-    "title": "Trash Binary",
+    "objectID": "projects/sigap-mobile/index.html#my-role",
+    "href": "projects/sigap-mobile/index.html#my-role",
+    "title": "Sigap Mobile",
     "section": "My Role",
-    "text": "My Role\nResearcher and developer of the classification model."
+    "text": "My Role\nDeveloper contributing to the mobile application."
   },
   {
-    "objectID": "projects/trash-binary/index.html#what-was-produced",
-    "href": "projects/trash-binary/index.html#what-was-produced",
-    "title": "Trash Binary",
+    "objectID": "projects/sigap-mobile/index.html#what-was-produced",
+    "href": "projects/sigap-mobile/index.html#what-was-produced",
+    "title": "Sigap Mobile",
     "section": "What Was Produced",
-    "text": "What Was Produced\nClassification model code and experiments."
+    "text": "What Was Produced\nA mobile application source codebase."
   },
   {
-    "objectID": "projects/trash-binary/index.html#links",
-    "href": "projects/trash-binary/index.html#links",
-    "title": "Trash Binary",
+    "objectID": "projects/sigap-mobile/index.html#links",
+    "href": "projects/sigap-mobile/index.html#links",
+    "title": "Sigap Mobile",
     "section": "Links",
     "text": "Links\n\nGitHub repository"
   },
   {
-    "objectID": "publications/hierarchical-clustering-gas/index.html",
-    "href": "publications/hierarchical-clustering-gas/index.html",
-    "title": "Pengelompokan Provinsi di Indonesia Berdasarkan Rasio Penggunaan Gas Rumah Tangga pada Tahun 2023 Menggunakan Hierarchical Clustering",
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
     "section": "",
-    "text": "Household gas usage varies widely across Indonesian provinces. This study applies hierarchical clustering to group provinces based on their household gas usage ratios in 2023, revealing regional consumption patterns useful for energy policy."
+    "text": "Selected projects from research, teaching, and engineering. Source code is available on GitHub.\n\n\n\n\n\n\n\n\n\n\n\nIoT FST Dashboard\n\n\n\nIoT\n\nWeb Development\n\nDashboard\n\nLaravel\n\n\n\nWeb dashboard for monitoring IoT sensor data within the Faculty of Science and Technology.\n\n\n\nMar 9, 2026\n\n\n\n\n\n\n\n\n\n\nML Tutorials\n\n\n\nMachine Learning\n\nTeaching\n\nJupyter Notebooks\n\n\n\nA growing collection of machine-learning teaching notebooks covering fundamentals through applied examples.\n\n\n\nMar 1, 2026\n\n\n\n\n\n\n\n\n\n\nFire Spot\n\n\n\nData Mining\n\nClustering\n\nEnvironmental Analytics\n\n\n\nHotspot clustering analysis for Bangka Belitung Islands Province using agglomerative hierarchical clustering.\n\n\n\nOct 9, 2025\n\n\n\n\n\n\n\n\n\n\nSigap Mobile\n\n\n\nMobile Development\n\nAndroid\n\n\n\nMobile application project supporting rapid response services.\n\n\n\nJan 1, 2020\n\n\n\n\n\n\n\n\n\n\nTrash Binary\n\n\n\nDeep Learning\n\nComputer Vision\n\nImage Classification\n\n\n\nBinary image classification project for trash sorting.\n\n\n\nJan 1, 2019\n\n\n\n\n\n\n\n\n\n\nAutomated Fish Counter\n\n\n\nEmbedded Systems\n\nIoT\n\nComputer Vision\n\nAndroid\n\n\n\nEmbedded system with ultrasonic sensing and an Android companion app for automated fish measurement, counting, and sorting.\n\n\n\nApr 23, 2016\n\n\n\n\n\n\nNo matching items\n Back to top"
   },
   {
-    "objectID": "publications/hierarchical-clustering-gas/index.html#summary",
-    "href": "publications/hierarchical-clustering-gas/index.html#summary",
-    "title": "Pengelompokan Provinsi di Indonesia Berdasarkan Rasio Penggunaan Gas Rumah Tangga pada Tahun 2023 Menggunakan Hierarchical Clustering",
+    "objectID": "projects/automated-fish-counter/index.html",
+    "href": "projects/automated-fish-counter/index.html",
+    "title": "Automated Fish Counter",
     "section": "",
-    "text": "Household gas usage varies widely across Indonesian provinces. This study applies hierarchical clustering to group provinces based on their household gas usage ratios in 2023, revealing regional consumption patterns useful for energy policy."
+    "text": "Indonesia has enormous tuna potential in the Indian Ocean, yet fish data is scarce because fishermen record catches manually. This project automates fish counting and sorting, capturing data for every catch."
   },
   {
-    "objectID": "publications/hierarchical-clustering-gas/index.html#contribution",
-    "href": "publications/hierarchical-clustering-gas/index.html#contribution",
-    "title": "Pengelompokan Provinsi di Indonesia Berdasarkan Rasio Penggunaan Gas Rumah Tangga pada Tahun 2023 Menggunakan Hierarchical Clustering",
-    "section": "Contribution",
-    "text": "Contribution\n\nHierarchical clustering analysis of household energy data at provincial scale.\nInsights into regional disparities in domestic gas consumption."
+    "objectID": "projects/automated-fish-counter/index.html#what-problem-is-being-solved",
+    "href": "projects/automated-fish-counter/index.html#what-problem-is-being-solved",
+    "title": "Automated Fish Counter",
+    "section": "",
+    "text": "Indonesia has enormous tuna potential in the Indian Ocean, yet fish data is scarce because fishermen record catches manually. This project automates fish counting and sorting, capturing data for every catch."
   },
   {
-    "objectID": "publications/hierarchical-clustering-gas/index.html#links",
-    "href": "publications/hierarchical-clustering-gas/index.html#links",
-    "title": "Pengelompokan Provinsi di Indonesia Berdasarkan Rasio Penggunaan Gas Rumah Tangga pada Tahun 2023 Menggunakan Hierarchical Clustering",
+    "objectID": "projects/automated-fish-counter/index.html#how-it-works",
+    "href": "projects/automated-fish-counter/index.html#how-it-works",
+    "title": "Automated Fish Counter",
+    "section": "How It Works",
+    "text": "How It Works\nAn embedded system built with Intel Galileo, a stepper motor, servo, ultrasonic sensor, and a simple conveyor model measures each fish’s length and thickness, counts it, sorts fish by length, and sends the captured data to an Android device."
+  },
+  {
+    "objectID": "projects/automated-fish-counter/index.html#my-role",
+    "href": "projects/automated-fish-counter/index.html#my-role",
+    "title": "Automated Fish Counter",
+    "section": "My Role",
+    "text": "My Role\nCo-developer of the embedded system and the Android integration, built during a 24-hour hackathon."
+  },
+  {
+    "objectID": "projects/automated-fish-counter/index.html#what-was-produced",
+    "href": "projects/automated-fish-counter/index.html#what-was-produced",
+    "title": "Automated Fish Counter",
+    "section": "What Was Produced",
+    "text": "What Was Produced\nA working prototype integrating microcontroller data with an Android device, demonstrated on Devpost."
+  },
+  {
+    "objectID": "projects/automated-fish-counter/index.html#links",
+    "href": "projects/automated-fish-counter/index.html#links",
+    "title": "Automated Fish Counter",
     "section": "Links",
-    "text": "Links\n\nJEKIN – Jurnal Teknik Informatika 5(1), 212–221."
+    "text": "Links\n\nGitHub repository\nDevpost project"
   },
   {
-    "objectID": "publications/hierarchical-clustering-gas/index.html#keywords",
-    "href": "publications/hierarchical-clustering-gas/index.html#keywords",
-    "title": "Pengelompokan Provinsi di Indonesia Berdasarkan Rasio Penggunaan Gas Rumah Tangga pada Tahun 2023 Menggunakan Hierarchical Clustering",
-    "section": "Keywords",
-    "text": "Keywords\nHierarchical Clustering · Household Gas Ratio · Energy Analytics · Data Mining"
-  },
-  {
-    "objectID": "publications/instagram-engagement/index.html",
-    "href": "publications/instagram-engagement/index.html",
-    "title": "Color Complexity and Sharpness for Instagram Engagement",
+    "objectID": "teaching/machine-learning/index.html",
+    "href": "teaching/machine-learning/index.html",
+    "title": "Machine Learning",
     "section": "",
-    "text": "What makes a social-media post perform well? This study trains machine-learning classifiers on visual features (such as color complexity and sharpness) and temporal features to predict Instagram engagement."
+    "text": "A practical, project-oriented course on machine learning. Students learn the full workflow — from data preparation and feature engineering to model selection, training, evaluation, and deployment — using Python."
   },
   {
-    "objectID": "publications/instagram-engagement/index.html#summary",
-    "href": "publications/instagram-engagement/index.html#summary",
-    "title": "Color Complexity and Sharpness for Instagram Engagement",
+    "objectID": "teaching/machine-learning/index.html#topics",
+    "href": "teaching/machine-learning/index.html#topics",
+    "title": "Machine Learning",
+    "section": "Topics",
+    "text": "Topics\n\nPython for Data Science — NumPy, pandas, and visualization.\nData Preparation — cleaning, imputation, encoding, and scaling.\nSupervised Learning — regression and classification (linear models, trees, ensembles, KNN).\nUnsupervised Learning — clustering (K-means, hierarchical) and dimensionality reduction.\nModel Evaluation — cross-validation, metrics, and hyperparameter tuning.\nDeep Learning Introduction — neural networks and training basics.\nProject — end-to-end machine-learning project on a real dataset."
+  },
+  {
+    "objectID": "teaching/machine-learning/index.html#learning-outcomes",
+    "href": "teaching/machine-learning/index.html#learning-outcomes",
+    "title": "Machine Learning",
+    "section": "Learning Outcomes",
+    "text": "Learning Outcomes\nBy the end of the course, students will be able to:\n\nBuild complete machine-learning pipelines in Python.\nSelect and tune appropriate algorithms for a task.\nEvaluate models rigorously and communicate results.\nRecognize the practical considerations of deploying models in industry."
+  },
+  {
+    "objectID": "teaching/machine-learning/index.html#resources",
+    "href": "teaching/machine-learning/index.html#resources",
+    "title": "Machine Learning",
+    "section": "Resources",
+    "text": "Resources\n\nCompanion notebook series: ML Tutorials on GitHub.\nModules, slides, and exercises will be added progressively."
+  },
+  {
+    "objectID": "teaching/index.html",
+    "href": "teaching/index.html",
+    "title": "Teaching",
     "section": "",
-    "text": "What makes a social-media post perform well? This study trains machine-learning classifiers on visual features (such as color complexity and sharpness) and temporal features to predict Instagram engagement."
+    "text": "I teach courses in the Department of Electrical Engineering, Faculty of Science and Technology, Universitas Jambi. My teaching areas sit at the intersection of artificial intelligence, data science, and computational systems, and are informed by both my research and my industry experience as a data scientist."
   },
   {
-    "objectID": "publications/instagram-engagement/index.html#contribution",
-    "href": "publications/instagram-engagement/index.html#contribution",
-    "title": "Color Complexity and Sharpness for Instagram Engagement",
+    "objectID": "teaching/index.html#courses",
+    "href": "teaching/index.html#courses",
+    "title": "Teaching",
+    "section": "Courses",
+    "text": "Courses\n\nArtificial Intelligence\nMachine Learning\nData Mining\nPattern Recognition"
+  },
+  {
+    "objectID": "teaching/index.html#teaching-philosophy",
+    "href": "teaching/index.html#teaching-philosophy",
+    "title": "Teaching",
+    "section": "Teaching Philosophy",
+    "text": "Teaching Philosophy\nI believe students learn best by doing. My courses combine:\n\nClear theory — the mathematical foundations behind algorithms, explained from first principles.\nHands-on practice — executable notebooks and small projects on real, locally relevant datasets.\nIndustry perspective — examples drawn from data-science practice in retail and media, where models must be robust, interpretable, and production-ready."
+  },
+  {
+    "objectID": "teaching/index.html#learning-materials",
+    "href": "teaching/index.html#learning-materials",
+    "title": "Teaching",
+    "section": "Learning Materials",
+    "text": "Learning Materials\nCourse pages will be progressively expanded with modules, slides, notebooks, exercises, and datasets. Check back regularly — or contact me if you would like to collaborate on teaching materials."
+  },
+  {
+    "objectID": "teaching/index.html#supervision",
+    "href": "teaching/index.html#supervision",
+    "title": "Teaching",
+    "section": "Supervision",
+    "text": "Supervision\nI supervise undergraduate student projects and theses (tugas akhir/skripsi) in topics such as:\n\nMachine learning and deep learning applications\nComputer vision and pattern recognition\nIoT systems and embedded intelligence\nTime-series forecasting and predictive systems"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research applies artificial intelligence, machine learning, and pattern recognition to solve practical problems in agriculture, health, industry, and public administration. I work primarily with deep learning, computer vision, time-series forecasting, and clustering methods."
+  },
+  {
+    "objectID": "research.html#research-themes",
+    "href": "research.html#research-themes",
+    "title": "Research",
+    "section": "Research Themes",
+    "text": "Research Themes\n\nPattern Recognition & Computer Vision\nI develop recognition systems for structured and unstructured visual data — from scanned election forms and remote sensing scenes to agricultural and medical imagery.\n\nAutomatic counting based on scanned election form using feature match and CNN — a system that automatically tallies votes from scanned election forms (ICACSIS 2019, Scopus-indexed).\nTransfer learning for remote sensing scene classification — benchmarking CNN and Vision Transformer architectures for scene recognition.\nMulti-architecture CNN analysis for automated malaria detection — detecting Plasmodium species and lifecycle stages in microscopy images with YOLO and CNN variants.\nLand cover classification — improving accuracy of Sentinel-2 land cover classification using Random Forest.\nAutomated Fish Counter — embedded vision system for fish measurement, counting, and sorting.\n\n\n\nPredictive Systems & Time-Series Forecasting\nI build forecasting and prediction models for economic, energy, and market data.\n\nPrediksi Nilai Ekspor Migas Indonesia — forecasting Indonesian oil & gas export values using SARIMA and LSTM (SATESI, 2025).\nStock price prediction with LSTM — machine-learning approach to stock price forecasting (Media JISI, 2025).\nPredictive analytics for education trends — KNN-based analysis of Indonesian education data 2021–2023.\nPredictive systems are a core expertise area: designing and building computational systems that turn historical data into actionable forecasts.\n\n\n\nMachine Learning, Clustering & Segmentation\nI use unsupervised and supervised learning to reveal structure in data.\n\nK-means customer segmentation — clustering for effective marketing strategy (Media JISI, 2025).\nHierarchical clustering of Indonesian provinces — grouping provinces by household gas usage ratio (JEKIN, 2025).\nHotspot clustering in Bangka Belitung Islands — agglomerative hierarchical clustering for fire hotspot analysis.\nInstagram engagement analysis — machine-learning classification of visual and temporal features.\n\n\n\nExpert Systems & Intelligent Computing\nI design domain-specific decision-support and intelligent systems, an area I teach and apply through community-service projects:\n\nRancang bangun sistem komputasi — construction of computational systems for real users.\nIoT monitoring systems — smart farming plant monitoring taught to vocational (SMK) students.\nFinancial information systems — data-management systems for pesantren administrators."
+  },
+  {
+    "objectID": "research.html#selected-research-output",
+    "href": "research.html#selected-research-output",
+    "title": "Research",
+    "section": "Selected Research Output",
+    "text": "Selected Research Output\n\nScopus: 2 documents, 3 citations (H-index 1).\nGoogle Scholar: 19 documents, 30 citations (H-index 3).\nFull details on the Publications page and via SINTA."
+  },
+  {
+    "objectID": "research.html#ongoing-directions",
+    "href": "research.html#ongoing-directions",
+    "title": "Research",
+    "section": "Ongoing Directions",
+    "text": "Ongoing Directions\n\nDeep learning for agricultural and environmental monitoring in Jambi (land cover, hotspots, IoT sensing).\nApplied AI for health and medical imaging (malaria detection, diagnostics).\nReliable time-series and predictive modeling for Indonesian economic data.\nEducational AI literacy and community empowerment through training programs."
+  },
+  {
+    "objectID": "publications/kmeans-customer-segmentation/index.html",
+    "href": "publications/kmeans-customer-segmentation/index.html",
+    "title": "Application of K-means Clustering Algorithm on Customer Segmentation for Effective Marketing Strategy",
+    "section": "",
+    "text": "Understanding customer groups is essential for effective marketing. This paper applies the K-means clustering algorithm to segment customers and derive profiles that support targeted, data-driven marketing strategies."
+  },
+  {
+    "objectID": "publications/kmeans-customer-segmentation/index.html#summary",
+    "href": "publications/kmeans-customer-segmentation/index.html#summary",
+    "title": "Application of K-means Clustering Algorithm on Customer Segmentation for Effective Marketing Strategy",
+    "section": "",
+    "text": "Understanding customer groups is essential for effective marketing. This paper applies the K-means clustering algorithm to segment customers and derive profiles that support targeted, data-driven marketing strategies."
+  },
+  {
+    "objectID": "publications/kmeans-customer-segmentation/index.html#contribution",
+    "href": "publications/kmeans-customer-segmentation/index.html#contribution",
+    "title": "Application of K-means Clustering Algorithm on Customer Segmentation for Effective Marketing Strategy",
     "section": "Contribution",
-    "text": "Contribution\n\nQuantifies how color complexity and image sharpness relate to engagement.\nDemonstrates a reproducible machine-learning classification pipeline for social media analytics."
+    "text": "Contribution\n\nEnd-to-end customer segmentation workflow with K-means.\nTranslates clustering results into actionable marketing strategy.\nBuilds on industry experience applying segmentation at a retail loyalty platform."
   },
   {
-    "objectID": "publications/instagram-engagement/index.html#links",
-    "href": "publications/instagram-engagement/index.html#links",
-    "title": "Color Complexity and Sharpness for Instagram Engagement",
+    "objectID": "publications/kmeans-customer-segmentation/index.html#links",
+    "href": "publications/kmeans-customer-segmentation/index.html#links",
+    "title": "Application of K-means Clustering Algorithm on Customer Segmentation for Effective Marketing Strategy",
     "section": "Links",
-    "text": "Links\n\nDOI"
+    "text": "Links\n\nMedia Journal of Information System and Informatic 1(2), 16–25."
   },
   {
-    "objectID": "publications/instagram-engagement/index.html#keywords",
-    "href": "publications/instagram-engagement/index.html#keywords",
-    "title": "Color Complexity and Sharpness for Instagram Engagement",
+    "objectID": "publications/kmeans-customer-segmentation/index.html#keywords",
+    "href": "publications/kmeans-customer-segmentation/index.html#keywords",
+    "title": "Application of K-means Clustering Algorithm on Customer Segmentation for Effective Marketing Strategy",
     "section": "Keywords",
-    "text": "Keywords\nInstagram Engagement · Visual Features · Temporal Features · Machine Learning Classification · Social Media Analytics"
+    "text": "Keywords\nK-means · Customer Segmentation · Marketing Strategy · Data Mining · Clustering"
+  },
+  {
+    "objectID": "publications/transfer-learning-remote-sensing/index.html",
+    "href": "publications/transfer-learning-remote-sensing/index.html",
+    "title": "Transfer Learning Architecture Selection for Remote Sensing Scene Classification",
+    "section": "",
+    "text": "Scene classification is a core task in remote sensing. This paper systematically compares transfer-learning architectures — including convolutional neural networks and Vision Transformers — to identify which backbone performs best for classifying remote sensing scenes."
+  },
+  {
+    "objectID": "publications/transfer-learning-remote-sensing/index.html#summary",
+    "href": "publications/transfer-learning-remote-sensing/index.html#summary",
+    "title": "Transfer Learning Architecture Selection for Remote Sensing Scene Classification",
+    "section": "",
+    "text": "Scene classification is a core task in remote sensing. This paper systematically compares transfer-learning architectures — including convolutional neural networks and Vision Transformers — to identify which backbone performs best for classifying remote sensing scenes."
+  },
+  {
+    "objectID": "publications/transfer-learning-remote-sensing/index.html#contribution",
+    "href": "publications/transfer-learning-remote-sensing/index.html#contribution",
+    "title": "Transfer Learning Architecture Selection for Remote Sensing Scene Classification",
+    "section": "Contribution",
+    "text": "Contribution\n\nBenchmarks multiple transfer-learning architectures on remote sensing scene classification.\nProvides a practical architecture-selection guide for practitioners and researchers working with aerial and satellite imagery."
+  },
+  {
+    "objectID": "publications/transfer-learning-remote-sensing/index.html#links",
+    "href": "publications/transfer-learning-remote-sensing/index.html#links",
+    "title": "Transfer Learning Architecture Selection for Remote Sensing Scene Classification",
+    "section": "Links",
+    "text": "Links\n\nDOI\nPublisher page"
+  },
+  {
+    "objectID": "publications/transfer-learning-remote-sensing/index.html#keywords",
+    "href": "publications/transfer-learning-remote-sensing/index.html#keywords",
+    "title": "Transfer Learning Architecture Selection for Remote Sensing Scene Classification",
+    "section": "Keywords",
+    "text": "Keywords\nRemote Sensing · Scene Classification · Transfer Learning · Vision Transformer · Benchmark Comparison"
   },
   {
     "objectID": "publications/landcover-random-forest-sentinel2/index.html",
@@ -805,115 +903,17 @@
     "text": "Keywords\nRandom Forest · Sentinel-2 · Land Cover Classification · Remote Sensing · Jambi"
   },
   {
-    "objectID": "publications/sarima-lstm-ekspor/index.html",
-    "href": "publications/sarima-lstm-ekspor/index.html",
-    "title": "Prediksi Nilai Ekspor Migas Indonesia Menggunakan Metode SARIMA dan LSTM",
+    "objectID": "publications/index.html",
+    "href": "publications/index.html",
+    "title": "Publications",
     "section": "",
-    "text": "Accurate forecasts of oil and gas export values help economic planning. This study compares two forecasting approaches — the classical SARIMA model and the deep-learning LSTM network — for predicting Indonesian oil & gas export values."
+    "text": "My publication record is tracked on SINTA and Google Scholar. Below is the full list of journal and conference outputs."
   },
   {
-    "objectID": "publications/sarima-lstm-ekspor/index.html#summary",
-    "href": "publications/sarima-lstm-ekspor/index.html#summary",
-    "title": "Prediksi Nilai Ekspor Migas Indonesia Menggunakan Metode SARIMA dan LSTM",
-    "section": "",
-    "text": "Accurate forecasts of oil and gas export values help economic planning. This study compares two forecasting approaches — the classical SARIMA model and the deep-learning LSTM network — for predicting Indonesian oil & gas export values."
-  },
-  {
-    "objectID": "publications/sarima-lstm-ekspor/index.html#contribution",
-    "href": "publications/sarima-lstm-ekspor/index.html#contribution",
-    "title": "Prediksi Nilai Ekspor Migas Indonesia Menggunakan Metode SARIMA dan LSTM",
-    "section": "Contribution",
-    "text": "Contribution\n\nSystematic comparison of SARIMA vs LSTM on macroeconomic time series.\nPractical guidance on when classical vs deep-learning forecasting is preferable.\nPublished in SATESI: Jurnal Sains Teknologi dan Sistem Informasi 5(1), 69–79."
-  },
-  {
-    "objectID": "publications/sarima-lstm-ekspor/index.html#keywords",
-    "href": "publications/sarima-lstm-ekspor/index.html#keywords",
-    "title": "Prediksi Nilai Ekspor Migas Indonesia Menggunakan Metode SARIMA dan LSTM",
-    "section": "Keywords",
-    "text": "Keywords\nSARIMA · LSTM · Time-Series Forecasting · Export Prediction · Machine Learning"
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "My research applies artificial intelligence, machine learning, and pattern recognition to solve practical problems in agriculture, health, industry, and public administration. I work primarily with deep learning, computer vision, time-series forecasting, and clustering methods."
-  },
-  {
-    "objectID": "research.html#research-themes",
-    "href": "research.html#research-themes",
-    "title": "Research",
-    "section": "Research Themes",
-    "text": "Research Themes\n\nPattern Recognition & Computer Vision\nI develop recognition systems for structured and unstructured visual data — from scanned election forms and remote sensing scenes to agricultural and medical imagery.\n\nAutomatic counting based on scanned election form using feature match and CNN — a system that automatically tallies votes from scanned election forms (ICACSIS 2019, Scopus-indexed).\nTransfer learning for remote sensing scene classification — benchmarking CNN and Vision Transformer architectures for scene recognition.\nMulti-architecture CNN analysis for automated malaria detection — detecting Plasmodium species and lifecycle stages in microscopy images with YOLO and CNN variants.\nLand cover classification — improving accuracy of Sentinel-2 land cover classification using Random Forest.\nAutomated Fish Counter — embedded vision system for fish measurement, counting, and sorting.\n\n\n\nPredictive Systems & Time-Series Forecasting\nI build forecasting and prediction models for economic, energy, and market data.\n\nPrediksi Nilai Ekspor Migas Indonesia — forecasting Indonesian oil & gas export values using SARIMA and LSTM (SATESI, 2025).\nStock price prediction with LSTM — machine-learning approach to stock price forecasting (Media JISI, 2025).\nPredictive analytics for education trends — KNN-based analysis of Indonesian education data 2021–2023.\nPredictive systems are a core expertise area: designing and building computational systems that turn historical data into actionable forecasts.\n\n\n\nMachine Learning, Clustering & Segmentation\nI use unsupervised and supervised learning to reveal structure in data.\n\nK-means customer segmentation — clustering for effective marketing strategy (Media JISI, 2025).\nHierarchical clustering of Indonesian provinces — grouping provinces by household gas usage ratio (JEKIN, 2025).\nHotspot clustering in Bangka Belitung Islands — agglomerative hierarchical clustering for fire hotspot analysis.\nInstagram engagement analysis — machine-learning classification of visual and temporal features.\n\n\n\nExpert Systems & Intelligent Computing\nI design domain-specific decision-support and intelligent systems, an area I teach and apply through community-service projects:\n\nRancang bangun sistem komputasi — construction of computational systems for real users.\nIoT monitoring systems — smart farming plant monitoring taught to vocational (SMK) students.\nFinancial information systems — data-management systems for pesantren administrators."
-  },
-  {
-    "objectID": "research.html#selected-research-output",
-    "href": "research.html#selected-research-output",
-    "title": "Research",
-    "section": "Selected Research Output",
-    "text": "Selected Research Output\n\nScopus: 2 documents, 3 citations (H-index 1).\nGoogle Scholar: 19 documents, 30 citations (H-index 3).\nFull details on the Publications page and via SINTA."
-  },
-  {
-    "objectID": "research.html#ongoing-directions",
-    "href": "research.html#ongoing-directions",
-    "title": "Research",
-    "section": "Ongoing Directions",
-    "text": "Ongoing Directions\n\nDeep learning for agricultural and environmental monitoring in Jambi (land cover, hotspots, IoT sensing).\nApplied AI for health and medical imaging (malaria detection, diagnostics).\nReliable time-series and predictive modeling for Indonesian economic data.\nEducational AI literacy and community empowerment through training programs."
-  },
-  {
-    "objectID": "teaching/data-mining/index.html",
-    "href": "teaching/data-mining/index.html",
-    "title": "Data Mining",
-    "section": "",
-    "text": "An introduction to discovering useful patterns and knowledge from large datasets. The course covers the data-mining process, classification, clustering, association rules, and their application to real-world data."
-  },
-  {
-    "objectID": "teaching/data-mining/index.html#topics",
-    "href": "teaching/data-mining/index.html#topics",
-    "title": "Data Mining",
-    "section": "Topics",
-    "text": "Topics\n\nData Mining Overview — the KDD process and data preprocessing.\nClassification — decision trees, Naive Bayes, KNN, and ensemble methods.\nClustering — partitional (K-means) and hierarchical (agglomerative) methods.\nAssociation Rules — frequent itemsets and Apriori.\nEvaluation & Interpretation — measuring and interpreting mining results.\nApplications — segmentation, anomaly detection, and market analysis."
-  },
-  {
-    "objectID": "teaching/data-mining/index.html#learning-outcomes",
-    "href": "teaching/data-mining/index.html#learning-outcomes",
-    "title": "Data Mining",
-    "section": "Learning Outcomes",
-    "text": "Learning Outcomes\nBy the end of the course, students will be able to:\n\nApply the end-to-end data-mining process to a dataset.\nChoose appropriate algorithms for classification, clustering, and association tasks.\nInterpret and communicate discovered patterns.\nAppreciate the ethical and privacy considerations of data mining."
-  },
-  {
-    "objectID": "teaching/data-mining/index.html#resources",
-    "href": "teaching/data-mining/index.html#resources",
-    "title": "Data Mining",
-    "section": "Resources",
-    "text": "Resources\n\nExample studies from my research, including K-means customer segmentation and hotspot clustering.\nAdditional materials will be posted here progressively."
-  },
-  {
-    "objectID": "teaching/machine-learning/index.html",
-    "href": "teaching/machine-learning/index.html",
-    "title": "Machine Learning",
-    "section": "",
-    "text": "A practical, project-oriented course on machine learning. Students learn the full workflow — from data preparation and feature engineering to model selection, training, evaluation, and deployment — using Python."
-  },
-  {
-    "objectID": "teaching/machine-learning/index.html#topics",
-    "href": "teaching/machine-learning/index.html#topics",
-    "title": "Machine Learning",
-    "section": "Topics",
-    "text": "Topics\n\nPython for Data Science — NumPy, pandas, and visualization.\nData Preparation — cleaning, imputation, encoding, and scaling.\nSupervised Learning — regression and classification (linear models, trees, ensembles, KNN).\nUnsupervised Learning — clustering (K-means, hierarchical) and dimensionality reduction.\nModel Evaluation — cross-validation, metrics, and hyperparameter tuning.\nDeep Learning Introduction — neural networks and training basics.\nProject — end-to-end machine-learning project on a real dataset."
-  },
-  {
-    "objectID": "teaching/machine-learning/index.html#learning-outcomes",
-    "href": "teaching/machine-learning/index.html#learning-outcomes",
-    "title": "Machine Learning",
-    "section": "Learning Outcomes",
-    "text": "Learning Outcomes\nBy the end of the course, students will be able to:\n\nBuild complete machine-learning pipelines in Python.\nSelect and tune appropriate algorithms for a task.\nEvaluate models rigorously and communicate results.\nRecognize the practical considerations of deploying models in industry."
-  },
-  {
-    "objectID": "teaching/machine-learning/index.html#resources",
-    "href": "teaching/machine-learning/index.html#resources",
-    "title": "Machine Learning",
-    "section": "Resources",
-    "text": "Resources\n\nCompanion notebook series: ML Tutorials on GitHub.\nModules, slides, and exercises will be added progressively."
+    "objectID": "publications/index.html#complete-publication-list",
+    "href": "publications/index.html#complete-publication-list",
+    "title": "Publications",
+    "section": "Complete Publication List",
+    "text": "Complete Publication List\n\n2026\n\nPemberdayaan Siswa SMK melalui Pelatihan IoT untuk Sistem Monitoring Tanaman dalam Mendukung Smart Farming. U. Khaira, E. Saputra, A. Waladi, Y. Perdana, N.R. Hanum, H. Iftitah, R. Ashar, et al. Jurnal Masyarakat Madani Indonesia 5(1), 434–445.\nTransfer Learning Architecture Selection for Remote Sensing Scene Classification. A. Waladi, H. Iftitah. Jurnal Riset Informatika 8(3). DOI: 10.34288/jri.v8i3.515\nMulti-Architecture CNN Analysis for Automated Malaria Detection. A. Waladi, N.R. Hanum, Y. Perdana, H. Iftitah, F. Wahyuni, R. Ashar. PROCA 2(2). DOI: 10.22437/proca.v2i2.55514\nColor Complexity and Sharpness for Instagram Engagement. A. Waladi, J. Marzal, M. Razi A., M. Yudistira, H. Iftitah, H. Alghifari. PROCA 2(2). DOI: 10.22437/proca.v2i2.55582\n\n\n\n2025\n\nPengelompokan Provinsi di Indonesia Berdasarkan Rasio Penggunaan Gas Rumah Tangga pada Tahun 2023 Menggunakan Hierarchical Clustering. A.A. Nasution, P.E.P. Utomo, U. Khaira, A. Waladi. JEKIN – Jurnal Teknik Informatika 5(1), 212–221.\nImplementation of Machine Learning for Stock Price Prediction Using the LSTM Algorithm. N.R.H. Nindy, H. Iftitah, A. Waladi, Y. Perdana. Media Journal of Information System and Informatic 1(2).\nPrediksi Nilai Ekspor Migas Indonesia Menggunakan Metode SARIMA dan LSTM. H. Kuswanto, P.E.P. Utomo, U. Khaira, A. Waladi. SATESI: Jurnal Sains Teknologi dan Sistem Informasi 5(1), 69–79.\nSosialisasi Pemanfaatan Artificial Intelligence untuk Edukasi pada Siswa-Siswi MTs Negeri 3 Kota Jambi. N.R.H. Nindy, A. Waladi, H. Iftitah, Y. Perdana, R. Ashar. Jurnal Pengabdian Dosen Indonesia 2(1), 35–44.\nAnalisis Prediktif Tren Pendidikan di Indonesia Menggunakan KNN (Studi Kasus Data Pendidikan 2021–2023). M.B. Nasution, A. Waladi, U. Khaira, P.E.P. Utomo. Education Library 1(2), 62–73.\nApplication of K-means Clustering Algorithm on Customer Segmentation for Effective Marketing Strategy. A. Waladi, R. Rizaldi, M.A.H. Sutoyo. Media Journal of Information System and Informatic 1(2), 16–25.\nComparative Analysis of Triangulation Methods for Optimal Solutions to the Art Gallery Problem. J. Marzal, N. Rarasati, A. Waladi, Y. Perdana. PIKSEL: Penelitian Ilmu Komputer Sistem Embedded and Logic 13(1), 173–182.\nPelatihan Sistem Informasi Keuangan Pengelolaan Data Pengeluaran pada Pondok Pesantren Darul Arifin Jambi. A. Waladi, H. Iftitah, N.R. Hanum, Y. Perdana, R. Ashar. Jurnal Pengabdian Dosen Indonesia 2(2), 37–46.\nHotspot Clustering in Bangka Belitung Islands Province Using Agglomerative Hierarchical Clustering Algorithm. A. Setiawan, A. Waladi, R. Ashar. Media Journal of Information System and Informatic 1(2), 26–35.\nPeningkatan Akurasi Klasifikasi Tutupan Lahan Menggunakan Random Forest pada Data Sentinel-2 di Jambi. A. Waladi, et al. Jurnal Ilmu Komputer (Fasilkom UMRI). PDF\n\n\n\n2019\n\nAutomatic Counting Based on Scanned Election Form Using Feature Match and Convolutional Neural Network. A. Waladi, et al. 2019 International Conference on Advanced Computer Science and Information Systems (ICACSIS). (Scopus-indexed)"
   }
 ]
