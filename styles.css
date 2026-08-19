@@ -1,89 +1,172 @@
 /* css styles */
 
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&display=swap');
+
 :root {
-  --accent: #166534;
-  --accent-soft: #dcfce7;
-  --accent-dark: #14532d;
-  --heading-color: #1e293b;
+  --accent: #0f766e;
+  --accent-soft: #ccfbf1;
+  --accent-dark: #0a3d3a;
+  --heading-color: #0f172a;
   --muted: #64748b;
+  --border: #e2e8f0;
+}
+
+html {
+  scroll-behavior: smooth;
 }
 
 body {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
   font-size: 1rem;
-  line-height: 1.65;
+  line-height: 1.7;
+  color: #334155;
 }
 
 h1, h2, h3, h4, h5, h6 {
+  font-family: 'Lora', Georgia, serif;
   color: var(--heading-color);
-  font-weight: 700;
+  font-weight: 600;
+  letter-spacing: -0.01em;
 }
 
+h1 { font-size: 2.1rem; }
+h2 { font-size: 1.6rem; margin-top: 2rem; }
+h3 { font-size: 1.25rem; }
+
+/* ---------- Navbar ---------- */
 .navbar {
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+  background: rgba(255, 255, 255, 0.92);
+  backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--border);
+  box-shadow: 0 1px 8px rgba(15, 23, 42, 0.05);
 }
 
 .navbar-brand {
+  font-family: 'Lora', Georgia, serif;
   font-weight: 700;
+  font-size: 1.25rem;
   color: var(--accent-dark);
 }
 
-.navbar-dark .navbar-brand {
-  color: #fff;
+.navbar .nav-link {
+  font-weight: 500;
+  color: #475569;
 }
 
-a {
+.navbar .nav-link:hover {
   color: var(--accent);
 }
 
-a:hover {
-  color: var(--accent-dark);
+/* ---------- Links ---------- */
+a { color: var(--accent); text-decoration: none; }
+a:hover { color: var(--accent-dark); text-decoration: underline; }
+
+/* ---------- About / hero ---------- */
+.about-entity {
+  margin-bottom: 2.5rem;
 }
 
-.about-entity img.rounded {
-  border: 4px solid var(--accent-soft);
-  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.15);
+.about-entity img.rounded,
+.about-entity img.round {
+  border: 4px solid #fff;
+  box-shadow: 0 10px 30px rgba(15, 118, 110, 0.18);
 }
 
 .about-entity .about-name {
-  font-size: 2.2rem;
-  font-weight: 800;
+  font-family: 'Lora', Georgia, serif;
+  font-size: 2.6rem;
+  font-weight: 700;
   color: var(--heading-color);
 }
 
 .about-entity .about-role,
 .about-entity .about-org {
-  color: var(--muted);
+  font-family: 'Inter', sans-serif;
+  font-size: 1.05rem;
+  font-weight: 500;
+  color: var(--accent);
+}
+
+.about-entity .about-bio {
+  margin-top: 1rem;
 }
 
 .about-entity .about-links {
-  font-size: 0.95rem;
+  font-size: 0.92rem;
 }
 
-table {
-  font-size: 0.95rem;
+.about-entity .about-links a {
+  padding: 0.25rem 0.6rem;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: #fff;
+  transition: all 0.15s ease;
 }
 
+.about-entity .about-links a:hover {
+  background: var(--accent);
+  color: #fff;
+  border-color: var(--accent);
+  text-decoration: none;
+}
+
+/* ---------- Cards ---------- */
 .card {
-  border-radius: 0.5rem;
-  border: 1px solid #e2e8f0;
-}
-
-.card .card-title {
-  font-weight: 700;
-}
-
-.listing .card {
+  border: 1px solid var(--border);
+  border-radius: 0.75rem;
+  overflow: hidden;
   transition: transform 0.15s ease, box-shadow 0.15s ease;
 }
 
-.listing .card:hover {
+.card:hover {
   transform: translateY(-3px);
-  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 12px 28px rgba(15, 23, 42, 0.10);
 }
 
+.card .card-title { font-family: 'Lora', Georgia, serif; font-weight: 600; }
+.card .card-subtitle { color: var(--muted); font-size: 0.85rem; }
+.card .card-text { font-size: 0.95rem; color: #475569; }
+
+/* ---------- Listings ---------- */
+.listing-description {
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+.listing-item .listing-title {
+  font-family: 'Lora', Georgia, serif;
+  font-weight: 600;
+  color: var(--heading-color);
+}
+
+.listing-item .listing-date {
+  font-size: 0.82rem;
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+/* ---------- Tables ---------- */
+table {
+  font-size: 0.95rem;
+  border-collapse: collapse;
+}
+
+th {
+  font-weight: 600;
+  color: var(--heading-color);
+}
+
+/* ---------- Callouts ---------- */
+.callout {
+  border-radius: 0.6rem;
+}
+
+/* ---------- Buttons ---------- */
 .btn-primary {
   background-color: var(--accent);
   border-color: var(--accent);
+  font-weight: 500;
 }
 
 .btn-primary:hover {
@@ -91,7 +174,43 @@ table {
   border-color: var(--accent-dark);
 }
 
-/* dark mode adjustments */
+/* ---------- Footer ---------- */
+.page-footer {
+  border-top: 1px solid var(--border);
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+/* ---------- TOC ---------- */
+#TOC {
+  font-size: 0.9rem;
+}
+
+#TOC .nav-link {
+  color: #475569;
+  padding: 0.2rem 0.4rem;
+}
+
+#TOC .nav-link.active {
+  color: var(--accent);
+  border-left: 2px solid var(--accent);
+}
+
+/* ---------- Misc ---------- */
+.quarto-title-meta { font-size: 0.9rem; }
+
+blockquote {
+  border-left: 3px solid var(--accent);
+  background: #f0fdfa;
+  padding: 0.6rem 1rem;
+  border-radius: 0 0.4rem 0.4rem 0;
+}
+
+/* ---------- Dark mode overrides ---------- */
+html[data-bs-theme="dark"] body {
+  color: #cbd5e1;
+}
+
 html[data-bs-theme="dark"] h1,
 html[data-bs-theme="dark"] h2,
 html[data-bs-theme="dark"] h3,
@@ -101,7 +220,33 @@ html[data-bs-theme="dark"] h6 {
   color: #f1f5f9;
 }
 
+html[data-bs-theme="dark"] .navbar {
+  background: rgba(15, 23, 42, 0.9);
+  border-bottom-color: #1e293b;
+}
+
 html[data-bs-theme="dark"] .about-entity .about-role,
 html[data-bs-theme="dark"] .about-entity .about-org {
-  color: #cbd5e1;
+  color: #5eead4;
+}
+
+html[data-bs-theme="dark"] .about-entity img.rounded,
+html[data-bs-theme="dark"] .about-entity img.round {
+  border-color: #0f172a;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4);
+}
+
+html[data-bs-theme="dark"] .card {
+  border-color: #1e293b;
+  background-color: #0f172a;
+}
+
+html[data-bs-theme="dark"] .about-entity .about-links a {
+  border-color: #334155;
+  background: #1e293b;
+}
+
+html[data-bs-theme="dark"] blockquote {
+  background: #0f172a;
+  border-left-color: #14b8a6;
 }
