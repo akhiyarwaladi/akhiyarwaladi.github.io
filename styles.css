@@ -45,28 +45,49 @@ h3 { font-size: 1.25rem; }
   font-family: 'Lora', Georgia, serif;
   font-weight: 700;
   font-size: 1.25rem;
-  color: var(--accent-dark);
+  color: var(--accent-dark) !important;
+}
+.navbar-brand:hover {
+  color: var(--accent-dark) !important;
 }
 
 .navbar .nav-link {
   font-weight: 500;
-  color: #475569;
+  color: #475569 !important;
 }
 
 .navbar .nav-link:hover {
-  color: var(--accent);
+  color: var(--accent) !important;
 }
 
 .navbar .nav-link.active,
 .navbar .nav-link.active:hover {
-  color: var(--accent-dark);
+  color: var(--accent-dark) !important;
   font-weight: 600;
 }
 
+html[data-bs-theme="dark"] .navbar {
+  background: rgba(15, 23, 42, 0.92) !important;
+}
+html[data-bs-theme="dark"] .navbar-brand,
+html[data-bs-theme="dark"] .navbar-brand:hover {
+  color: #f1f5f9 !important;
+}
+html[data-bs-theme="dark"] .navbar .nav-link {
+  color: #cbd5e1 !important;
+}
+html[data-bs-theme="dark"] .navbar .nav-link:hover {
+  color: #f1f5f9 !important;
+}
 html[data-bs-theme="dark"] .navbar .nav-link.active,
 html[data-bs-theme="dark"] .navbar .nav-link.active:hover {
-  color: #fff;
+  color: #fff !important;
   font-weight: 600;
+}
+/* ensure selection is visible on navbar brand */
+.navbar-brand::selection {
+  background: #334155;
+  color: #fff;
 }
 
 /* ---------- Links ---------- */
@@ -823,6 +844,35 @@ html[data-bs-theme="dark"] .feature-card:hover,
 html[data-bs-theme="dark"] .course-mini:hover {
   border-color: #334155;
   background: #0f172a;
+}
+html[data-bs-theme="dark"] .course-mini {
+  color: #e2e8f0 !important;
+}
+html[data-bs-theme="dark"] .course-mini .course-text {
+  color: #e2e8f0;
+}
+html[data-bs-theme="dark"] .course-mini .course-icon {
+  background: #1e293b;
+  border-color: #334155;
+  color: #cbd5e1;
+}
+html[data-bs-theme="dark"] .feature-card h3,
+html[data-bs-theme="dark"] .contact-card h3,
+html[data-bs-theme="dark"] .stat-box .stat-num,
+html[data-bs-theme="dark"] .timeline-item .tl-role {
+  color: #f1f5f9;
+}
+html[data-bs-theme="dark"] .feature-card p,
+html[data-bs-theme="dark"] .timeline-item .tl-desc,
+html[data-bs-theme="dark"] .contact-card p {
+  color: #cbd5e1;
+}
+html[data-bs-theme="dark"] .feature-card .feature-meta,
+html[data-bs-theme="dark"] .stat-box .stat-label,
+html[data-bs-theme="dark"] .timeline-item .tl-meta,
+html[data-bs-theme="dark"] .section-label,
+html[data-bs-theme="dark"] .pub-year {
+  color: #94a3b8;
 }
 html[data-bs-theme="dark"] .stat-box {
   background: #0f172a;

@@ -9,11 +9,11 @@ I teach in the [Department of Electrical Engineering](https://teknik-elektro.fst
 <div class="section-label">Courses · 5 active</div>
 
 ::: {.course-grid}
-[ <div class="course-icon">AI</div><div class="course-text">Artificial Intelligence</div> ](artificial-intelligence/index.qmd){.course-mini}
-[ <div class="course-icon">ML</div><div class="course-text">Machine Learning</div> ](machine-learning/index.qmd){.course-mini}
-[ <div class="course-icon">DM</div><div class="course-text">Data Mining</div> ](data-mining/index.qmd){.course-mini}
-[ <div class="course-icon">PR</div><div class="course-text">Pattern Recognition</div> ](pattern-recognition/index.qmd){.course-mini}
-[ <div class="course-icon">PC</div><div class="course-text">Pengolahan Citra Digital</div> ](pengolahan-citra-digital/index.qmd){.course-mini}
+<a href="artificial-intelligence/" class="course-mini"><div class="course-icon">AI</div><div class="course-text">Artificial Intelligence</div></a>
+<a href="machine-learning/" class="course-mini"><div class="course-icon">ML</div><div class="course-text">Machine Learning</div></a>
+<a href="data-mining/" class="course-mini"><div class="course-icon">DM</div><div class="course-text">Data Mining</div></a>
+<a href="pattern-recognition/" class="course-mini"><div class="course-icon">PR</div><div class="course-text">Pattern Recognition</div></a>
+<a href="pengolahan-citra-digital/" class="course-mini"><div class="course-icon">PC</div><div class="course-text">Pengolahan Citra Digital</div></a>
 :::
 
 ## Bahan Ajar

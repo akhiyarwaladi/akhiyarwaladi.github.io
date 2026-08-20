@@ -184,11 +184,11 @@ A short sample. Full list with plain-language summaries on the [Publications pag
 I teach in the [Department of Electrical Engineering](https://teknik-elektro.fst.unja.ac.id/), Universitas Jambi. Materials are open access.
 
 ::: {.course-grid}
-[ <div class="course-icon">AI</div><div class="course-text">Artificial Intelligence</div> ](teaching/artificial-intelligence/index.qmd){.course-mini}
-[ <div class="course-icon">ML</div><div class="course-text">Machine Learning</div> ](teaching/machine-learning/index.qmd){.course-mini}
-[ <div class="course-icon">DM</div><div class="course-text">Data Mining</div> ](teaching/data-mining/index.qmd){.course-mini}
-[ <div class="course-icon">PR</div><div class="course-text">Pattern Recognition</div> ](teaching/pattern-recognition/index.qmd){.course-mini}
-[ <div class="course-icon">PC</div><div class="course-text">Pengolahan Citra Digital</div> ](teaching/pengolahan-citra-digital/index.qmd){.course-mini}
+<a href="teaching/artificial-intelligence/" class="course-mini"><div class="course-icon">AI</div><div class="course-text">Artificial Intelligence</div></a>
+<a href="teaching/machine-learning/" class="course-mini"><div class="course-icon">ML</div><div class="course-text">Machine Learning</div></a>
+<a href="teaching/data-mining/" class="course-mini"><div class="course-icon">DM</div><div class="course-text">Data Mining</div></a>
+<a href="teaching/pattern-recognition/" class="course-mini"><div class="course-icon">PR</div><div class="course-text">Pattern Recognition</div></a>
+<a href="teaching/pengolahan-citra-digital/" class="course-mini"><div class="course-icon">PC</div><div class="course-text">Pengolahan Citra Digital</div></a>
 :::
 
 See [Bahan Ajar](index.qmd#bahan-ajar) and the [Teaching page](teaching/index.qmd).
