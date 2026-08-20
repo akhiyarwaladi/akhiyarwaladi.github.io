@@ -14,8 +14,8 @@ My publication record is tracked on [SINTA](https://sinta.kemdiktisaintek.go.id/
 
 ### 2026
 
-- **Pemberdayaan Siswa SMK melalui Pelatihan IoT untuk Sistem Monitoring Tanaman dalam Mendukung Smart Farming.** U. Khaira, E. Saputra, A. Waladi, Y. Perdana, N.R. Hanum, H. Iftitah, R. Ashar, et al. *Jurnal Masyarakat Madani Indonesia* 5(1), 434–445.
-- **Parameter-Efficient Models for Malaria Detection and Classification Using Small-Scale Imbalanced Blood Smear Images.** A. Waladi, H. Iftitah, N.R. Hanum, Y. Perdana, F. Wahyuni, R. Ashar. *Kinetik: Game Technology, Information System, Computer Network, Computing, Electronics, and Control* 11(2), 323–338. [DOI: 10.22219/kinetik.v11i2.2558](https://doi.org/10.22219/kinetik.v11i2.2558)
+- **Pemberdayaan Siswa SMK melalui Pelatihan IoT untuk Sistem Monitoring Tanaman dalam Mendukung Smart Farming.** U. Khaira, E. Saputra, A. Waladi, Y. Perdana, N.R. Hanum, H. Iftitah, R. Ashar, et al. *Jurnal Masyarakat Madani Indonesia* 5(1), 434-445.
+- **Parameter-Efficient Models for Malaria Detection and Classification Using Small-Scale Imbalanced Blood Smear Images.** A. Waladi, H. Iftitah, N.R. Hanum, Y. Perdana, F. Wahyuni, R. Ashar. *Kinetik: Game Technology, Information System, Computer Network, Computing, Electronics, and Control* 11(2), 323-338. [DOI: 10.22219/kinetik.v11i2.2558](https://doi.org/10.22219/kinetik.v11i2.2558)
 - **Transfer Learning Architecture Selection for Remote Sensing Scene Classification.** A. Waladi, H. Iftitah. *Jurnal Riset Informatika* 8(3). [DOI: 10.34288/jri.v8i3.515](https://doi.org/10.34288/jri.v8i3.515)
 - **Multi-Architecture CNN Analysis for Automated Malaria Detection.** A. Waladi, N.R. Hanum, Y. Perdana, H. Iftitah, F. Wahyuni, R. Ashar. *PROCA* 2(2). [DOI: 10.22437/proca.v2i2.55514](https://doi.org/10.22437/proca.v2i2.55514)
 - **Color Complexity and Sharpness for Instagram Engagement.** A. Waladi, J. Marzal, M. Razi A., M. Yudistira, H. Iftitah, H. Alghifari. *PROCA* 2(2). [DOI: 10.22437/proca.v2i2.55582](https://doi.org/10.22437/proca.v2i2.55582)
@@ -23,15 +23,15 @@ My publication record is tracked on [SINTA](https://sinta.kemdiktisaintek.go.id/
 
 ### 2025
 
-- **Pengelompokan Provinsi di Indonesia Berdasarkan Rasio Penggunaan Gas Rumah Tangga pada Tahun 2023 Menggunakan Hierarchical Clustering.** A.A. Nasution, P.E.P. Utomo, U. Khaira, A. Waladi. *JEKIN – Jurnal Teknik Informatika* 5(1), 212–221.
+- **Pengelompokan Provinsi di Indonesia Berdasarkan Rasio Penggunaan Gas Rumah Tangga pada Tahun 2023 Menggunakan Hierarchical Clustering.** A.A. Nasution, P.E.P. Utomo, U. Khaira, A. Waladi. *JEKIN, Jurnal Teknik Informatika* 5(1), 212-221.
 - **Implementation of Machine Learning for Stock Price Prediction Using the LSTM Algorithm.** N.R.H. Nindy, H. Iftitah, A. Waladi, Y. Perdana. *Media Journal of Information System and Informatic* 1(2).
-- **Prediksi Nilai Ekspor Migas Indonesia Menggunakan Metode SARIMA dan LSTM.** H. Kuswanto, P.E.P. Utomo, U. Khaira, A. Waladi. *SATESI: Jurnal Sains Teknologi dan Sistem Informasi* 5(1), 69–79.
-- **Sosialisasi Pemanfaatan Artificial Intelligence untuk Edukasi pada Siswa-Siswi MTs Negeri 3 Kota Jambi.** N.R.H. Nindy, A. Waladi, H. Iftitah, Y. Perdana, R. Ashar. *Jurnal Pengabdian Dosen Indonesia* 2(1), 35–44.
-- **Analisis Prediktif Tren Pendidikan di Indonesia Menggunakan KNN (Studi Kasus Data Pendidikan 2021–2023).** M.B. Nasution, A. Waladi, U. Khaira, P.E.P. Utomo. *Education Library* 1(2), 62–73.
-- **Application of K-means Clustering Algorithm on Customer Segmentation for Effective Marketing Strategy.** A. Waladi, R. Rizaldi, M.A.H. Sutoyo. *Media Journal of Information System and Informatic* 1(2), 16–25.
-- **Comparative Analysis of Triangulation Methods for Optimal Solutions to the Art Gallery Problem.** J. Marzal, N. Rarasati, A. Waladi, Y. Perdana. *PIKSEL: Penelitian Ilmu Komputer Sistem Embedded and Logic* 13(1), 173–182.
-- **Pelatihan Sistem Informasi Keuangan Pengelolaan Data Pengeluaran pada Pondok Pesantren Darul Arifin Jambi.** A. Waladi, H. Iftitah, N.R. Hanum, Y. Perdana, R. Ashar. *Jurnal Pengabdian Dosen Indonesia* 2(2), 37–46.
-- **Hotspot Clustering in Bangka Belitung Islands Province Using Agglomerative Hierarchical Clustering Algorithm.** A. Setiawan, A. Waladi, R. Ashar. *Media Journal of Information System and Informatic* 1(2), 26–35.
+- **Prediksi Nilai Ekspor Migas Indonesia Menggunakan Metode SARIMA dan LSTM.** H. Kuswanto, P.E.P. Utomo, U. Khaira, A. Waladi. *SATESI: Jurnal Sains Teknologi dan Sistem Informasi* 5(1), 69-79.
+- **Sosialisasi Pemanfaatan Artificial Intelligence untuk Edukasi pada Siswa-Siswi MTs Negeri 3 Kota Jambi.** N.R.H. Nindy, A. Waladi, H. Iftitah, Y. Perdana, R. Ashar. *Jurnal Pengabdian Dosen Indonesia* 2(1), 35-44.
+- **Analisis Prediktif Tren Pendidikan di Indonesia Menggunakan KNN (Studi Kasus Data Pendidikan 2021-2023).** M.B. Nasution, A. Waladi, U. Khaira, P.E.P. Utomo. *Education Library* 1(2), 62-73.
+- **Application of K-means Clustering Algorithm on Customer Segmentation for Effective Marketing Strategy.** A. Waladi, R. Rizaldi, M.A.H. Sutoyo. *Media Journal of Information System and Informatic* 1(2), 16-25.
+- **Comparative Analysis of Triangulation Methods for Optimal Solutions to the Art Gallery Problem.** J. Marzal, N. Rarasati, A. Waladi, Y. Perdana. *PIKSEL: Penelitian Ilmu Komputer Sistem Embedded and Logic* 13(1), 173-182.
+- **Pelatihan Sistem Informasi Keuangan Pengelolaan Data Pengeluaran pada Pondok Pesantren Darul Arifin Jambi.** A. Waladi, H. Iftitah, N.R. Hanum, Y. Perdana, R. Ashar. *Jurnal Pengabdian Dosen Indonesia* 2(2), 37-46.
+- **Hotspot Clustering in Bangka Belitung Islands Province Using Agglomerative Hierarchical Clustering Algorithm.** A. Setiawan, A. Waladi, R. Ashar. *Media Journal of Information System and Informatic* 1(2), 26-35.
 - **Peningkatan Akurasi Klasifikasi Tutupan Lahan Menggunakan Random Forest pada Data Sentinel-2 di Jambi.** A. Waladi, et al. *Jurnal Ilmu Komputer (Fasilkom UMRI)*. [PDF](https://ejurnal.umri.ac.id/index.php/JIK/article/download/8886/3478)
 
 ### 2019

@@ -13,7 +13,7 @@ author:
 
 ## Summary
 
-Scene classification is a core task in remote sensing. This paper systematically compares transfer-learning architectures — including convolutional neural networks and Vision Transformers — to identify which backbone performs best for classifying remote sensing scenes.
+Scene classification is a core task in remote sensing. This paper systematically compares transfer-learning architectures, including convolutional neural networks and Vision Transformers, to identify which backbone performs best for classifying remote sensing scenes.
 
 ## Contribution
 

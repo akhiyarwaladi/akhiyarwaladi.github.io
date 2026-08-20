@@ -2,7 +2,7 @@
 title: "Research"
 ---
 
-I focus on AI that is grounded in real data from Jambi and Indonesia — images, sensors, and time series that matter to local decisions in health, agriculture, and public services.
+I focus on AI that is grounded in real data from Jambi and Indonesia, images, sensors, and time series that matter to local decisions in health, agriculture, and public services.
 
 ## Research Themes
 
@@ -22,7 +22,7 @@ Forecasts are only useful if they help plan. I work on:
 
 - Oil and gas export values with **SARIMA and LSTM** (SATESI, 2025).
 - Stock prices with **LSTM** (Media JISI, 2025).
-- Education trends 2021–2023 with **KNN**-based analysis.
+- Education trends 2021-2023 with **KNN**-based analysis.
 
 ### Clustering and Segmentation
 
@@ -35,7 +35,7 @@ Finding structure where labels are scarce:
 
 ### Intelligent and Expert Systems
 
-Small, user-specific systems — often co-built with students and community partners:
+Small, user-specific systems, often co-built with students and community partners:
 
 - Plant monitoring with IoT for SMK smart-farming classes.
 - Financial data tools for Pondok Pesantren Darul Arifin.

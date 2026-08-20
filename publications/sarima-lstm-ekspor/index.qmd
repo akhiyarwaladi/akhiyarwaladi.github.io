@@ -16,13 +16,13 @@ author:
 
 ## Summary
 
-Accurate forecasts of oil and gas export values help economic planning. This study compares two forecasting approaches — the classical SARIMA model and the deep-learning LSTM network — for predicting Indonesian oil & gas export values.
+Accurate forecasts of oil and gas export values help economic planning. This study compares two forecasting approaches, the classical SARIMA model and the deep-learning LSTM network, for predicting Indonesian oil & gas export values.
 
 ## Contribution
 
 - Systematic comparison of SARIMA vs LSTM on macroeconomic time series.
 - Practical guidance on when classical vs deep-learning forecasting is preferable.
-- Published in *SATESI: Jurnal Sains Teknologi dan Sistem Informasi* 5(1), 69–79.
+- Published in *SATESI: Jurnal Sains Teknologi dan Sistem Informasi* 5(1), 69-79.
 
 ## Keywords
 

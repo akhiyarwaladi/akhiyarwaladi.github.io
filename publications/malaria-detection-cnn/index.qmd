@@ -21,7 +21,7 @@ author:
 
 ## Summary
 
-Malaria diagnosis traditionally relies on manual microscopy, which is time-consuming and requires expert pathologists. This study evaluates multiple CNN architectures — including YOLO — for automatically detecting *Plasmodium* species and their lifecycle stages in blood smear images.
+Malaria diagnosis traditionally relies on manual microscopy, which is time-consuming and requires expert pathologists. This study evaluates multiple CNN architectures, including YOLO, for automatically detecting *Plasmodium* species and their lifecycle stages in blood smear images.
 
 ## Contribution
 

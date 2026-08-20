@@ -31,7 +31,7 @@ about:
 
 <div class="hero-headline">Teaching machines to see, count, and predict.</div>
 
-<div class="hero-sub">I work on computer vision and predictive systems — from satellite images and microscope slides to forecasts for real use. This site collects my research, course materials, and projects in one place.</div>
+<div class="hero-sub">I work on computer vision and predictive systems, from satellite images and microscope slides to forecasts for real use. This site collects my research, course materials, and projects in one place.</div>
 
 <div class="hero-cta">
 [Open Bahan Ajar](index.qmd#bahan-ajar){.btn-solid}
@@ -41,11 +41,11 @@ about:
 :::
 :::
 
-I am a **lecturer (Asisten Ahli)** in the [Department of Electrical Engineering](https://teknik-elektro.fst.unja.ac.id/) at [Universitas Jambi](https://www.unja.ac.id/). My work centers on **Artificial Intelligence, Machine Learning, and Pattern Recognition** — with a focus on making them useful outside the lab, whether for agriculture, health, or industry.
+I am a **lecturer (Asisten Ahli)** in the [Department of Electrical Engineering](https://teknik-elektro.fst.unja.ac.id/) at [Universitas Jambi](https://www.unja.ac.id/). My work centers on **Artificial Intelligence, Machine Learning, and Pattern Recognition**, with a focus on making them useful outside the lab, whether for agriculture, health, or industry.
 
 Before joining Universitas Jambi in 2024, I worked as a **Data Scientist** at **Alfagift** (Global Loyalty Indonesia) and **kumparan**, where I built forecasting systems, segmentation models, and ML pipelines used by millions of people.
 
-I hold an **M.Kom. from Universitas Indonesia** and an **S.Komp. from IPB University**. My papers appear in Scopus-indexed and SINTA-accredited venues — see [Google Scholar](https://scholar.google.com/citations?user=OaPOYtEAAAAJ&hl=id) and [SINTA](https://sinta.kemdiktisaintek.go.id/authors/profile/6931115).
+I hold an **M.Kom. from Universitas Indonesia** and an **S.Komp. from IPB University**. My papers appear in Scopus-indexed and SINTA-accredited venues. See [Google Scholar](https://scholar.google.com/citations?user=OaPOYtEAAAAJ&hl=id) and [SINTA](https://sinta.kemdiktisaintek.go.id/authors/profile/6931115).
 
 ## Bahan Ajar
 
@@ -109,22 +109,19 @@ More courses and materials will be added here as they are published.
 
 ## Selected Research
 
-My research groups into four threads. Each one started from a concrete problem my students or collaborators brought to me:
+My research follows problems that students and collaborators bring in:
 
-- **Pattern Recognition and Computer Vision** — reading scanned forms, counting fish from images, classifying remote-sensing scenes, and detecting malaria parasites under the microscope.
-- **Predictive Systems** — forecasting with SARIMA and LSTM, applied to energy exports and stock prices.
-- **Clustering and Segmentation** — K-means and hierarchical methods for customer segments, provincial profiles, and fire hotspots.
-- **Intelligent Systems** — small decision-support tools built for specific users, from village IoT monitors to pesantren administration.
+Pattern recognition shows up in reading scanned forms, counting fish from images, classifying satellite scenes and spotting malaria parasites. For forecasting I use SARIMA and LSTM on energy exports and stock prices. Clustering with K-means and hierarchical methods helps with customer groups, province profiles and fire hotspots. I also build small decision tools, from village IoT monitors to admin systems for pesantren.
 
 ## Featured Publications
 
 A short sample. Full list with plain-language summaries on the [Publications page](publications/index.qmd).
 
-1. **Transfer Learning for Remote Sensing Scene Classification** — which CNN/ViT transfers best for landscape scenes. *Jurnal Riset Informatika* 8(3), 2026. [DOI](https://doi.org/10.34288/jri.v8i3.515)
-2. **Parameter-Efficient Models for Malaria Detection** — small-data, imbalanced blood-smear classification. *Kinetik* 11(2), 2026. [DOI](https://doi.org/10.22219/kinetik.v11i2.2558)
-3. **Multi-Architecture CNN for Automated Malaria Detection** — comparing YOLO and CNN variants on microscopy images. *PROCA* 2(2), 2026. [DOI](https://doi.org/10.22437/proca.v2i2.55514)
-4. **Automatic Counting from Scanned Election Forms** — feature matching + CNN. *ICACSIS 2019* (Scopus). [IEEE](https://ieeexplore.ieee.org/)
-5. **Random Forest for Sentinel-2 Land Cover in Jambi** — improving accuracy on local landscape. *Jurnal Ilmu Komputer (Fasilkom UMRI)*. [PDF](https://ejurnal.umri.ac.id/index.php/JIK/article/download/8886/3478)
+1. **Transfer Learning for Remote Sensing Scene Classification**: which CNN and ViT transfers best for landscape scenes. *Jurnal Riset Informatika* 8(3), 2026. [DOI](https://doi.org/10.34288/jri.v8i3.515)
+2. **Parameter-Efficient Models for Malaria Detection**: small data, imbalanced blood smear classification. *Kinetik* 11(2), 2026. [DOI](https://doi.org/10.22219/kinetik.v11i2.2558)
+3. **Multi-Architecture CNN for Automated Malaria Detection**: comparing YOLO and CNN variants on microscopy images. *PROCA* 2(2), 2026. [DOI](https://doi.org/10.22437/proca.v2i2.55514)
+4. **Automatic Counting from Scanned Election Forms**: feature matching and CNN. *ICACSIS 2019* (Scopus). [IEEE](https://ieeexplore.ieee.org/)
+5. **Random Forest for Sentinel-2 Land Cover in Jambi**: improving accuracy on local landscapes. *Jurnal Ilmu Komputer (Fasilkom UMRI)*. [PDF](https://ejurnal.umri.ac.id/index.php/JIK/article/download/8886/3478)
 
 ## Teaching
 
@@ -132,14 +129,14 @@ I teach in the [Department of Electrical Engineering](https://teknik-elektro.fst
 
 - [Artificial Intelligence](teaching/artificial-intelligence/index.qmd) · [Machine Learning](teaching/machine-learning/index.qmd) · [Data Mining](teaching/data-mining/index.qmd) · [Pattern Recognition](teaching/pattern-recognition/index.qmd) · [Pengolahan Citra Digital](teaching/pengolahan-citra-digital/index.qmd)
 
-Materials are open-access — see [Bahan Ajar](index.qmd#bahan-ajar) above or the [Teaching page](teaching/index.qmd).
+Materials are open access. See [Bahan Ajar](index.qmd#bahan-ajar) above or the [Teaching page](teaching/index.qmd).
 
 ## Selected Projects
 
-- **Automated Fish Counter** — Android + embedded vision to measure, count, and sort fish. [GitHub](https://github.com/akhiyarwaladi/Automated-Fish-Counter) · [Devpost](https://devpost.com/software/automated-fish-counter)
-- **IoT FST Dashboard** — live sensor monitoring for the faculty. [GitHub](https://github.com/akhiyarwaladi/iot_fst_dashboard)
-- **Fire Spot** — hierarchical clustering of fire hotspots in Bangka Belitung. [GitHub](https://github.com/akhiyarwaladi/fire_spot)
-- **ML Tutorials** — hands-on notebooks for my classes. [GitHub](https://github.com/akhiyarwaladi/ml_tutorial)
+- **Automated Fish Counter**: Android and embedded vision to measure, count and sort fish. [GitHub](https://github.com/akhiyarwaladi/Automated-Fish-Counter) · [Devpost](https://devpost.com/software/automated-fish-counter)
+- **IoT FST Dashboard**: live sensor monitoring for the faculty. [GitHub](https://github.com/akhiyarwaladi/iot_fst_dashboard)
+- **Fire Spot**: hierarchical clustering of fire hotspots in Bangka Belitung. [GitHub](https://github.com/akhiyarwaladi/fire_spot)
+- **ML Tutorials**: hands-on notebooks for my classes. [GitHub](https://github.com/akhiyarwaladi/ml_tutorial)
 
 More detail on the [Projects page](projects/index.qmd).
 

@@ -2,16 +2,16 @@
 title: "Pattern Recognition"
 ---
 
-An introduction to recognizing patterns in data — with a strong emphasis on computer vision and machine-learning approaches used in real recognition systems.
+An introduction to recognizing patterns in data, with a strong emphasis on computer vision and machine-learning approaches used in real recognition systems.
 
 ## Topics
 
-1. **Pattern Recognition Fundamentals** — the recognition pipeline and feature extraction.
-2. **Feature Engineering** — descriptors, feature matching, and representation.
-3. **Classical Classifiers** — nearest neighbors, Bayes, and support vector machines.
-4. **Deep Learning for Recognition** — CNNs, transfer learning, and modern architectures.
-5. **Computer Vision Applications** — document analysis, object detection, and image classification.
-6. **Evaluation** — accuracy, precision/recall, and real-world constraints.
+1. **Pattern Recognition Fundamentals**: the recognition pipeline and feature extraction.
+2. **Feature Engineering**: descriptors, feature matching, and representation.
+3. **Classical Classifiers**: nearest neighbors, Bayes, and support vector machines.
+4. **Deep Learning for Recognition**: CNNs, transfer learning, and modern architectures.
+5. **Computer Vision Applications**: document analysis, object detection, and image classification.
+6. **Evaluation**: accuracy, precision/recall, and real-world constraints.
 
 ## Learning Outcomes
 

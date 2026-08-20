@@ -25,7 +25,7 @@ Household gas usage varies widely across Indonesian provinces. This study applie
 
 ## Links
 
-- *JEKIN – Jurnal Teknik Informatika* 5(1), 212–221.
+- *JEKIN, Jurnal Teknik Informatika* 5(1), 212-221.
 
 ## Keywords
 

@@ -2,17 +2,17 @@
 title: "Machine Learning"
 ---
 
-A practical, project-oriented course on machine learning. Students learn the full workflow — from data preparation and feature engineering to model selection, training, evaluation, and deployment — using Python.
+A practical, project-oriented course on machine learning. Students learn the full workflow, from data preparation and feature engineering to model selection, training, evaluation, and deployment, using Python.
 
 ## Topics
 
-1. **Python for Data Science** — NumPy, pandas, and visualization.
-2. **Data Preparation** — cleaning, imputation, encoding, and scaling.
-3. **Supervised Learning** — regression and classification (linear models, trees, ensembles, KNN).
-4. **Unsupervised Learning** — clustering (K-means, hierarchical) and dimensionality reduction.
-5. **Model Evaluation** — cross-validation, metrics, and hyperparameter tuning.
-6. **Deep Learning Introduction** — neural networks and training basics.
-7. **Project** — end-to-end machine-learning project on a real dataset.
+1. **Python for Data Science**: NumPy, pandas, and visualization.
+2. **Data Preparation**: cleaning, imputation, encoding, and scaling.
+3. **Supervised Learning**: regression and classification (linear models, trees, ensembles, KNN).
+4. **Unsupervised Learning**: clustering (K-means, hierarchical) and dimensionality reduction.
+5. **Model Evaluation**: cross-validation, metrics, and hyperparameter tuning.
+6. **Deep Learning Introduction**: neural networks and training basics.
+7. **Project**: end-to-end machine-learning project on a real dataset.
 
 ## Learning Outcomes
 

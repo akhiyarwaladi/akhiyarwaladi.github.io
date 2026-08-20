@@ -2,7 +2,7 @@
 title: "Teaching"
 ---
 
-I teach courses in the [Department of Electrical Engineering](https://teknik-elektro.fst.unja.ac.id/), Faculty of Science and Technology, Universitas Jambi. My teaching areas sit at the intersection of artificial intelligence, data science, and computational systems. They draw on what I learned as a data scientist in industry and on the research I run with students here.
+I teach in the [Department of Electrical Engineering](https://teknik-elektro.fst.unja.ac.id/), Faculty of Science and Technology, Universitas Jambi. My courses cover artificial intelligence, data science and computational systems. A lot of the material comes from my time as a data scientist and from research I do with students here.
 
 ## Courses
 
@@ -70,11 +70,7 @@ See the [course page](pengolahan-citra-digital/index.qmd) for the full topic lis
 
 ## Teaching Philosophy
 
-I believe students learn best by doing. My courses combine:
-
-- **Clear theory**: the mathematical foundations behind algorithms, explained from first principles.
-- **Hands-on practice**: executable notebooks and small projects on real, locally relevant datasets.
-- **Industry perspective**: examples drawn from data-science practice in retail and media, where models must be robust, interpretable, and production-ready.
+I try to keep courses practical. We start with the math so the ideas are clear, then move quickly to notebooks and small projects that use local data. I also bring in examples from retail and media, where a model has to be reliable and easy to explain, not just accurate in a notebook.
 
 ## Supervision
 

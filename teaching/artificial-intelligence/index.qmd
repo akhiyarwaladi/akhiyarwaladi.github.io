@@ -2,16 +2,16 @@
 title: "Artificial Intelligence"
 ---
 
-An introduction to the theory and practice of artificial intelligence, covering intelligent agents, search, knowledge representation, and machine learning — with emphasis on how AI systems are designed, built, and evaluated.
+An introduction to the theory and practice of artificial intelligence, covering intelligent agents, search, knowledge representation, and machine learning, with emphasis on how AI systems are designed, built, and evaluated.
 
 ## Topics
 
-1. **Intelligent Agents** — agent architectures, environments, and rationality.
-2. **Problem Solving & Search** — uninformed and informed search, heuristics, and constraint satisfaction.
-3. **Knowledge Representation & Reasoning** — logic, rules, and expert systems.
-4. **Uncertainty & Probabilistic Reasoning** — Bayesian inference and decision making.
-5. **Machine Learning Foundations** — supervised and unsupervised learning, model evaluation.
-6. **AI Applications** — computer vision, NLP, and intelligent systems in practice.
+1. **Intelligent Agents**: agent architectures, environments, and rationality.
+2. **Problem Solving & Search**: uninformed and informed search, heuristics, and constraint satisfaction.
+3. **Knowledge Representation & Reasoning**: logic, rules, and expert systems.
+4. **Uncertainty & Probabilistic Reasoning**: Bayesian inference and decision making.
+5. **Machine Learning Foundations**: supervised and unsupervised learning, model evaluation.
+6. **AI Applications**: computer vision, NLP, and intelligent systems in practice.
 
 ## Learning Outcomes
 

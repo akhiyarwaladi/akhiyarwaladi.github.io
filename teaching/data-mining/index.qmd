@@ -6,12 +6,12 @@ An introduction to discovering useful patterns and knowledge from large datasets
 
 ## Topics
 
-1. **Data Mining Overview** — the KDD process and data preprocessing.
-2. **Classification** — decision trees, Naive Bayes, KNN, and ensemble methods.
-3. **Clustering** — partitional (K-means) and hierarchical (agglomerative) methods.
-4. **Association Rules** — frequent itemsets and Apriori.
-5. **Evaluation & Interpretation** — measuring and interpreting mining results.
-6. **Applications** — segmentation, anomaly detection, and market analysis.
+1. **Data Mining Overview**: the KDD process and data preprocessing.
+2. **Classification**: decision trees, Naive Bayes, KNN, and ensemble methods.
+3. **Clustering**: partitional (K-means) and hierarchical (agglomerative) methods.
+4. **Association Rules**: frequent itemsets and Apriori.
+5. **Evaluation & Interpretation**: measuring and interpreting mining results.
+6. **Applications**: segmentation, anomaly detection, and market analysis.
 
 ## Learning Outcomes
 
