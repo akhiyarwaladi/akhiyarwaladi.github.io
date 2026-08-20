@@ -33,6 +33,28 @@ A written module in PDF that walks through the same topics in more depth. Use it
 [Read Module](https://drive.google.com/file/d/1y1ij3rJDb6NUxywrhsa6GeT0Cl3eBiOn/view?usp=sharing){.resource-btn target="_blank"}
 :::
 
+::: {.resource-card .resource-rps}
+<div class="resource-badge badge-rps">RPS</div>
+::: {.resource-icon}
+::: {.icon-rps}
+:::
+:::
+### RPS Rencana Pembelajaran Semester
+The official semester lesson plan for the course. Outlines learning outcomes, weekly topics, assignments, and grading.
+[Open RPS](https://drive.google.com/file/d/1BKnfMpmOXfsZvcDX0eOi5QV8V51ozPBO/view?usp=sharing){.resource-btn target="_blank"}
+:::
+
+::: {.resource-card .resource-brief}
+<div class="resource-badge badge-brief">Brief</div>
+::: {.resource-icon}
+::: {.icon-brief}
+:::
+:::
+### Final Project Brief
+Guidelines for the end-of-semester project. Defines the deliverables, evaluation criteria, and timeline.
+[View Brief](https://drive.google.com/file/d/1sDZPsunoAihxWghFHsg1kuKjSJYfL83e/view?usp=sharing){.resource-btn target="_blank"}
+:::
+
 :::
 
 More materials (notebooks, datasets, exercises) will be added here as the course runs.

@@ -42,6 +42,28 @@ A written PDF module covering the same material in more depth, useful for review
 [Read Module](https://drive.google.com/file/d/1y1ij3rJDb6NUxywrhsa6GeT0Cl3eBiOn/view?usp=sharing){.resource-btn target="_blank"}
 :::
 
+::: {.resource-card .resource-rps}
+<div class="resource-badge badge-rps">RPS</div>
+::: {.resource-icon}
+::: {.icon-rps}
+:::
+:::
+### RPS Rencana Pembelajaran Semester
+The official semester lesson plan. Outlines learning outcomes, weekly topics, assignments, and grading.
+[Open RPS](https://drive.google.com/file/d/1BKnfMpmOXfsZvcDX0eOi5QV8V51ozPBO/view?usp=sharing){.resource-btn target="_blank"}
+:::
+
+::: {.resource-card .resource-brief}
+<div class="resource-badge badge-brief">Brief</div>
+::: {.resource-icon}
+::: {.icon-brief}
+:::
+:::
+### Final Project Brief
+Guidelines for the end-of-semester project. Defines the deliverables, evaluation criteria, and timeline.
+[View Brief](https://drive.google.com/file/d/1sDZPsunoAihxWghFHsg1kuKjSJYfL83e/view?usp=sharing){.resource-btn target="_blank"}
+:::
+
 :::
 
 See the [course page](pengolahan-citra-digital/index.qmd) for the full topic list and learning outcomes.
