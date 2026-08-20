@@ -34,7 +34,8 @@ about:
 <div class="hero-sub">I am a lecturer at Universitas Jambi working on computer vision, predictive systems, and intelligent computing. My work spans research, teaching, and community service.</div>
 
 <div class="hero-cta">
-[View Research](research.qmd){.btn-solid}
+[View Bahan Ajar](index.qmd#bahan-ajar){.btn-solid}
+[View Research](research.qmd){.btn-ghost}
 [Browse Teaching](teaching/index.qmd){.btn-ghost}
 </div>
 :::
