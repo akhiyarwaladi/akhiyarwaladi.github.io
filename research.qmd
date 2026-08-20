@@ -2,45 +2,44 @@
 title: "Research"
 ---
 
-My research applies artificial intelligence, machine learning, and pattern recognition to solve practical problems in agriculture, health, industry, and public administration. I work primarily with deep learning, computer vision, time-series forecasting, and clustering methods.
+I focus on AI that is grounded in real data from Jambi and Indonesia — images, sensors, and time series that matter to local decisions in health, agriculture, and public services.
 
 ## Research Themes
 
-### Pattern Recognition & Computer Vision
+### Pattern Recognition and Computer Vision
 
-I develop recognition systems for structured and unstructured visual data, from scanned election forms and remote sensing scenes to agricultural and medical imagery.
+From paper forms to satellite and microscope images, I build systems that learn to read visual data:
 
-- **Automatic counting based on scanned election form using feature match and CNN**: a system that automatically tallies votes from scanned election forms (ICACSIS 2019, Scopus-indexed).
-- **Transfer learning for remote sensing scene classification**: benchmarking CNN and Vision Transformer architectures for scene recognition.
-- **Multi-architecture CNN analysis for automated malaria detection**: detecting *Plasmodium* species and lifecycle stages in microscopy images with YOLO and CNN variants.
-- **Land cover classification**: improving accuracy of Sentinel-2 land cover classification using Random Forest.
-- **Automated Fish Counter**: embedded vision system for fish measurement, counting, and sorting.
+- **Election forms**: automatic vote tallying from scanned forms using feature matching + CNN (ICACSIS 2019, Scopus).
+- **Remote sensing**: testing which CNN/ViT backbones transfer best for landscape scene classification.
+- **Malaria microscopy**: comparing YOLO and CNN variants to detect *Plasmodium* species and stages.
+- **Land cover**: improving Sentinel-2 classification for Jambi with Random Forest.
+- **Fish counter**: embedded vision to measure, count, and sort fish on device.
 
-### Predictive Systems & Time-Series Forecasting
+### Predictive Systems and Forecasting
 
-I build forecasting and prediction models for economic, energy, and market data.
+Forecasts are only useful if they help plan. I work on:
 
-- **Prediksi Nilai Ekspor Migas Indonesia**: forecasting Indonesian oil & gas export values using SARIMA and LSTM (SATESI, 2025).
-- **Stock price prediction with LSTM**: machine-learning approach to stock price forecasting (Media JISI, 2025).
-- **Predictive analytics for education trends**: KNN-based analysis of Indonesian education data 2021–2023.
-- **Predictive systems** are a core expertise area: designing and building computational systems that turn historical data into actionable forecasts.
+- Oil and gas export values with **SARIMA and LSTM** (SATESI, 2025).
+- Stock prices with **LSTM** (Media JISI, 2025).
+- Education trends 2021–2023 with **KNN**-based analysis.
 
-### Machine Learning, Clustering & Segmentation
+### Clustering and Segmentation
 
-I use unsupervised and supervised learning to reveal structure in data.
+Finding structure where labels are scarce:
 
-- **K-means customer segmentation**: clustering for effective marketing strategy (Media JISI, 2025).
-- **Hierarchical clustering of Indonesian provinces**: grouping provinces by household gas usage ratio (JEKIN, 2025).
-- **Hotspot clustering in Bangka Belitung Islands**: agglomerative hierarchical clustering for fire hotspot analysis.
-- **Instagram engagement analysis**: machine-learning classification of visual and temporal features.
+- **K-means** for customer segmentation.
+- **Hierarchical clustering** of provinces by household gas use (JEKIN, 2025).
+- **Agglomerative clustering** of fire hotspots in Bangka Belitung.
+- Visual + temporal features behind Instagram engagement.
 
-### Expert Systems & Intelligent Computing
+### Intelligent and Expert Systems
 
-I design domain-specific decision-support and intelligent systems, an area I teach and apply through community-service projects:
+Small, user-specific systems — often co-built with students and community partners:
 
-- **Rancang bangun sistem komputasi**: construction of computational systems for real users.
-- **IoT monitoring systems**: smart farming plant monitoring taught to vocational (SMK) students.
-- **Financial information systems**: data-management systems for pesantren administrators.
+- Plant monitoring with IoT for SMK smart-farming classes.
+- Financial data tools for Pondok Pesantren Darul Arifin.
+- General computational system design for teaching labs.
 
 ## Selected Research Output
 
