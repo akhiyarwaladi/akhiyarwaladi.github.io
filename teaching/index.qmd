@@ -32,6 +32,7 @@ Open teaching materials for the courses above. Free to access, no login required
 :::
 ### Slide Kuliah
 The full lecture deck for the semester, from image fundamentals to segmentation and classification.
+
 [Open Slides](https://docs.google.com/presentation/d/1Reo1ia3vlB7yGebvYiSpm-v-KJINZrSgX4jItkIog8M/edit?usp=sharing){.resource-btn target="_blank"}
 :::
 
@@ -43,6 +44,7 @@ The full lecture deck for the semester, from image fundamentals to segmentation 
 :::
 ### Modul Ajar
 A written PDF module covering the same material in more depth, useful for review and practical sessions.
+
 [Read Module](https://drive.google.com/file/d/1y1ij3rJDb6NUxywrhsa6GeT0Cl3eBiOn/view?usp=sharing){.resource-btn target="_blank"}
 :::
 
@@ -54,6 +56,7 @@ A written PDF module covering the same material in more depth, useful for review
 :::
 ### RPS Rencana Pembelajaran Semester
 The official semester lesson plan. Outlines learning outcomes, weekly topics, assignments, and grading.
+
 [Open RPS](https://drive.google.com/file/d/1BKnfMpmOXfsZvcDX0eOi5QV8V51ozPBO/view?usp=sharing){.resource-btn target="_blank"}
 :::
 
@@ -65,6 +68,7 @@ The official semester lesson plan. Outlines learning outcomes, weekly topics, as
 :::
 ### Final Project Brief
 Guidelines for the end-of-semester project. Defines the deliverables, evaluation criteria, and timeline.
+
 [View Brief](https://drive.google.com/file/d/1sDZPsunoAihxWghFHsg1kuKjSJYfL83e/view?usp=sharing){.resource-btn target="_blank"}
 :::
 
