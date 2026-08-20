@@ -8,7 +8,7 @@ listing:
   max-items: 30
 ---
 
-My publication record is tracked on [SINTA](https://sinta.kemdiktisaintek.go.id/authors/profile/6931115) and [Google Scholar](https://sinta.kemdiktisaintek.go.id/authors/profile/6931115/?view=googlescholar). Below is the full list of journal and conference outputs.
+My publication record is tracked on [SINTA](https://sinta.kemdiktisaintek.go.id/authors/profile/6931115) and [Google Scholar](https://scholar.google.com/citations?user=OaPOYtEAAAAJ&hl=id). Below is the full list of journal and conference outputs.
 
 ## Complete Publication List
 
