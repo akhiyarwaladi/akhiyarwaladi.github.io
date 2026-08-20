@@ -14,23 +14,72 @@ Since September 2024, I have been a lecturer at Universitas Jambi. I currently t
 
 ## Research Interests
 
-My formal expertise is artificial intelligence and computing. In day to day work that breaks into a few strands. I use deep learning for recognition tasks on documents, satellite scenes, farm images and medical images. I build forecasting models with SARIMA and LSTM and apply them to prices and trends. A lot of my work is clustering and classification for segmentation, and I also design small decision support systems for specific users. On the vision side I work with CNNs and transfer learning.
+<div class="section-label">Expertise</div>
+
+::: {.feature-grid}
+
+::: {.feature-card}
+### Recognition
+<p>Deep learning for documents, satellite scenes, farm and medical images.</p>
+<div class="feature-meta">CNN · Transfer learning · YOLO</div>
+:::
+
+::: {.feature-card}
+### Forecasting
+<p>SARIMA and LSTM for prices and trends.</p>
+<div class="feature-meta">Time series · SARIMA · LSTM</div>
+:::
+
+::: {.feature-card}
+### Clustering
+<p>K-means and hierarchical methods for segmentation.</p>
+<div class="feature-meta">K-means · Hierarchical</div>
+:::
+
+::: {.feature-card}
+### Systems
+<p>Small decision support tools for real users.</p>
+<div class="feature-meta">IoT · Expert systems</div>
+:::
+
+:::
 
 ## Education
+
+<div class="section-label">Education</div>
 
 | Degree | Institution | Program | Year |
 |---|---|---|---|
 | S2 (M.Kom.) | Universitas Indonesia | Ilmu Komputer | 2018-2020 |
 | S1 (S.Komp.) | IPB University (Institut Pertanian Bogor) | Ilmu Komputer | 2013-2017 |
 
-## Academic Experience
+## Experience
 
-- **Lecturer (Asisten Ahli)**: Department of Electrical Engineering, Faculty of Science and Technology, Universitas Jambi (Sep 2024 - present).
+<div class="section-label">Academic</div>
 
-## Industry Experience
+::: {.timeline}
+::: {.timeline-item}
+<div class="tl-role">Lecturer (Asisten Ahli)</div>
+<div class="tl-meta">Department of Electrical Engineering, Universitas Jambi · Sep 2024 - present</div>
+<div class="tl-desc">Teach AI, ML and pattern recognition, supervise theses, run community programs on AI and IoT literacy.</div>
+:::
+:::
 
-- **Data Scientist**: Alfagift, Global Loyalty Indonesia, Tangerang, Banten (Sep 2020 - Aug 2024). Built data products, forecasting models, and machine-learning pipelines for a retail loyalty platform.
-- **Data Scientist**: kumparan, Jakarta (Sep 2018 - Dec 2019; Jan - Jul 2020). Research department; developed NLP and machine-learning solutions for a digital media platform.
+<div class="section-label">Industry</div>
+
+::: {.timeline}
+::: {.timeline-item}
+<div class="tl-role">Data Scientist, Alfagift, Global Loyalty Indonesia</div>
+<div class="tl-meta">Tangerang · Sep 2020 - Aug 2024</div>
+<div class="tl-desc">Built data products, forecasting models and ML pipelines for a retail loyalty platform.</div>
+:::
+
+::: {.timeline-item}
+<div class="tl-role">Data Scientist, kumparan</div>
+<div class="tl-meta">Jakarta · Sep 2018 - Dec 2019; Jan - Jul 2020</div>
+<div class="tl-desc">Research department, NLP and ML solutions for a digital media platform.</div>
+:::
+:::
 
 ## Professional Profiles
 
@@ -41,11 +90,31 @@ My formal expertise is artificial intelligence and computing. In day to day work
 - **NIDN:** 1995072301
 - **NIP:** 199507232024061001
 
-## Community Service (Pengabdian) Highlights
+## Community Service
 
-- **IoT training for SMK students**: "Pemberdayaan Siswa SMK melalui Pelatihan IoT untuk Sistem Monitoring Tanaman dalam Mendukung Smart Farming" (2026).
-- **AI education for madrasah students**: "Sosialisasi Pemanfaatan Artificial Intelligence untuk Edukasi pada Siswa-Siswi MTs Negeri 3 Kota Jambi" (2025).
-- **Financial information system training**: "Pelatihan Sistem Informasi Keuangan Pengelolaan Data Pengeluaran pada Pondok Pesantren Darul Arifin Jambi" (2025).
+<div class="section-label">Pengabdian</div>
+
+::: {.feature-grid}
+
+::: {.feature-card}
+### IoT for SMK Students
+<p>Plant monitoring for smart farming.</p>
+<div class="feature-meta">2026 · "Pemberdayaan Siswa SMK melalui Pelatihan IoT untuk Sistem Monitoring Tanaman dalam Mendukung Smart Farming"</div>
+:::
+
+::: {.feature-card}
+### AI for Madrasah
+<p>AI literacy for students at MTs Negeri 3 Kota Jambi.</p>
+<div class="feature-meta">2025 · "Sosialisasi Pemanfaatan Artificial Intelligence untuk Edukasi"</div>
+:::
+
+::: {.feature-card}
+### Finance System for Pesantren
+<p>Expense management training at Pondok Pesantren Darul Arifin.</p>
+<div class="feature-meta">2025 · "Pelatihan Sistem Informasi Keuangan"</div>
+:::
+
+:::
 
 ## Download CV
 

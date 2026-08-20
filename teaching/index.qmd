@@ -6,11 +6,15 @@ I teach in the [Department of Electrical Engineering](https://teknik-elektro.fst
 
 ## Courses
 
-- [Artificial Intelligence](artificial-intelligence/index.qmd)
-- [Machine Learning](machine-learning/index.qmd)
-- [Data Mining](data-mining/index.qmd)
-- [Pattern Recognition](pattern-recognition/index.qmd)
-- [Pengolahan Citra Digital](pengolahan-citra-digital/index.qmd) (Digital Image Processing)
+<div class="section-label">Courses · 5 active</div>
+
+::: {.course-grid}
+[ <div class="course-icon">AI</div><div class="course-text">Artificial Intelligence</div> ](artificial-intelligence/index.qmd){.course-mini}
+[ <div class="course-icon">ML</div><div class="course-text">Machine Learning</div> ](machine-learning/index.qmd){.course-mini}
+[ <div class="course-icon">DM</div><div class="course-text">Data Mining</div> ](data-mining/index.qmd){.course-mini}
+[ <div class="course-icon">PR</div><div class="course-text">Pattern Recognition</div> ](pattern-recognition/index.qmd){.course-mini}
+[ <div class="course-icon">PC</div><div class="course-text">Pengolahan Citra Digital</div> ](pengolahan-citra-digital/index.qmd){.course-mini}
+:::
 
 ## Bahan Ajar
 
@@ -74,9 +78,30 @@ I try to keep courses practical. We start with the math so the ideas are clear, 
 
 ## Supervision
 
-I supervise undergraduate student projects and theses (tugas akhir/skripsi) in topics such as:
+<div class="section-label">Supervision</div>
 
-- Machine learning and deep learning applications
-- Computer vision and pattern recognition
-- IoT systems and embedded intelligence
-- Time-series forecasting and predictive systems
+I supervise undergraduate projects and theses (tugas akhir and skripsi):
+
+::: {.feature-grid}
+
+::: {.feature-card}
+### Machine Learning
+<p>Applied deep learning and forecasting projects.</p>
+:::
+
+::: {.feature-card}
+### Vision
+<p>Computer vision and pattern recognition.</p>
+:::
+
+::: {.feature-card}
+### IoT and Embedded
+<p>Sensor systems and on-device intelligence.</p>
+:::
+
+::: {.feature-card}
+### Predictive Systems
+<p>Time series and decision support.</p>
+:::
+
+:::

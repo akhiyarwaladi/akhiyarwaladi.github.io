@@ -2,34 +2,53 @@
 title: "Contact"
 ---
 
-I am happy to discuss research collaborations, student supervision, teaching materials, and machine-learning projects. Please reach me through any of the channels below.
+I am happy to discuss research collaborations, student supervision, teaching materials and machine-learning projects.
 
-## Email
+::: {.contact-grid}
 
-- **Personal:** [akhiyarwaladi@gmail.com](mailto:akhiyarwaladi@gmail.com)
-- **Institutional:** [akhiyar.waladi@unja.ac.id](mailto:akhiyar.waladi@unja.ac.id)
+::: {.contact-card}
+### Email
+<p>**Personal:** [akhiyarwaladi@gmail.com](mailto:akhiyarwaladi@gmail.com)<br>**Institutional:** [akhiyar.waladi@unja.ac.id](mailto:akhiyar.waladi@unja.ac.id)</p>
+:::
+
+::: {.contact-card}
+### Availability
+<p>I usually reply within a few working days. For supervision, please include a brief project description and timeline.</p>
+:::
+
+:::
 
 ## Affiliation
 
-**Universitas Jambi**
-Faculty of Science and Technology (FST)
-Department of Electrical Engineering
-Kampus Pinang Masak, Jl. Jambi, Muara Bulian KM 15, Muaro Jambi, Jambi, Indonesia
+::: {.contact-card}
+### Universitas Jambi
+<p>Faculty of Science and Technology (FST)<br>Department of Electrical Engineering<br>Kampus Pinang Masak, Jl. Jambi, Muara Bulian KM 15, Muaro Jambi, Jambi, Indonesia</p>
+:::
 
 ## Profiles
 
-- **GitHub**: [github.com/akhiyarwaladi](https://github.com/akhiyarwaladi)
-- **LinkedIn**: [linkedin.com/in/akhiyar-waladi](https://id.linkedin.com/in/akhiyar-waladi)
-- **SINTA**: [sinta.kemdiktisaintek.go.id/authors/profile/6931115](https://sinta.kemdiktisaintek.go.id/authors/profile/6931115)
-- **Google Scholar**: [profile](https://scholar.google.com/citations?user=OaPOYtEAAAAJ&hl=id)
-- **Institutional researcher profile**: [riset.unja.ac.id](https://riset.unja.ac.id/)
-- **Electrical Engineering Department**: [teknik-elektro.fst.unja.ac.id](https://teknik-elektro.fst.unja.ac.id/tenaga-pendidik-dosen/)
+::: {.feature-grid}
 
-## Identifiers
+::: {.feature-card}
+### GitHub
+<p>[github.com/akhiyarwaladi](https://github.com/akhiyarwaladi)</p>
+:::
 
-- **NIDN:** 1995072301
-- **SINTA ID:** 6931115
+::: {.feature-card}
+### LinkedIn
+<p>[linkedin.com/in/akhiyar-waladi](https://id.linkedin.com/in/akhiyar-waladi)</p>
+:::
 
-## Availability
+::: {.feature-card}
+### SINTA
+<p>[sinta.kemdiktisaintek.go.id/authors/profile/6931115](https://sinta.kemdiktisaintek.go.id/authors/profile/6931115)<br><span class="feature-meta">NIDN 1995072301 · SINTA ID 6931115</span></p>
+:::
 
-I typically respond to email within a few working days. For student supervision or collaboration inquiries, please include a brief description of your project and timeline.
+::: {.feature-card}
+### Google Scholar
+<p>[Scholar profile](https://scholar.google.com/citations?user=OaPOYtEAAAAJ&hl=id)</p>
+:::
+
+:::
+
+<div class="feature-meta">Also: [Institutional researcher profile](https://riset.unja.ac.id/) · [Electrical Engineering Department](https://teknik-elektro.fst.unja.ac.id/tenaga-pendidik-dosen/)</div>

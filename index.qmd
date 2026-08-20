@@ -109,34 +109,121 @@ More courses and materials will be added here as they are published.
 
 ## Selected Research
 
-My research follows problems that students and collaborators bring in:
+<div class="section-label">Research</div>
 
-Pattern recognition shows up in reading scanned forms, counting fish from images, classifying satellite scenes and spotting malaria parasites. For forecasting I use SARIMA and LSTM on energy exports and stock prices. Clustering with K-means and hierarchical methods helps with customer groups, province profiles and fire hotspots. I also build small decision tools, from village IoT monitors to admin systems for pesantren.
+My research follows problems that students and collaborators bring in. Four strands:
+
+::: {.feature-grid}
+
+::: {.feature-card}
+### Pattern Recognition
+<p>Reading scanned forms, counting fish from images, classifying satellite scenes and spotting malaria parasites.</p>
+<div class="feature-meta">Vision · CNN · YOLO</div>
+:::
+
+::: {.feature-card}
+### Predictive Systems
+<p>Forecasting with SARIMA and LSTM on energy exports and stock prices, and KNN-based trend analysis.</p>
+<div class="feature-meta">Time series · SARIMA · LSTM</div>
+:::
+
+::: {.feature-card}
+### Clustering and Segmentation
+<p>K-means and hierarchical methods for customer groups, province profiles and fire hotspots.</p>
+<div class="feature-meta">K-means · Hierarchical</div>
+:::
+
+::: {.feature-card}
+### Intelligent Systems
+<p>Small decision tools built for real users, from village IoT monitors to admin systems for pesantren.</p>
+<div class="feature-meta">IoT · Decision support</div>
+:::
+
+:::
 
 ## Featured Publications
 
+<div class="section-label">Publications · 5 selected</div>
+
 A short sample. Full list with plain-language summaries on the [Publications page](publications/index.qmd).
 
-1. **Transfer Learning for Remote Sensing Scene Classification**: which CNN and ViT transfers best for landscape scenes. *Jurnal Riset Informatika* 8(3), 2026. [DOI](https://doi.org/10.34288/jri.v8i3.515)
-2. **Parameter-Efficient Models for Malaria Detection**: small data, imbalanced blood smear classification. *Kinetik* 11(2), 2026. [DOI](https://doi.org/10.22219/kinetik.v11i2.2558)
-3. **Multi-Architecture CNN for Automated Malaria Detection**: comparing YOLO and CNN variants on microscopy images. *PROCA* 2(2), 2026. [DOI](https://doi.org/10.22437/proca.v2i2.55514)
-4. **Automatic Counting from Scanned Election Forms**: feature matching and CNN. *ICACSIS 2019* (Scopus). [IEEE](https://ieeexplore.ieee.org/)
-5. **Random Forest for Sentinel-2 Land Cover in Jambi**: improving accuracy on local landscapes. *Jurnal Ilmu Komputer (Fasilkom UMRI)*. [PDF](https://ejurnal.umri.ac.id/index.php/JIK/article/download/8886/3478)
+::: {.feature-grid}
+
+::: {.feature-card}
+### Transfer Learning for Remote Sensing
+<p>Which CNN and ViT transfer best for landscape scenes.</p>
+<div class="feature-meta">Jurnal Riset Informatika 8(3), 2026 · [DOI](https://doi.org/10.34288/jri.v8i3.515)</div>
+:::
+
+::: {.feature-card}
+### Parameter-Efficient Malaria Detection
+<p>Small data, imbalanced blood smear classification.</p>
+<div class="feature-meta">Kinetik 11(2), 2026 · [DOI](https://doi.org/10.22219/kinetik.v11i2.2558)</div>
+:::
+
+::: {.feature-card}
+### Multi-Architecture CNN for Malaria
+<p>Comparing YOLO and CNN variants on microscopy images.</p>
+<div class="feature-meta">PROCA 2(2), 2026 · [DOI](https://doi.org/10.22437/proca.v2i2.55514)</div>
+:::
+
+::: {.feature-card}
+### Sentinel-2 Land Cover in Jambi
+<p>Random Forest improving accuracy on local landscapes.</p>
+<div class="feature-meta">Jurnal Ilmu Komputer (Fasilkom UMRI) · [PDF](https://ejurnal.umri.ac.id/index.php/JIK/article/download/8886/3478)</div>
+:::
+
+:::
+
+<div class="feature-meta">Also: Automatic Counting from Scanned Election Forms, feature matching and CNN. ICACSIS 2019 (Scopus) · [IEEE](https://ieeexplore.ieee.org/)</div>
 
 ## Teaching
 
-I teach in the [Department of Electrical Engineering](https://teknik-elektro.fst.unja.ac.id/), Universitas Jambi:
+<div class="section-label">Teaching</div>
 
-- [Artificial Intelligence](teaching/artificial-intelligence/index.qmd) · [Machine Learning](teaching/machine-learning/index.qmd) · [Data Mining](teaching/data-mining/index.qmd) · [Pattern Recognition](teaching/pattern-recognition/index.qmd) · [Pengolahan Citra Digital](teaching/pengolahan-citra-digital/index.qmd)
+I teach in the [Department of Electrical Engineering](https://teknik-elektro.fst.unja.ac.id/), Universitas Jambi. Materials are open access.
 
-Materials are open access. See [Bahan Ajar](index.qmd#bahan-ajar) above or the [Teaching page](teaching/index.qmd).
+::: {.course-grid}
+[ <div class="course-icon">AI</div><div class="course-text">Artificial Intelligence</div> ](teaching/artificial-intelligence/index.qmd){.course-mini}
+[ <div class="course-icon">ML</div><div class="course-text">Machine Learning</div> ](teaching/machine-learning/index.qmd){.course-mini}
+[ <div class="course-icon">DM</div><div class="course-text">Data Mining</div> ](teaching/data-mining/index.qmd){.course-mini}
+[ <div class="course-icon">PR</div><div class="course-text">Pattern Recognition</div> ](teaching/pattern-recognition/index.qmd){.course-mini}
+[ <div class="course-icon">PC</div><div class="course-text">Pengolahan Citra Digital</div> ](teaching/pengolahan-citra-digital/index.qmd){.course-mini}
+:::
+
+See [Bahan Ajar](index.qmd#bahan-ajar) and the [Teaching page](teaching/index.qmd).
 
 ## Selected Projects
 
-- **Automated Fish Counter**: Android and embedded vision to measure, count and sort fish. [GitHub](https://github.com/akhiyarwaladi/Automated-Fish-Counter) · [Devpost](https://devpost.com/software/automated-fish-counter)
-- **IoT FST Dashboard**: live sensor monitoring for the faculty. [GitHub](https://github.com/akhiyarwaladi/iot_fst_dashboard)
-- **Fire Spot**: hierarchical clustering of fire hotspots in Bangka Belitung. [GitHub](https://github.com/akhiyarwaladi/fire_spot)
-- **ML Tutorials**: hands-on notebooks for my classes. [GitHub](https://github.com/akhiyarwaladi/ml_tutorial)
+<div class="section-label">Projects</div>
+
+::: {.feature-grid}
+
+::: {.feature-card}
+### Automated Fish Counter
+<p>Android and embedded vision to measure, count and sort fish.</p>
+<div class="feature-meta">[GitHub](https://github.com/akhiyarwaladi/Automated-Fish-Counter) · [Devpost](https://devpost.com/software/automated-fish-counter)</div>
+:::
+
+::: {.feature-card}
+### IoT FST Dashboard
+<p>Live sensor monitoring for the faculty.</p>
+<div class="feature-meta">[GitHub](https://github.com/akhiyarwaladi/iot_fst_dashboard)</div>
+:::
+
+::: {.feature-card}
+### Fire Spot
+<p>Hierarchical clustering of fire hotspots in Bangka Belitung.</p>
+<div class="feature-meta">[GitHub](https://github.com/akhiyarwaladi/fire_spot)</div>
+:::
+
+::: {.feature-card}
+### ML Tutorials
+<p>Hands-on notebooks for my classes.</p>
+<div class="feature-meta">[GitHub](https://github.com/akhiyarwaladi/ml_tutorial)</div>
+:::
+
+:::
 
 More detail on the [Projects page](projects/index.qmd).
 

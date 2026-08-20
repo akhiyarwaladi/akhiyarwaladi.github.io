@@ -8,11 +8,28 @@ listing:
   max-items: 30
 ---
 
-My publication record is tracked on [SINTA](https://sinta.kemdiktisaintek.go.id/authors/profile/6931115) and [Google Scholar](https://scholar.google.com/citations?user=OaPOYtEAAAAJ&hl=id). Below is the full list of journal and conference outputs.
+My publication record is tracked on [SINTA](https://sinta.kemdiktisaintek.go.id/authors/profile/6931115) and [Google Scholar](https://scholar.google.com/citations?user=OaPOYtEAAAAJ&hl=id).
+
+::: {.stats-row}
+::: {.stat-box}
+<div class="stat-num">6</div>
+<div class="stat-label">2026</div>
+:::
+::: {.stat-box}
+<div class="stat-num">10</div>
+<div class="stat-label">2025</div>
+:::
+::: {.stat-box}
+<div class="stat-num">1</div>
+<div class="stat-label">2019</div>
+:::
+:::
+
+Below is the full list. Linked DOIs where available.
 
 ## Complete Publication List
 
-### 2026
+<div class="pub-year">2026 · 6 outputs</div>
 
 - **Pemberdayaan Siswa SMK melalui Pelatihan IoT untuk Sistem Monitoring Tanaman dalam Mendukung Smart Farming.** U. Khaira, E. Saputra, A. Waladi, Y. Perdana, N.R. Hanum, H. Iftitah, R. Ashar, et al. *Jurnal Masyarakat Madani Indonesia* 5(1), 434-445.
 - **Parameter-Efficient Models for Malaria Detection and Classification Using Small-Scale Imbalanced Blood Smear Images.** A. Waladi, H. Iftitah, N.R. Hanum, Y. Perdana, F. Wahyuni, R. Ashar. *Kinetik: Game Technology, Information System, Computer Network, Computing, Electronics, and Control* 11(2), 323-338. [DOI: 10.22219/kinetik.v11i2.2558](https://doi.org/10.22219/kinetik.v11i2.2558)
@@ -21,7 +38,7 @@ My publication record is tracked on [SINTA](https://sinta.kemdiktisaintek.go.id/
 - **Color Complexity and Sharpness for Instagram Engagement.** A. Waladi, J. Marzal, M. Razi A., M. Yudistira, H. Iftitah, H. Alghifari. *PROCA* 2(2). [DOI: 10.22437/proca.v2i2.55582](https://doi.org/10.22437/proca.v2i2.55582)
 - **Design and Development of a Multi-Blade Horizontal Axis Wind Turbine as an Alternative Energy Source in Talang Solok Regency.** F.A. Faruqi, Y. Modika, A. Rabiula, D. Tessal, A. Waladi, L. Gusri, et al. *Jurnal Edukasi Elektro* 10(1). [Article](https://jurnal.uny.ac.id/index.php/jee/article/view/91466)
 
-### 2025
+<div class="pub-year">2025 · 10 outputs</div>
 
 - **Pengelompokan Provinsi di Indonesia Berdasarkan Rasio Penggunaan Gas Rumah Tangga pada Tahun 2023 Menggunakan Hierarchical Clustering.** A.A. Nasution, P.E.P. Utomo, U. Khaira, A. Waladi. *JEKIN, Jurnal Teknik Informatika* 5(1), 212-221.
 - **Implementation of Machine Learning for Stock Price Prediction Using the LSTM Algorithm.** N.R.H. Nindy, H. Iftitah, A. Waladi, Y. Perdana. *Media Journal of Information System and Informatic* 1(2).
@@ -34,6 +51,6 @@ My publication record is tracked on [SINTA](https://sinta.kemdiktisaintek.go.id/
 - **Hotspot Clustering in Bangka Belitung Islands Province Using Agglomerative Hierarchical Clustering Algorithm.** A. Setiawan, A. Waladi, R. Ashar. *Media Journal of Information System and Informatic* 1(2), 26-35.
 - **Peningkatan Akurasi Klasifikasi Tutupan Lahan Menggunakan Random Forest pada Data Sentinel-2 di Jambi.** A. Waladi, et al. *Jurnal Ilmu Komputer (Fasilkom UMRI)*. [PDF](https://ejurnal.umri.ac.id/index.php/JIK/article/download/8886/3478)
 
-### 2019
+<div class="pub-year">2019 · 1 output</div>
 
 - **Automatic Counting Based on Scanned Election Form Using Feature Match and Convolutional Neural Network.** A. Waladi, et al. *2019 International Conference on Advanced Computer Science and Information Systems (ICACSIS)*. (Scopus-indexed)
