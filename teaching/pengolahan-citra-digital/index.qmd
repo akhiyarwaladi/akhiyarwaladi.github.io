@@ -1,0 +1,63 @@
+---
+title: "Pengolahan Citra Digital"
+subtitle: "Digital Image Processing"
+---
+
+An undergraduate course on the theory and practice of digital image processing, taught in the Department of Electrical Engineering at Universitas Jambi. We start from how images are formed and stored, then work through enhancement, filtering, morphology, segmentation, and feature extraction, ending at the threshold where image processing hands off to machine learning.
+
+## Bahan Ajar
+
+All course materials are free to access. No login needed for the module; the slide deck opens directly in your browser.
+
+::: {.resource-grid}
+
+::: {.resource-card .resource-slides}
+<div class="resource-badge badge-slides">Slides</div>
+::: {.resource-icon}
+::: {.icon-slides}
+:::
+:::
+### Slide Kuliah
+The full lecture deck for Pengolahan Citra Digital. Covers every meeting of the semester, from image fundamentals to segmentation and classification.
+[Open Slides](https://docs.google.com/presentation/d/1Reo1ia3vlB7yGebvYiSpm-v-KJINZrSgX4jItkIog8M/edit?usp=sharing){.resource-btn target="_blank"}
+:::
+
+::: {.resource-card .resource-module}
+<div class="resource-badge badge-module">PDF</div>
+::: {.resource-icon}
+::: {.icon-module}
+:::
+:::
+### Modul Ajar
+A written module in PDF that walks through the same topics in more depth. Use it to review material covered in class or to prepare for practical sessions.
+[Read Module](https://drive.google.com/file/d/1y1ij3rJDb6NUxywrhsa6GeT0Cl3eBiOn/view?usp=sharing){.resource-btn target="_blank"}
+:::
+
+:::
+
+More materials (notebooks, datasets, exercises) will be added here as the course runs.
+
+## Topics
+
+1. **Image representation**: how a digital image is stored: pixels, color models, sampling, and quantization.
+2. **Point operations**: brightness and contrast adjustment, histogram equalization.
+3. **Spatial filtering**: smoothing, sharpening, and edge detection with convolution kernels.
+4. **Frequency-domain processing**: the Fourier transform, filtering in the frequency domain.
+5. **Image restoration and enhancement**: noise models, degradation, and reconstruction.
+6. **Morphological operations**: erosion, dilation, opening, and closing.
+7. **Segmentation**: thresholding, region-based and edge-based methods.
+8. **Feature extraction**: descriptors that feed recognition and classification systems.
+
+## Learning Outcomes
+
+By the end of the course, students should be able to:
+
+- Explain how a digital image is formed and represented in memory.
+- Apply point, spatial, and frequency-domain techniques to improve image quality.
+- Use morphological and segmentation methods to isolate meaningful regions.
+- Extract features and build a simple image classification pipeline.
+- Implement core algorithms in Python using common image-processing libraries.
+
+## How This Connects to Research
+
+The methods taught in this course show up directly in the research done in the department. Land-cover classification from Sentinel-2 imagery, malaria detection from microscopy images, and recognition of scanned documents all lean on the same building blocks: filtering, segmentation, and feature extraction. Students who finish this course have the foundation to read papers that apply these ideas.

@@ -1,0 +1,43 @@
+---
+title: "Design and Development of a Multi-Blade Horizontal Axis Wind Turbine as an Alternative Energy Source in Talang Solok Regency"
+description: "Design and testing of a multi-blade horizontal axis wind turbine as a renewable energy option for a rural community in Jambi."
+date: 2026-05-04
+categories: [Renewable Energy, Engineering, Community]
+author:
+  - name: "Fiqri Al Faruqi"
+    affiliation: "Universitas Jambi"
+  - name: "Yendri Modika"
+    affiliation: "Universitas Jambi"
+  - name: "Andre Rabiula"
+    affiliation: "Universitas Jambi"
+  - name: "Dasrinal Tessal"
+    affiliation: "Universitas Jambi"
+  - name: "Akhiyar Waladi"
+    affiliation: "Universitas Jambi"
+  - name: "Lailal Gusri"
+    affiliation: "Universitas Jambi"
+  - name: "Ali Satria Wijaya"
+    affiliation: "Universitas Jambi"
+  - name: "Andicho Haryus Wirasapta"
+    affiliation: "Universitas Jambi"
+  - name: "Dewi Triantini"
+    affiliation: "Universitas Jambi"
+---
+
+## Summary
+
+This project designs and develops a multi-blade horizontal axis wind turbine intended to supply electricity to households in Talang Solok Regency, Jambi. It is part of a broader effort to bring renewable energy options to rural communities where grid access is unreliable or absent.
+
+## Contribution
+
+- Applied engineering design to a concrete rural energy problem.
+- Brought together mechanical, electrical, and community considerations in one build.
+- Provides a locally documented example of small-scale wind power in Jambi.
+
+## Links
+
+- [Article](https://jurnal.uny.ac.id/index.php/jee/article/view/91466)
+
+## Keywords
+
+Wind Turbine · Renewable Energy · Horizontal Axis · Rural Electrification · Jambi

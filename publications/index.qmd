@@ -15,9 +15,11 @@ My publication record is tracked on [SINTA](https://sinta.kemdiktisaintek.go.id/
 ### 2026
 
 - **Pemberdayaan Siswa SMK melalui Pelatihan IoT untuk Sistem Monitoring Tanaman dalam Mendukung Smart Farming.** U. Khaira, E. Saputra, A. Waladi, Y. Perdana, N.R. Hanum, H. Iftitah, R. Ashar, et al. *Jurnal Masyarakat Madani Indonesia* 5(1), 434–445.
+- **Parameter-Efficient Models for Malaria Detection and Classification Using Small-Scale Imbalanced Blood Smear Images.** A. Waladi, H. Iftitah, N.R. Hanum, Y. Perdana, F. Wahyuni, R. Ashar. *Kinetik: Game Technology, Information System, Computer Network, Computing, Electronics, and Control* 11(2), 323–338. [DOI: 10.22219/kinetik.v11i2.2558](https://doi.org/10.22219/kinetik.v11i2.2558)
 - **Transfer Learning Architecture Selection for Remote Sensing Scene Classification.** A. Waladi, H. Iftitah. *Jurnal Riset Informatika* 8(3). [DOI: 10.34288/jri.v8i3.515](https://doi.org/10.34288/jri.v8i3.515)
 - **Multi-Architecture CNN Analysis for Automated Malaria Detection.** A. Waladi, N.R. Hanum, Y. Perdana, H. Iftitah, F. Wahyuni, R. Ashar. *PROCA* 2(2). [DOI: 10.22437/proca.v2i2.55514](https://doi.org/10.22437/proca.v2i2.55514)
 - **Color Complexity and Sharpness for Instagram Engagement.** A. Waladi, J. Marzal, M. Razi A., M. Yudistira, H. Iftitah, H. Alghifari. *PROCA* 2(2). [DOI: 10.22437/proca.v2i2.55582](https://doi.org/10.22437/proca.v2i2.55582)
+- **Design and Development of a Multi-Blade Horizontal Axis Wind Turbine as an Alternative Energy Source in Talang Solok Regency.** F.A. Faruqi, Y. Modika, A. Rabiula, D. Tessal, A. Waladi, L. Gusri, et al. *Jurnal Edukasi Elektro* 10(1). [Article](https://jurnal.uny.ac.id/index.php/jee/article/view/91466)
 
 ### 2025
 

@@ -25,11 +25,64 @@ about:
       href: cv.qmd
 ---
 
-I am a **lecturer (Asisten Ahli)** in the [Department of Electrical Engineering](https://teknik-elektro.fst.unja.ac.id/) at the Faculty of Science and Technology, [Universitas Jambi](https://www.unja.ac.id/). I work at the intersection of **Artificial Intelligence**, **Machine Learning**, **Pattern Recognition**, and **Predictive Systems** — applying computational methods to real-world problems in agriculture, health, and industry.
+::: {.home-hero}
+::: {.home-hero-inner}
+<div class="hero-kicker">Lecturer · Researcher · Data Scientist</div>
 
-Before joining academia, I spent several years as a **Data Scientist** — most recently at **Alfagift** (Global Loyalty Indonesia) and previously at **kumparan** — building data products, forecasting systems, and machine-learning pipelines at scale.
+<div class="hero-headline">Applying AI, machine learning, and pattern recognition to real problems.</div>
+
+<div class="hero-sub">I am a lecturer at Universitas Jambi working on computer vision, predictive systems, and intelligent computing. My work spans research, teaching, and community service.</div>
+
+<div class="hero-cta">
+[View Research](research.qmd){.btn-solid}
+[Browse Teaching](teaching/index.qmd){.btn-ghost}
+</div>
+:::
+:::
+
+I am a **lecturer (Asisten Ahli)** in the [Department of Electrical Engineering](https://teknik-elektro.fst.unja.ac.id/) at the Faculty of Science and Technology, [Universitas Jambi](https://www.unja.ac.id/). I work at the intersection of **Artificial Intelligence**, **Machine Learning**, **Pattern Recognition**, and **Predictive Systems**, applying computational methods to real-world problems in agriculture, health, and industry.
+
+Before joining academia, I spent several years as a **Data Scientist**, most recently at **Alfagift** (Global Loyalty Indonesia) and previously at **kumparan**, building data products, forecasting systems, and machine-learning pipelines at scale.
 
 I hold a **Master of Computer Science (M.Kom.)** from Universitas Indonesia and a **Bachelor of Computer Science (S.Komp.)** from IPB University. My research is published in Scopus-indexed and SINTA-accredited venues, and my work is tracked on [Google Scholar](https://sinta.kemdiktisaintek.go.id/authors/profile/6931115/?view=googlescholar), [Scopus](https://www.scopus.com/), and [SINTA](https://sinta.kemdiktisaintek.go.id/authors/profile/6931115).
+
+## Bahan Ajar
+
+Open teaching materials for my courses. Free to access, no login needed.
+
+### Courses
+
+- **Pengolahan Citra Digital** (Digital Image Processing)
+
+### Pengolahan Citra Digital
+
+::: {.resource-grid}
+
+::: {.resource-card .resource-slides}
+<div class="resource-badge badge-slides">Slides</div>
+::: {.resource-icon}
+::: {.icon-slides}
+:::
+:::
+### Slide Kuliah
+The full lecture deck for the semester, from image fundamentals to segmentation and classification.
+[Open Slides](https://docs.google.com/presentation/d/1Reo1ia3vlB7yGebvYiSpm-v-KJINZrSgX4jItkIog8M/edit?usp=sharing){.resource-btn target="_blank"}
+:::
+
+::: {.resource-card .resource-module}
+<div class="resource-badge badge-module">PDF</div>
+::: {.resource-icon}
+::: {.icon-module}
+:::
+:::
+### Modul Ajar
+A written PDF module covering the same material in more depth, useful for review and practical sessions.
+[Read Module](https://drive.google.com/file/d/1y1ij3rJDb6NUxywrhsa6GeT0Cl3eBiOn/view?usp=sharing){.resource-btn target="_blank"}
+:::
+
+:::
+
+More courses and materials will be added here as they are published.
 
 ## Selected Research
 
@@ -37,33 +90,39 @@ I hold a **Master of Computer Science (M.Kom.)** from Universitas Indonesia and 
 **Research focus.** I apply computational intelligence to practical problems in agriculture, health, industry, and public administration.
 :::
 
-- **Pattern Recognition** — deep learning and feature-based recognition applied to scanned documents, fish counting, remote sensing scenes, and medical imagery.
-- **Predictive Systems** — time-series forecasting with SARIMA and LSTM for energy exports and stock prices; predictive analytics with machine learning.
-- **Machine Learning & Clustering** — K-means and hierarchical clustering for customer segmentation, provincial grouping, and hotspot analysis.
-- **Expert & Intelligent Systems** — rule-based and computational systems design for domain-specific decision support.
+- **Pattern Recognition**: deep learning and feature-based recognition applied to scanned documents, fish counting, remote sensing scenes, and medical imagery.
+- **Predictive Systems**: time-series forecasting with SARIMA and LSTM for energy exports and stock prices; predictive analytics with machine learning.
+- **Machine Learning & Clustering**: K-means and hierarchical clustering for customer segmentation, provincial grouping, and hotspot analysis.
+- **Expert & Intelligent Systems**: rule-based and computational systems design for domain-specific decision support.
 
 ## Featured Publications
 
-1. **Transfer Learning Architecture Selection for Remote Sensing Scene Classification** — *Jurnal Riset Informatika* 8(3), 2026. [DOI](https://doi.org/10.34288/jri.v8i3.515)
-2. **Multi-Architecture CNN Analysis for Automated Malaria Detection** — *PROCA* 2(2), 2026. [DOI](https://doi.org/10.22437/proca.v2i2.55514)
-3. **Automatic Counting Based on Scanned Election Form Using Feature Match and Convolutional Neural Network** — *ICACSIS 2019* (Scopus). [IEEE](https://ieeexplore.ieee.org/)
-4. **Peningkatan Akurasi Klasifikasi Tutupan Lahan Menggunakan Random Forest pada Data Sentinel-2 di Jambi** — *Jurnal Ilmu Komputer (Fasilkom UMRI)*. [PDF](https://ejurnal.umri.ac.id/index.php/JIK/article/download/8886/3478)
+1. **Transfer Learning Architecture Selection for Remote Sensing Scene Classification**: *Jurnal Riset Informatika* 8(3), 2026. [DOI](https://doi.org/10.34288/jri.v8i3.515)
+2. **Parameter-Efficient Models for Malaria Detection and Classification Using Small-Scale Imbalanced Blood Smear Images**: *Kinetik* 11(2), 2026. [DOI](https://doi.org/10.22219/kinetik.v11i2.2558)
+3. **Multi-Architecture CNN Analysis for Automated Malaria Detection**: *PROCA* 2(2), 2026. [DOI](https://doi.org/10.22437/proca.v2i2.55514)
+4. **Automatic Counting Based on Scanned Election Form Using Feature Match and Convolutional Neural Network**: *ICACSIS 2019* (Scopus). [IEEE](https://ieeexplore.ieee.org/)
+5. **Peningkatan Akurasi Klasifikasi Tutupan Lahan Menggunakan Random Forest pada Data Sentinel-2 di Jambi**: *Jurnal Ilmu Komputer (Fasilkom UMRI)*. [PDF](https://ejurnal.umri.ac.id/index.php/JIK/article/download/8886/3478)
 
 See all publications on the [Publications page](publications/index.qmd).
 
 ## Teaching
 
+I teach courses in the [Department of Electrical Engineering](https://teknik-elektro.fst.unja.ac.id/) at Universitas Jambi:
+
 - [Artificial Intelligence](teaching/artificial-intelligence/index.qmd)
 - [Machine Learning](teaching/machine-learning/index.qmd)
 - [Data Mining](teaching/data-mining/index.qmd)
 - [Pattern Recognition](teaching/pattern-recognition/index.qmd)
+- [Pengolahan Citra Digital](teaching/pengolahan-citra-digital/index.qmd)
+
+Slides and module PDFs for each course are available in the [Bahan Ajar](index.qmd#bahan-ajar) section above, or on the [Teaching page](teaching/index.qmd).
 
 ## Selected Projects
 
-- **Automated Fish Counter** — an embedded system integrated with an Android device for automated fish measurement, counting, and sorting. [GitHub](https://github.com/akhiyarwaladi/Automated-Fish-Counter) · [Devpost](https://devpost.com/software/automated-fish-counter)
-- **IoT FST Dashboard** — web dashboard for monitoring IoT sensor data from the Faculty of Science and Technology. [GitHub](https://github.com/akhiyarwaladi/iot_fst_dashboard)
-- **Fire Spot** — agglomerative hierarchical clustering of hotspots in Bangka Belitung Islands Province. [GitHub](https://github.com/akhiyarwaladi/fire_spot)
-- **ML Tutorials** — teaching notebooks covering machine-learning fundamentals. [GitHub](https://github.com/akhiyarwaladi/ml_tutorial)
+- **Automated Fish Counter**: an embedded system integrated with an Android device for automated fish measurement, counting, and sorting. [GitHub](https://github.com/akhiyarwaladi/Automated-Fish-Counter) · [Devpost](https://devpost.com/software/automated-fish-counter)
+- **IoT FST Dashboard**: web dashboard for monitoring IoT sensor data from the Faculty of Science and Technology. [GitHub](https://github.com/akhiyarwaladi/iot_fst_dashboard)
+- **Fire Spot**: agglomerative hierarchical clustering of hotspots in Bangka Belitung Islands Province. [GitHub](https://github.com/akhiyarwaladi/fire_spot)
+- **ML Tutorials**: teaching notebooks covering machine-learning fundamentals. [GitHub](https://github.com/akhiyarwaladi/ml_tutorial)
 
 More on the [Projects page](projects/index.qmd).
 

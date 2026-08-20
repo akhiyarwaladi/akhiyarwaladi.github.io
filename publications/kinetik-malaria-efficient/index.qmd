@@ -1,0 +1,46 @@
+---
+title: "Parameter-Efficient Models for Malaria Detection and Classification Using Small-Scale Imbalanced Blood Smear Images"
+description: "A shared-architecture framework for malaria detection and classification using parameter-efficient CNNs that work well on small, imbalanced microscopy datasets."
+date: 2026-05-01
+categories: [Deep Learning, Medical Imaging, Computer Vision, EfficientNet]
+doi: "10.22219/kinetik.v11i2.2558"
+author:
+  - name: "Akhiyar Waladi"
+    affiliation: "Universitas Jambi"
+  - name: "Hasanatul Iftitah"
+    affiliation: "Universitas Jambi"
+  - name: "Nindy Raisa Hanum"
+    affiliation: "Universitas Jambi"
+  - name: "Yogi Perdana"
+    affiliation: "Universitas Jambi"
+  - name: "Fitra Wahyuni"
+    affiliation: "Universitas Jambi"
+  - name: "Rahmad Ashar"
+    affiliation: "Universitas Jambi"
+---
+
+## Summary
+
+Malaria screening faces a practical wall: severe class imbalance, datasets that hold only a few hundred images, and the cost of training separate models for every detection-classification pair. This study attacks all three at once. It builds a multi-model framework with a shared classification architecture, so classification models are trained once on ground-truth crops and reused across every detector.
+
+## Findings
+
+- **Detection**: three YOLO Medium variants reached mAP@50 between 70.84% and 96.27%, with recall from 71.05% to 93.12%.
+- **Classification**: compact EfficientNet models (5.3M to 9.2M parameters) beat ResNet variants that use up to 44.5M parameters. EfficientNet-B1 hit 91.51% on the IML Lifecycle set and 98.28% on MP-IDB Species; ResNet50 reached 96.13% on the heavily imbalanced MP-IDB Stages set.
+- **Imbalance handling**: focal loss with alpha 1.0 and gamma 1.5 lifted F1 to between 0.44 and 1.00 on ultra-minority classes.
+- **Deployment**: models of 46 MB to 89 MB are small enough to run on resource-constrained hardware.
+
+## Contribution
+
+- Shows that parameter-efficient architectures can match or beat much larger models on small, imbalanced medical datasets.
+- Offers a practical recipe for reusing one classification branch across many detectors.
+- Strengthens the case for affordable automated screening where expert microscopists are scarce.
+
+## Links
+
+- [DOI](https://doi.org/10.22219/kinetik.v11i2.2558)
+- [Article page](https://kinetik.umm.ac.id/index.php/kinetik/article/view/2558)
+
+## Keywords
+
+Malaria Detection · Class Imbalance · EfficientNet · Focal Loss · Small Datasets · Medical Imaging · Parameter Efficiency
