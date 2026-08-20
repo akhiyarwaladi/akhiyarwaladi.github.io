@@ -249,7 +249,7 @@
     "href": "teaching/index.html#courses",
     "title": "Teaching",
     "section": "Courses",
-    "text": "Courses\n\nArtificial Intelligence\nMachine Learning\nData Mining\nPattern Recognition\nPengolahan Citra Digital (Digital Image Processing)"
+    "text": "Courses\n\nCourses · 5 active"
   },
   {
     "objectID": "teaching/index.html#bahan-ajar",
@@ -270,7 +270,7 @@
     "href": "teaching/index.html#supervision",
     "title": "Teaching",
     "section": "Supervision",
-    "text": "Supervision\nI supervise undergraduate student projects and theses (tugas akhir/skripsi) in topics such as:\n\nMachine learning and deep learning applications\nComputer vision and pattern recognition\nIoT systems and embedded intelligence\nTime-series forecasting and predictive systems"
+    "text": "Supervision\n\nSupervision\n\nI supervise undergraduate projects and theses (tugas akhir and skripsi):\n\n\nMachine Learning\n\nApplied deep learning and forecasting projects.\n\n\n\nVision\n\nComputer vision and pattern recognition.\n\n\n\nIoT and Embedded\n\nSensor systems and on-device intelligence.\n\n\n\nPredictive Systems\n\nTime series and decision support."
   },
   {
     "objectID": "teaching/machine-learning/index.html",
@@ -515,42 +515,21 @@
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "I am happy to discuss research collaborations, student supervision, teaching materials, and machine-learning projects. Please reach me through any of the channels below."
-  },
-  {
-    "objectID": "contact.html#email",
-    "href": "contact.html#email",
-    "title": "Contact",
-    "section": "Email",
-    "text": "Email\n\nPersonal: akhiyarwaladi@gmail.com\nInstitutional: akhiyar.waladi@unja.ac.id"
+    "text": "I am happy to discuss research collaborations, student supervision, teaching materials and machine-learning projects."
   },
   {
     "objectID": "contact.html#affiliation",
     "href": "contact.html#affiliation",
     "title": "Contact",
     "section": "Affiliation",
-    "text": "Affiliation\nUniversitas Jambi Faculty of Science and Technology (FST) Department of Electrical Engineering Kampus Pinang Masak, Jl. Jambi, Muara Bulian KM 15, Muaro Jambi, Jambi, Indonesia"
+    "text": "Affiliation\n\nUniversitas Jambi\n\nFaculty of Science and Technology (FST)Department of Electrical EngineeringKampus Pinang Masak, Jl. Jambi, Muara Bulian KM 15, Muaro Jambi, Jambi, Indonesia"
   },
   {
     "objectID": "contact.html#profiles",
     "href": "contact.html#profiles",
     "title": "Contact",
     "section": "Profiles",
-    "text": "Profiles\n\nGitHub: github.com/akhiyarwaladi\nLinkedIn: linkedin.com/in/akhiyar-waladi\nSINTA: sinta.kemdiktisaintek.go.id/authors/profile/6931115\nGoogle Scholar: profile\nInstitutional researcher profile: riset.unja.ac.id\nElectrical Engineering Department: teknik-elektro.fst.unja.ac.id"
-  },
-  {
-    "objectID": "contact.html#identifiers",
-    "href": "contact.html#identifiers",
-    "title": "Contact",
-    "section": "Identifiers",
-    "text": "Identifiers\n\nNIDN: 1995072301\nSINTA ID: 6931115"
-  },
-  {
-    "objectID": "contact.html#availability",
-    "href": "contact.html#availability",
-    "title": "Contact",
-    "section": "Availability",
-    "text": "Availability\nI typically respond to email within a few working days. For student supervision or collaboration inquiries, please include a brief description of your project and timeline."
+    "text": "Profiles\n\n\nGitHub\n\ngithub.com/akhiyarwaladi\n\n\n\nLinkedIn\n\nlinkedin.com/in/akhiyar-waladi\n\n\n\nSINTA\n\nsinta.kemdiktisaintek.go.id/authors/profile/6931115NIDN 1995072301 · SINTA ID 6931115\n\n\n\nGoogle Scholar\n\nScholar profile\n\n\n\n\nAlso: Institutional researcher profile · Electrical Engineering Department"
   },
   {
     "objectID": "cv.html",
@@ -620,28 +599,21 @@
     "href": "about.html#research-interests",
     "title": "About",
     "section": "Research Interests",
-    "text": "Research Interests\nMy formal expertise is artificial intelligence and computing. In day to day work that breaks into a few strands. I use deep learning for recognition tasks on documents, satellite scenes, farm images and medical images. I build forecasting models with SARIMA and LSTM and apply them to prices and trends. A lot of my work is clustering and classification for segmentation, and I also design small decision support systems for specific users. On the vision side I work with CNNs and transfer learning."
+    "text": "Research Interests\n\nExpertise\n\n\n\nRecognition\n\nDeep learning for documents, satellite scenes, farm and medical images.\n\n\nCNN · Transfer learning · YOLO\n\n\n\nForecasting\n\nSARIMA and LSTM for prices and trends.\n\n\nTime series · SARIMA · LSTM\n\n\n\nClustering\n\nK-means and hierarchical methods for segmentation.\n\n\nK-means · Hierarchical\n\n\n\nSystems\n\nSmall decision support tools for real users.\n\n\nIoT · Expert systems"
   },
   {
     "objectID": "about.html#education",
     "href": "about.html#education",
     "title": "About",
     "section": "Education",
-    "text": "Education\n\n\n\n\n\n\n\n\n\nDegree\nInstitution\nProgram\nYear\n\n\n\n\nS2 (M.Kom.)\nUniversitas Indonesia\nIlmu Komputer\n2018-2020\n\n\nS1 (S.Komp.)\nIPB University (Institut Pertanian Bogor)\nIlmu Komputer\n2013-2017"
+    "text": "Education\n\nEducation\n\n\n\n\n\n\n\n\n\n\nDegree\nInstitution\nProgram\nYear\n\n\n\n\nS2 (M.Kom.)\nUniversitas Indonesia\nIlmu Komputer\n2018-2020\n\n\nS1 (S.Komp.)\nIPB University (Institut Pertanian Bogor)\nIlmu Komputer\n2013-2017"
   },
   {
-    "objectID": "about.html#academic-experience",
-    "href": "about.html#academic-experience",
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
     "title": "About",
-    "section": "Academic Experience",
-    "text": "Academic Experience\n\nLecturer (Asisten Ahli): Department of Electrical Engineering, Faculty of Science and Technology, Universitas Jambi (Sep 2024 - present)."
-  },
-  {
-    "objectID": "about.html#industry-experience",
-    "href": "about.html#industry-experience",
-    "title": "About",
-    "section": "Industry Experience",
-    "text": "Industry Experience\n\nData Scientist: Alfagift, Global Loyalty Indonesia, Tangerang, Banten (Sep 2020 - Aug 2024). Built data products, forecasting models, and machine-learning pipelines for a retail loyalty platform.\nData Scientist: kumparan, Jakarta (Sep 2018 - Dec 2019; Jan - Jul 2020). Research department; developed NLP and machine-learning solutions for a digital media platform."
+    "section": "Experience",
+    "text": "Experience\n\nAcademic\n\n\n\n\nLecturer (Asisten Ahli)\n\n\nDepartment of Electrical Engineering, Universitas Jambi · Sep 2024 - present\n\n\nTeach AI, ML and pattern recognition, supervise theses, run community programs on AI and IoT literacy.\n\n\n\n\nIndustry\n\n\n\n\nData Scientist, Alfagift, Global Loyalty Indonesia\n\n\nTangerang · Sep 2020 - Aug 2024\n\n\nBuilt data products, forecasting models and ML pipelines for a retail loyalty platform.\n\n\n\n\nData Scientist, kumparan\n\n\nJakarta · Sep 2018 - Dec 2019; Jan - Jul 2020\n\n\nResearch department, NLP and ML solutions for a digital media platform."
   },
   {
     "objectID": "about.html#professional-profiles",
@@ -651,11 +623,11 @@
     "text": "Professional Profiles\n\nSINTA ID 6931115: SINTA Profile · Google Scholar\nGitHub: akhiyarwaladi\nLinkedIn: akhiyar-waladi\nInstitutional: Universitas Jambi researcher profile · Electrical Engineering Department · Staff profile (SIMPEG)\nNIDN: 1995072301\nNIP: 199507232024061001"
   },
   {
-    "objectID": "about.html#community-service-pengabdian-highlights",
-    "href": "about.html#community-service-pengabdian-highlights",
+    "objectID": "about.html#community-service",
+    "href": "about.html#community-service",
     "title": "About",
-    "section": "Community Service (Pengabdian) Highlights",
-    "text": "Community Service (Pengabdian) Highlights\n\nIoT training for SMK students: “Pemberdayaan Siswa SMK melalui Pelatihan IoT untuk Sistem Monitoring Tanaman dalam Mendukung Smart Farming” (2026).\nAI education for madrasah students: “Sosialisasi Pemanfaatan Artificial Intelligence untuk Edukasi pada Siswa-Siswi MTs Negeri 3 Kota Jambi” (2025).\nFinancial information system training: “Pelatihan Sistem Informasi Keuangan Pengelolaan Data Pengeluaran pada Pondok Pesantren Darul Arifin Jambi” (2025)."
+    "section": "Community Service",
+    "text": "Community Service\n\nPengabdian\n\n\n\nIoT for SMK Students\n\nPlant monitoring for smart farming.\n\n\n2026 · “Pemberdayaan Siswa SMK melalui Pelatihan IoT untuk Sistem Monitoring Tanaman dalam Mendukung Smart Farming”\n\n\n\nAI for Madrasah\n\nAI literacy for students at MTs Negeri 3 Kota Jambi.\n\n\n2025 · “Sosialisasi Pemanfaatan Artificial Intelligence untuk Edukasi”\n\n\n\nFinance System for Pesantren\n\nExpense management training at Pondok Pesantren Darul Arifin.\n\n\n2025 · “Pelatihan Sistem Informasi Keuangan”"
   },
   {
     "objectID": "about.html#download-cv",
@@ -683,28 +655,28 @@
     "href": "index.html#selected-research",
     "title": "Akhiyar Waladi",
     "section": "Selected Research",
-    "text": "Selected Research\nMy research follows problems that students and collaborators bring in:\nPattern recognition shows up in reading scanned forms, counting fish from images, classifying satellite scenes and spotting malaria parasites. For forecasting I use SARIMA and LSTM on energy exports and stock prices. Clustering with K-means and hierarchical methods helps with customer groups, province profiles and fire hotspots. I also build small decision tools, from village IoT monitors to admin systems for pesantren."
+    "text": "Selected Research\n\nResearch\n\nMy research follows problems that students and collaborators bring in. Four strands:\n\n\nPattern Recognition\n\nReading scanned forms, counting fish from images, classifying satellite scenes and spotting malaria parasites.\n\n\nVision · CNN · YOLO\n\n\n\nPredictive Systems\n\nForecasting with SARIMA and LSTM on energy exports and stock prices, and KNN-based trend analysis.\n\n\nTime series · SARIMA · LSTM\n\n\n\nClustering and Segmentation\n\nK-means and hierarchical methods for customer groups, province profiles and fire hotspots.\n\n\nK-means · Hierarchical\n\n\n\nIntelligent Systems\n\nSmall decision tools built for real users, from village IoT monitors to admin systems for pesantren.\n\n\nIoT · Decision support"
   },
   {
     "objectID": "index.html#featured-publications",
     "href": "index.html#featured-publications",
     "title": "Akhiyar Waladi",
     "section": "Featured Publications",
-    "text": "Featured Publications\nA short sample. Full list with plain-language summaries on the Publications page.\n\nTransfer Learning for Remote Sensing Scene Classification: which CNN and ViT transfers best for landscape scenes. Jurnal Riset Informatika 8(3), 2026. DOI\nParameter-Efficient Models for Malaria Detection: small data, imbalanced blood smear classification. Kinetik 11(2), 2026. DOI\nMulti-Architecture CNN for Automated Malaria Detection: comparing YOLO and CNN variants on microscopy images. PROCA 2(2), 2026. DOI\nAutomatic Counting from Scanned Election Forms: feature matching and CNN. ICACSIS 2019 (Scopus). IEEE\nRandom Forest for Sentinel-2 Land Cover in Jambi: improving accuracy on local landscapes. Jurnal Ilmu Komputer (Fasilkom UMRI). PDF"
+    "text": "Featured Publications\n\nPublications · 5 selected\n\nA short sample. Full list with plain-language summaries on the Publications page.\n\n\nTransfer Learning for Remote Sensing\n\nWhich CNN and ViT transfer best for landscape scenes.\n\n\nJurnal Riset Informatika 8(3), 2026 · DOI\n\n\n\nParameter-Efficient Malaria Detection\n\nSmall data, imbalanced blood smear classification.\n\n\nKinetik 11(2), 2026 · DOI\n\n\n\nMulti-Architecture CNN for Malaria\n\nComparing YOLO and CNN variants on microscopy images.\n\n\nPROCA 2(2), 2026 · DOI\n\n\n\nSentinel-2 Land Cover in Jambi\n\nRandom Forest improving accuracy on local landscapes.\n\n\nJurnal Ilmu Komputer (Fasilkom UMRI) · PDF\n\n\n\n\nAlso: Automatic Counting from Scanned Election Forms, feature matching and CNN. ICACSIS 2019 (Scopus) · IEEE"
   },
   {
     "objectID": "index.html#teaching",
     "href": "index.html#teaching",
     "title": "Akhiyar Waladi",
     "section": "Teaching",
-    "text": "Teaching\nI teach in the Department of Electrical Engineering, Universitas Jambi:\n\nArtificial Intelligence · Machine Learning · Data Mining · Pattern Recognition · Pengolahan Citra Digital\n\nMaterials are open access. See Bahan Ajar above or the Teaching page."
+    "text": "Teaching\n\nTeaching\n\nI teach in the Department of Electrical Engineering, Universitas Jambi. Materials are open access.\n\n    \n\nSee Bahan Ajar and the Teaching page."
   },
   {
     "objectID": "index.html#selected-projects",
     "href": "index.html#selected-projects",
     "title": "Akhiyar Waladi",
     "section": "Selected Projects",
-    "text": "Selected Projects\n\nAutomated Fish Counter: Android and embedded vision to measure, count and sort fish. GitHub · Devpost\nIoT FST Dashboard: live sensor monitoring for the faculty. GitHub\nFire Spot: hierarchical clustering of fire hotspots in Bangka Belitung. GitHub\nML Tutorials: hands-on notebooks for my classes. GitHub\n\nMore detail on the Projects page."
+    "text": "Selected Projects\n\nProjects\n\n\n\nAutomated Fish Counter\n\nAndroid and embedded vision to measure, count and sort fish.\n\n\nGitHub · Devpost\n\n\n\nIoT FST Dashboard\n\nLive sensor monitoring for the faculty.\n\n\nGitHub\n\n\n\nFire Spot\n\nHierarchical clustering of fire hotspots in Bangka Belitung.\n\n\nGitHub\n\n\n\nML Tutorials\n\nHands-on notebooks for my classes.\n\n\nGitHub\n\n\n\nMore detail on the Projects page."
   },
   {
     "objectID": "index.html#get-in-touch",
@@ -1215,28 +1187,28 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "I focus on AI that is grounded in real data from Jambi and Indonesia, images, sensors, and time series that matter to local decisions in health, agriculture, and public services."
+    "text": "I focus on AI grounded in real data from Jambi and Indonesia, images, sensors and time series that matter to local decisions in health, agriculture and public services."
   },
   {
     "objectID": "research.html#research-themes",
     "href": "research.html#research-themes",
     "title": "Research",
     "section": "Research Themes",
-    "text": "Research Themes\n\nPattern Recognition and Computer Vision\nFrom paper forms to satellite and microscope images, I build systems that learn to read visual data:\n\nElection forms: automatic vote tallying from scanned forms using feature matching + CNN (ICACSIS 2019, Scopus).\nRemote sensing: testing which CNN/ViT backbones transfer best for landscape scene classification.\nMalaria microscopy: comparing YOLO and CNN variants to detect Plasmodium species and stages.\nLand cover: improving Sentinel-2 classification for Jambi with Random Forest.\nFish counter: embedded vision to measure, count, and sort fish on device.\n\n\n\nPredictive Systems and Forecasting\nForecasts are only useful if they help plan. I work on:\n\nOil and gas export values with SARIMA and LSTM (SATESI, 2025).\nStock prices with LSTM (Media JISI, 2025).\nEducation trends 2021-2023 with KNN-based analysis.\n\n\n\nClustering and Segmentation\nFinding structure where labels are scarce:\n\nK-means for customer segmentation.\nHierarchical clustering of provinces by household gas use (JEKIN, 2025).\nAgglomerative clustering of fire hotspots in Bangka Belitung.\nVisual + temporal features behind Instagram engagement.\n\n\n\nIntelligent and Expert Systems\nSmall, user-specific systems, often co-built with students and community partners:\n\nPlant monitoring with IoT for SMK smart-farming classes.\nFinancial data tools for Pondok Pesantren Darul Arifin.\nGeneral computational system design for teaching labs."
+    "text": "Research Themes\n\nFour strands, each tied to a concrete local problem.\n\n\n\nPattern Recognition and Vision\n\nFrom paper forms to satellite and microscope images.\n\n\nElection forms: automatic tallying with feature matching and CNN (ICACSIS 2019)\nRemote sensing: which CNN and ViT backbones transfer best\nMalaria microscopy: YOLO and CNN for Plasmodium detection\nLand cover: Sentinel-2 classification for Jambi with Random Forest\nFish counter: embedded vision on device\n\n\n\nPredictive Systems\n\nForecasts only matter if they help plan.\n\n\nOil and gas export values with SARIMA and LSTM (SATESI, 2025)\nStock prices with LSTM (Media JISI, 2025)\nEducation trends 2021-2023 with KNN\n\n\n\nClustering and Segmentation\n\nFinding structure where labels are scarce.\n\n\nK-means for customer segmentation\nHierarchical clustering of provinces by gas use (JEKIN, 2025)\nAgglomerative clustering of fire hotspots in Bangka Belitung\nVisual and temporal features behind Instagram engagement\n\n\n\nIntelligent Systems\n\nSmall systems co-built with students and partners.\n\n\nPlant monitoring with IoT for SMK smart farming\nFinancial data tools for Pondok Pesantren Darul Arifin\nComputational system design for teaching labs"
   },
   {
-    "objectID": "research.html#selected-research-output",
-    "href": "research.html#selected-research-output",
+    "objectID": "research.html#selected-output",
+    "href": "research.html#selected-output",
     "title": "Research",
-    "section": "Selected Research Output",
-    "text": "Selected Research Output\n\nScopus: 2 documents, 3 citations (H-index 1).\nGoogle Scholar: 19 documents, 30 citations (H-index 3).\nFull details on the Publications page and via SINTA."
+    "section": "Selected Output",
+    "text": "Selected Output\n\n\n\nSource\nDocs\nCitations\nH-index\n\n\n\n\nScopus\n2\n3\n1\n\n\nGoogle Scholar\n19\n30\n3\n\n\n\nFull details on the Publications page and via SINTA."
   },
   {
     "objectID": "research.html#ongoing-directions",
     "href": "research.html#ongoing-directions",
     "title": "Research",
     "section": "Ongoing Directions",
-    "text": "Ongoing Directions\n\nDeep learning for agricultural and environmental monitoring in Jambi (land cover, hotspots, IoT sensing).\nApplied AI for health and medical imaging (malaria detection, diagnostics).\nReliable time-series and predictive modeling for Indonesian economic data.\nEducational AI literacy and community empowerment through training programs."
+    "text": "Ongoing Directions\n\nNext\n\n\n\nAgri and Environment\n\nDeep learning for land cover, hotspots and IoT sensing in Jambi.\n\n\n\nHealth Imaging\n\nMalaria detection and diagnostics.\n\n\n\nTime Series\n\nReliable modeling for Indonesian economic data.\n\n\n\nEducation\n\nAI literacy and community training."
   },
   {
     "objectID": "publications/kmeans-customer-segmentation/index.html",
@@ -1348,14 +1320,14 @@
     "href": "publications/index.html",
     "title": "Publications",
     "section": "",
-    "text": "My publication record is tracked on SINTA and Google Scholar. Below is the full list of journal and conference outputs."
+    "text": "My publication record is tracked on SINTA and Google Scholar.\nBelow is the full list. Linked DOIs where available."
   },
   {
     "objectID": "publications/index.html#complete-publication-list",
     "href": "publications/index.html#complete-publication-list",
     "title": "Publications",
     "section": "Complete Publication List",
-    "text": "Complete Publication List\n\n2026\n\nPemberdayaan Siswa SMK melalui Pelatihan IoT untuk Sistem Monitoring Tanaman dalam Mendukung Smart Farming. U. Khaira, E. Saputra, A. Waladi, Y. Perdana, N.R. Hanum, H. Iftitah, R. Ashar, et al. Jurnal Masyarakat Madani Indonesia 5(1), 434-445.\nParameter-Efficient Models for Malaria Detection and Classification Using Small-Scale Imbalanced Blood Smear Images. A. Waladi, H. Iftitah, N.R. Hanum, Y. Perdana, F. Wahyuni, R. Ashar. Kinetik: Game Technology, Information System, Computer Network, Computing, Electronics, and Control 11(2), 323-338. DOI: 10.22219/kinetik.v11i2.2558\nTransfer Learning Architecture Selection for Remote Sensing Scene Classification. A. Waladi, H. Iftitah. Jurnal Riset Informatika 8(3). DOI: 10.34288/jri.v8i3.515\nMulti-Architecture CNN Analysis for Automated Malaria Detection. A. Waladi, N.R. Hanum, Y. Perdana, H. Iftitah, F. Wahyuni, R. Ashar. PROCA 2(2). DOI: 10.22437/proca.v2i2.55514\nColor Complexity and Sharpness for Instagram Engagement. A. Waladi, J. Marzal, M. Razi A., M. Yudistira, H. Iftitah, H. Alghifari. PROCA 2(2). DOI: 10.22437/proca.v2i2.55582\nDesign and Development of a Multi-Blade Horizontal Axis Wind Turbine as an Alternative Energy Source in Talang Solok Regency. F.A. Faruqi, Y. Modika, A. Rabiula, D. Tessal, A. Waladi, L. Gusri, et al. Jurnal Edukasi Elektro 10(1). Article\n\n\n\n2025\n\nPengelompokan Provinsi di Indonesia Berdasarkan Rasio Penggunaan Gas Rumah Tangga pada Tahun 2023 Menggunakan Hierarchical Clustering. A.A. Nasution, P.E.P. Utomo, U. Khaira, A. Waladi. JEKIN, Jurnal Teknik Informatika 5(1), 212-221.\nImplementation of Machine Learning for Stock Price Prediction Using the LSTM Algorithm. N.R.H. Nindy, H. Iftitah, A. Waladi, Y. Perdana. Media Journal of Information System and Informatic 1(2).\nPrediksi Nilai Ekspor Migas Indonesia Menggunakan Metode SARIMA dan LSTM. H. Kuswanto, P.E.P. Utomo, U. Khaira, A. Waladi. SATESI: Jurnal Sains Teknologi dan Sistem Informasi 5(1), 69-79.\nSosialisasi Pemanfaatan Artificial Intelligence untuk Edukasi pada Siswa-Siswi MTs Negeri 3 Kota Jambi. N.R.H. Nindy, A. Waladi, H. Iftitah, Y. Perdana, R. Ashar. Jurnal Pengabdian Dosen Indonesia 2(1), 35-44.\nAnalisis Prediktif Tren Pendidikan di Indonesia Menggunakan KNN (Studi Kasus Data Pendidikan 2021-2023). M.B. Nasution, A. Waladi, U. Khaira, P.E.P. Utomo. Education Library 1(2), 62-73.\nApplication of K-means Clustering Algorithm on Customer Segmentation for Effective Marketing Strategy. A. Waladi, R. Rizaldi, M.A.H. Sutoyo. Media Journal of Information System and Informatic 1(2), 16-25.\nComparative Analysis of Triangulation Methods for Optimal Solutions to the Art Gallery Problem. J. Marzal, N. Rarasati, A. Waladi, Y. Perdana. PIKSEL: Penelitian Ilmu Komputer Sistem Embedded and Logic 13(1), 173-182.\nPelatihan Sistem Informasi Keuangan Pengelolaan Data Pengeluaran pada Pondok Pesantren Darul Arifin Jambi. A. Waladi, H. Iftitah, N.R. Hanum, Y. Perdana, R. Ashar. Jurnal Pengabdian Dosen Indonesia 2(2), 37-46.\nHotspot Clustering in Bangka Belitung Islands Province Using Agglomerative Hierarchical Clustering Algorithm. A. Setiawan, A. Waladi, R. Ashar. Media Journal of Information System and Informatic 1(2), 26-35.\nPeningkatan Akurasi Klasifikasi Tutupan Lahan Menggunakan Random Forest pada Data Sentinel-2 di Jambi. A. Waladi, et al. Jurnal Ilmu Komputer (Fasilkom UMRI). PDF\n\n\n\n2019\n\nAutomatic Counting Based on Scanned Election Form Using Feature Match and Convolutional Neural Network. A. Waladi, et al. 2019 International Conference on Advanced Computer Science and Information Systems (ICACSIS). (Scopus-indexed)"
+    "text": "Complete Publication List\n\n2026 · 6 outputs\n\n\nPemberdayaan Siswa SMK melalui Pelatihan IoT untuk Sistem Monitoring Tanaman dalam Mendukung Smart Farming. U. Khaira, E. Saputra, A. Waladi, Y. Perdana, N.R. Hanum, H. Iftitah, R. Ashar, et al. Jurnal Masyarakat Madani Indonesia 5(1), 434-445.\nParameter-Efficient Models for Malaria Detection and Classification Using Small-Scale Imbalanced Blood Smear Images. A. Waladi, H. Iftitah, N.R. Hanum, Y. Perdana, F. Wahyuni, R. Ashar. Kinetik: Game Technology, Information System, Computer Network, Computing, Electronics, and Control 11(2), 323-338. DOI: 10.22219/kinetik.v11i2.2558\nTransfer Learning Architecture Selection for Remote Sensing Scene Classification. A. Waladi, H. Iftitah. Jurnal Riset Informatika 8(3). DOI: 10.34288/jri.v8i3.515\nMulti-Architecture CNN Analysis for Automated Malaria Detection. A. Waladi, N.R. Hanum, Y. Perdana, H. Iftitah, F. Wahyuni, R. Ashar. PROCA 2(2). DOI: 10.22437/proca.v2i2.55514\nColor Complexity and Sharpness for Instagram Engagement. A. Waladi, J. Marzal, M. Razi A., M. Yudistira, H. Iftitah, H. Alghifari. PROCA 2(2). DOI: 10.22437/proca.v2i2.55582\nDesign and Development of a Multi-Blade Horizontal Axis Wind Turbine as an Alternative Energy Source in Talang Solok Regency. F.A. Faruqi, Y. Modika, A. Rabiula, D. Tessal, A. Waladi, L. Gusri, et al. Jurnal Edukasi Elektro 10(1). Article\n\n\n2025 · 10 outputs\n\n\nPengelompokan Provinsi di Indonesia Berdasarkan Rasio Penggunaan Gas Rumah Tangga pada Tahun 2023 Menggunakan Hierarchical Clustering. A.A. Nasution, P.E.P. Utomo, U. Khaira, A. Waladi. JEKIN, Jurnal Teknik Informatika 5(1), 212-221.\nImplementation of Machine Learning for Stock Price Prediction Using the LSTM Algorithm. N.R.H. Nindy, H. Iftitah, A. Waladi, Y. Perdana. Media Journal of Information System and Informatic 1(2).\nPrediksi Nilai Ekspor Migas Indonesia Menggunakan Metode SARIMA dan LSTM. H. Kuswanto, P.E.P. Utomo, U. Khaira, A. Waladi. SATESI: Jurnal Sains Teknologi dan Sistem Informasi 5(1), 69-79.\nSosialisasi Pemanfaatan Artificial Intelligence untuk Edukasi pada Siswa-Siswi MTs Negeri 3 Kota Jambi. N.R.H. Nindy, A. Waladi, H. Iftitah, Y. Perdana, R. Ashar. Jurnal Pengabdian Dosen Indonesia 2(1), 35-44.\nAnalisis Prediktif Tren Pendidikan di Indonesia Menggunakan KNN (Studi Kasus Data Pendidikan 2021-2023). M.B. Nasution, A. Waladi, U. Khaira, P.E.P. Utomo. Education Library 1(2), 62-73.\nApplication of K-means Clustering Algorithm on Customer Segmentation for Effective Marketing Strategy. A. Waladi, R. Rizaldi, M.A.H. Sutoyo. Media Journal of Information System and Informatic 1(2), 16-25.\nComparative Analysis of Triangulation Methods for Optimal Solutions to the Art Gallery Problem. J. Marzal, N. Rarasati, A. Waladi, Y. Perdana. PIKSEL: Penelitian Ilmu Komputer Sistem Embedded and Logic 13(1), 173-182.\nPelatihan Sistem Informasi Keuangan Pengelolaan Data Pengeluaran pada Pondok Pesantren Darul Arifin Jambi. A. Waladi, H. Iftitah, N.R. Hanum, Y. Perdana, R. Ashar. Jurnal Pengabdian Dosen Indonesia 2(2), 37-46.\nHotspot Clustering in Bangka Belitung Islands Province Using Agglomerative Hierarchical Clustering Algorithm. A. Setiawan, A. Waladi, R. Ashar. Media Journal of Information System and Informatic 1(2), 26-35.\nPeningkatan Akurasi Klasifikasi Tutupan Lahan Menggunakan Random Forest pada Data Sentinel-2 di Jambi. A. Waladi, et al. Jurnal Ilmu Komputer (Fasilkom UMRI). PDF\n\n\n2019 · 1 output\n\n\nAutomatic Counting Based on Scanned Election Form Using Feature Match and Convolutional Neural Network. A. Waladi, et al. 2019 International Conference on Advanced Computer Science and Information Systems (ICACSIS). (Scopus-indexed)"
   },
   {
     "objectID": "publications/wind-turbine-talang-solok/index.html",
