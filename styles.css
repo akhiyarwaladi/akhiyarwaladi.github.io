@@ -314,9 +314,18 @@ html[data-bs-theme="dark"] blockquote {
   flex-direction: column;
   flex: 1;
 }
-.resource-card > section > p {
+.resource-card > section > p:first-of-type {
   flex-grow: 1;
   margin-bottom: 0.6rem;
+}
+.resource-card > section > p:last-child {
+  margin-top: auto;
+  flex-grow: 0;
+  margin-bottom: 0;
+}
+.resource-card > section > p:has(.resource-btn) {
+  margin-top: auto;
+  flex-grow: 0;
 }
 
 .resource-card::before {
@@ -410,7 +419,7 @@ html[data-bs-theme="dark"] blockquote {
 
 .resource-btn {
   display: inline-block;
-  margin-top: auto;
+  margin-top: 0;
   padding: 0.5rem 1.15rem;
   border-radius: 999px;
   font-weight: 600;
@@ -737,6 +746,11 @@ html[data-bs-theme="dark"] .home-hero-inner .hero-cta a.btn-ghost {
 }
 .course-grid > p {
   display: contents;
+}
+.course-mini:empty,
+.course-grid a:empty,
+.course-grid p:empty {
+  display: none !important;
 }
 .course-mini {
   border: 1px solid #e2e8f0;
