@@ -102,7 +102,7 @@
     "href": "publications/hierarchical-clustering-gas/index.html#links",
     "title": "Pengelompokan Provinsi di Indonesia Berdasarkan Rasio Penggunaan Gas Rumah Tangga pada Tahun 2023 Menggunakan Hierarchical Clustering",
     "section": "Links",
-    "text": "Links\n\nJEKIN – Jurnal Teknik Informatika 5(1), 212–221."
+    "text": "Links\n\nJEKIN, Jurnal Teknik Informatika 5(1), 212-221."
   },
   {
     "objectID": "publications/hierarchical-clustering-gas/index.html#keywords",
@@ -116,14 +116,14 @@
     "href": "publications/malaria-detection-cnn/index.html",
     "title": "Multi-Architecture CNN Analysis for Automated Malaria Detection",
     "section": "",
-    "text": "Malaria diagnosis traditionally relies on manual microscopy, which is time-consuming and requires expert pathologists. This study evaluates multiple CNN architectures — including YOLO — for automatically detecting Plasmodium species and their lifecycle stages in blood smear images."
+    "text": "Malaria diagnosis traditionally relies on manual microscopy, which is time-consuming and requires expert pathologists. This study evaluates multiple CNN architectures, including YOLO, for automatically detecting Plasmodium species and their lifecycle stages in blood smear images."
   },
   {
     "objectID": "publications/malaria-detection-cnn/index.html#summary",
     "href": "publications/malaria-detection-cnn/index.html#summary",
     "title": "Multi-Architecture CNN Analysis for Automated Malaria Detection",
     "section": "",
-    "text": "Malaria diagnosis traditionally relies on manual microscopy, which is time-consuming and requires expert pathologists. This study evaluates multiple CNN architectures — including YOLO — for automatically detecting Plasmodium species and their lifecycle stages in blood smear images."
+    "text": "Malaria diagnosis traditionally relies on manual microscopy, which is time-consuming and requires expert pathologists. This study evaluates multiple CNN architectures, including YOLO, for automatically detecting Plasmodium species and their lifecycle stages in blood smear images."
   },
   {
     "objectID": "publications/malaria-detection-cnn/index.html#contribution",
@@ -151,21 +151,21 @@
     "href": "publications/sarima-lstm-ekspor/index.html",
     "title": "Prediksi Nilai Ekspor Migas Indonesia Menggunakan Metode SARIMA dan LSTM",
     "section": "",
-    "text": "Accurate forecasts of oil and gas export values help economic planning. This study compares two forecasting approaches — the classical SARIMA model and the deep-learning LSTM network — for predicting Indonesian oil & gas export values."
+    "text": "Accurate forecasts of oil and gas export values help economic planning. This study compares two forecasting approaches, the classical SARIMA model and the deep-learning LSTM network, for predicting Indonesian oil & gas export values."
   },
   {
     "objectID": "publications/sarima-lstm-ekspor/index.html#summary",
     "href": "publications/sarima-lstm-ekspor/index.html#summary",
     "title": "Prediksi Nilai Ekspor Migas Indonesia Menggunakan Metode SARIMA dan LSTM",
     "section": "",
-    "text": "Accurate forecasts of oil and gas export values help economic planning. This study compares two forecasting approaches — the classical SARIMA model and the deep-learning LSTM network — for predicting Indonesian oil & gas export values."
+    "text": "Accurate forecasts of oil and gas export values help economic planning. This study compares two forecasting approaches, the classical SARIMA model and the deep-learning LSTM network, for predicting Indonesian oil & gas export values."
   },
   {
     "objectID": "publications/sarima-lstm-ekspor/index.html#contribution",
     "href": "publications/sarima-lstm-ekspor/index.html#contribution",
     "title": "Prediksi Nilai Ekspor Migas Indonesia Menggunakan Metode SARIMA dan LSTM",
     "section": "Contribution",
-    "text": "Contribution\n\nSystematic comparison of SARIMA vs LSTM on macroeconomic time series.\nPractical guidance on when classical vs deep-learning forecasting is preferable.\nPublished in SATESI: Jurnal Sains Teknologi dan Sistem Informasi 5(1), 69–79."
+    "text": "Contribution\n\nSystematic comparison of SARIMA vs LSTM on macroeconomic time series.\nPractical guidance on when classical vs deep-learning forecasting is preferable.\nPublished in SATESI: Jurnal Sains Teknologi dan Sistem Informasi 5(1), 69-79."
   },
   {
     "objectID": "publications/sarima-lstm-ekspor/index.html#keywords",
@@ -221,7 +221,7 @@
     "href": "teaching/data-mining/index.html#topics",
     "title": "Data Mining",
     "section": "Topics",
-    "text": "Topics\n\nData Mining Overview — the KDD process and data preprocessing.\nClassification — decision trees, Naive Bayes, KNN, and ensemble methods.\nClustering — partitional (K-means) and hierarchical (agglomerative) methods.\nAssociation Rules — frequent itemsets and Apriori.\nEvaluation & Interpretation — measuring and interpreting mining results.\nApplications — segmentation, anomaly detection, and market analysis."
+    "text": "Topics\n\nData Mining Overview: the KDD process and data preprocessing.\nClassification: decision trees, Naive Bayes, KNN, and ensemble methods.\nClustering: partitional (K-means) and hierarchical (agglomerative) methods.\nAssociation Rules: frequent itemsets and Apriori.\nEvaluation & Interpretation: measuring and interpreting mining results.\nApplications: segmentation, anomaly detection, and market analysis."
   },
   {
     "objectID": "teaching/data-mining/index.html#learning-outcomes",
@@ -242,7 +242,7 @@
     "href": "teaching/index.html",
     "title": "Teaching",
     "section": "",
-    "text": "I teach courses in the Department of Electrical Engineering, Faculty of Science and Technology, Universitas Jambi. My teaching areas sit at the intersection of artificial intelligence, data science, and computational systems. They draw on what I learned as a data scientist in industry and on the research I run with students here."
+    "text": "I teach in the Department of Electrical Engineering, Faculty of Science and Technology, Universitas Jambi. My courses cover artificial intelligence, data science and computational systems. A lot of the material comes from my time as a data scientist and from research I do with students here."
   },
   {
     "objectID": "teaching/index.html#courses",
@@ -263,7 +263,7 @@
     "href": "teaching/index.html#teaching-philosophy",
     "title": "Teaching",
     "section": "Teaching Philosophy",
-    "text": "Teaching Philosophy\nI believe students learn best by doing. My courses combine:\n\nClear theory: the mathematical foundations behind algorithms, explained from first principles.\nHands-on practice: executable notebooks and small projects on real, locally relevant datasets.\nIndustry perspective: examples drawn from data-science practice in retail and media, where models must be robust, interpretable, and production-ready."
+    "text": "Teaching Philosophy\nI try to keep courses practical. We start with the math so the ideas are clear, then move quickly to notebooks and small projects that use local data. I also bring in examples from retail and media, where a model has to be reliable and easy to explain, not just accurate in a notebook."
   },
   {
     "objectID": "teaching/index.html#supervision",
@@ -277,14 +277,14 @@
     "href": "teaching/machine-learning/index.html",
     "title": "Machine Learning",
     "section": "",
-    "text": "A practical, project-oriented course on machine learning. Students learn the full workflow — from data preparation and feature engineering to model selection, training, evaluation, and deployment — using Python."
+    "text": "A practical, project-oriented course on machine learning. Students learn the full workflow, from data preparation and feature engineering to model selection, training, evaluation, and deployment, using Python."
   },
   {
     "objectID": "teaching/machine-learning/index.html#topics",
     "href": "teaching/machine-learning/index.html#topics",
     "title": "Machine Learning",
     "section": "Topics",
-    "text": "Topics\n\nPython for Data Science — NumPy, pandas, and visualization.\nData Preparation — cleaning, imputation, encoding, and scaling.\nSupervised Learning — regression and classification (linear models, trees, ensembles, KNN).\nUnsupervised Learning — clustering (K-means, hierarchical) and dimensionality reduction.\nModel Evaluation — cross-validation, metrics, and hyperparameter tuning.\nDeep Learning Introduction — neural networks and training basics.\nProject — end-to-end machine-learning project on a real dataset."
+    "text": "Topics\n\nPython for Data Science: NumPy, pandas, and visualization.\nData Preparation: cleaning, imputation, encoding, and scaling.\nSupervised Learning: regression and classification (linear models, trees, ensembles, KNN).\nUnsupervised Learning: clustering (K-means, hierarchical) and dimensionality reduction.\nModel Evaluation: cross-validation, metrics, and hyperparameter tuning.\nDeep Learning Introduction: neural networks and training basics.\nProject: end-to-end machine-learning project on a real dataset."
   },
   {
     "objectID": "teaching/machine-learning/index.html#learning-outcomes",
@@ -299,6 +299,83 @@
     "title": "Machine Learning",
     "section": "Resources",
     "text": "Resources\n\nCompanion notebook series: ML Tutorials on GitHub.\nModules, slides, and exercises will be added progressively."
+  },
+  {
+    "objectID": "docs/quarto-portfolio-launch-checklist.html",
+    "href": "docs/quarto-portfolio-launch-checklist.html",
+    "title": "Quarto Academic Portfolio, Build & Launch Checklist",
+    "section": "",
+    "text": "Use this together with quarto_portfolio_master_guide.md.\n\n\n\nConfirm GitHub username.\nPrepare professional headshot.\nPrepare short homepage biography.\nPrepare longer About biography.\nPrepare CV PDF.\nCollect ORCID, Google Scholar, GitHub, and professional contact links.\nSelect 3-5 representative publications.\nSelect 2-4 research themes.\nList courses to publish.\nSelect 2-4 representative projects.\n\n\n\n\n\nCreate &lt;username&gt;.github.io.\nUse Public visibility when using GitHub Free.\nDo not commit secrets or private student/internal data.\nPrepare the matching local project directory.\n\n\n\n\nquarto create project website &lt;username&gt;.github.io\ncd &lt;username&gt;.github.io\ngit init\ngit branch -M main\ngit remote add origin https://github.com/&lt;username&gt;/&lt;username&gt;.github.io.git\nquarto preview\n\nindex.qmd created.\n_quarto.yml created.\nabout.qmd created.\nResearch page created.\nPublications section created.\nTeaching section created.\nProjects section created.\nContact page created.\n\n\n\n\n\nNavbar has no more than necessary top-level items.\nSite search enabled.\nFavicon added.\nsite-url configured.\nOpen Graph enabled.\nDefault social preview image added.\nLight/dark theme tested if enabled.\nImages have useful alt text.\nMobile layout checked.\nCV link works.\nDOI/publication links work.\nTeaching downloads work.\n\n\n\n\nRecommended .gitignore:\n/.quarto/\n/_site/\nThen:\ngit status\ngit add .\ngit commit -m \"Initial Quarto academic portfolio\"\ngit branch -M main\ngit push -u origin main\n\n\n\nquarto publish gh-pages\nFor a root user site (&lt;username&gt;.github.io):\n\nOpen repository Settings -&gt; Pages.\nConfirm publishing source is the gh-pages branch.\nConfirm root folder is selected.\nOpen https://&lt;username&gt;.github.io.\nEnable HTTPS if the option is shown.\n\nOfficial guide: https://quarto.org/docs/publishing/github-pages.html\n\n\n\n\nHome page loads.\nAll navbar links load.\nHeadshot loads.\nPublications load.\nTeaching pages load.\nProject images load.\nSearch works.\nSocial/professional links work.\nNo development/local paths appear.\nTest desktop.\nTest mobile.\nTest one second browser.\n\n\n\n\nAfter manual publishing works:\n\nCreate .github/workflows/publish.yml.\nUse official Quarto GitHub Action.\nEnable repository Actions workflow Read and write permissions.\nPush a small test change to main.\nConfirm workflow completes successfully.\nConfirm live site updates.\n\nOfficial reference: https://quarto.org/docs/publishing/github-pages.html#github-action\n\n\n\n\nCustom SCSS.\n_brand.yml.\nPublication listing automation.\nCourse-specific sidebars.\nConvert large modules into Quarto Books.\nAnalytics if useful.\nCustom domain only after github.io version is stable.\n\n\n\n\n\nQuarto Gallery, https://quarto.org/docs/gallery/\nBeatriz Milz, https://beamilz.com/\nMike Mahoney, https://www.mm218.dev/\nHamel Husain, https://hamel.dev/\nAndrew Heiss Teaching, https://www.andrewheiss.com/teaching/\nPython for Data Science, https://pythonds.linogaliana.fr/\nOfficial personal-website workshop, https://opensource.posit.co/blog/2024-12-04_websites-workshop/"
+  },
+  {
+    "objectID": "docs/quarto-portfolio-launch-checklist.html#a.-before-building",
+    "href": "docs/quarto-portfolio-launch-checklist.html#a.-before-building",
+    "title": "Quarto Academic Portfolio, Build & Launch Checklist",
+    "section": "",
+    "text": "Confirm GitHub username.\nPrepare professional headshot.\nPrepare short homepage biography.\nPrepare longer About biography.\nPrepare CV PDF.\nCollect ORCID, Google Scholar, GitHub, and professional contact links.\nSelect 3-5 representative publications.\nSelect 2-4 research themes.\nList courses to publish.\nSelect 2-4 representative projects."
+  },
+  {
+    "objectID": "docs/quarto-portfolio-launch-checklist.html#b.-github-repository",
+    "href": "docs/quarto-portfolio-launch-checklist.html#b.-github-repository",
+    "title": "Quarto Academic Portfolio, Build & Launch Checklist",
+    "section": "",
+    "text": "Create &lt;username&gt;.github.io.\nUse Public visibility when using GitHub Free.\nDo not commit secrets or private student/internal data.\nPrepare the matching local project directory."
+  },
+  {
+    "objectID": "docs/quarto-portfolio-launch-checklist.html#c.-quarto-project",
+    "href": "docs/quarto-portfolio-launch-checklist.html#c.-quarto-project",
+    "title": "Quarto Academic Portfolio, Build & Launch Checklist",
+    "section": "",
+    "text": "quarto create project website &lt;username&gt;.github.io\ncd &lt;username&gt;.github.io\ngit init\ngit branch -M main\ngit remote add origin https://github.com/&lt;username&gt;/&lt;username&gt;.github.io.git\nquarto preview\n\nindex.qmd created.\n_quarto.yml created.\nabout.qmd created.\nResearch page created.\nPublications section created.\nTeaching section created.\nProjects section created.\nContact page created."
+  },
+  {
+    "objectID": "docs/quarto-portfolio-launch-checklist.html#d.-quality-configuration",
+    "href": "docs/quarto-portfolio-launch-checklist.html#d.-quality-configuration",
+    "title": "Quarto Academic Portfolio, Build & Launch Checklist",
+    "section": "",
+    "text": "Navbar has no more than necessary top-level items.\nSite search enabled.\nFavicon added.\nsite-url configured.\nOpen Graph enabled.\nDefault social preview image added.\nLight/dark theme tested if enabled.\nImages have useful alt text.\nMobile layout checked.\nCV link works.\nDOI/publication links work.\nTeaching downloads work."
+  },
+  {
+    "objectID": "docs/quarto-portfolio-launch-checklist.html#e.-git",
+    "href": "docs/quarto-portfolio-launch-checklist.html#e.-git",
+    "title": "Quarto Academic Portfolio, Build & Launch Checklist",
+    "section": "",
+    "text": "Recommended .gitignore:\n/.quarto/\n/_site/\nThen:\ngit status\ngit add .\ngit commit -m \"Initial Quarto academic portfolio\"\ngit branch -M main\ngit push -u origin main"
+  },
+  {
+    "objectID": "docs/quarto-portfolio-launch-checklist.html#f.-first-github-pages-publish",
+    "href": "docs/quarto-portfolio-launch-checklist.html#f.-first-github-pages-publish",
+    "title": "Quarto Academic Portfolio, Build & Launch Checklist",
+    "section": "",
+    "text": "quarto publish gh-pages\nFor a root user site (&lt;username&gt;.github.io):\n\nOpen repository Settings -&gt; Pages.\nConfirm publishing source is the gh-pages branch.\nConfirm root folder is selected.\nOpen https://&lt;username&gt;.github.io.\nEnable HTTPS if the option is shown.\n\nOfficial guide: https://quarto.org/docs/publishing/github-pages.html"
+  },
+  {
+    "objectID": "docs/quarto-portfolio-launch-checklist.html#g.-verify-live-website",
+    "href": "docs/quarto-portfolio-launch-checklist.html#g.-verify-live-website",
+    "title": "Quarto Academic Portfolio, Build & Launch Checklist",
+    "section": "",
+    "text": "Home page loads.\nAll navbar links load.\nHeadshot loads.\nPublications load.\nTeaching pages load.\nProject images load.\nSearch works.\nSocial/professional links work.\nNo development/local paths appear.\nTest desktop.\nTest mobile.\nTest one second browser."
+  },
+  {
+    "objectID": "docs/quarto-portfolio-launch-checklist.html#h.-optional-auto-deploy",
+    "href": "docs/quarto-portfolio-launch-checklist.html#h.-optional-auto-deploy",
+    "title": "Quarto Academic Portfolio, Build & Launch Checklist",
+    "section": "",
+    "text": "After manual publishing works:\n\nCreate .github/workflows/publish.yml.\nUse official Quarto GitHub Action.\nEnable repository Actions workflow Read and write permissions.\nPush a small test change to main.\nConfirm workflow completes successfully.\nConfirm live site updates.\n\nOfficial reference: https://quarto.org/docs/publishing/github-pages.html#github-action"
+  },
+  {
+    "objectID": "docs/quarto-portfolio-launch-checklist.html#i.-later-improvements",
+    "href": "docs/quarto-portfolio-launch-checklist.html#i.-later-improvements",
+    "title": "Quarto Academic Portfolio, Build & Launch Checklist",
+    "section": "",
+    "text": "Custom SCSS.\n_brand.yml.\nPublication listing automation.\nCourse-specific sidebars.\nConvert large modules into Quarto Books.\nAnalytics if useful.\nCustom domain only after github.io version is stable."
+  },
+  {
+    "objectID": "docs/quarto-portfolio-launch-checklist.html#j.-useful-live-references",
+    "href": "docs/quarto-portfolio-launch-checklist.html#j.-useful-live-references",
+    "title": "Quarto Academic Portfolio, Build & Launch Checklist",
+    "section": "",
+    "text": "Quarto Gallery, https://quarto.org/docs/gallery/\nBeatriz Milz, https://beamilz.com/\nMike Mahoney, https://www.mm218.dev/\nHamel Husain, https://hamel.dev/\nAndrew Heiss Teaching, https://www.andrewheiss.com/teaching/\nPython for Data Science, https://pythonds.linogaliana.fr/\nOfficial personal-website workshop, https://opensource.posit.co/blog/2024-12-04_websites-workshop/"
   },
   {
     "objectID": "projects/automated-fish-counter/index.html",
@@ -452,7 +529,7 @@
     "href": "contact.html#affiliation",
     "title": "Contact",
     "section": "Affiliation",
-    "text": "Affiliation\nUniversitas Jambi Faculty of Science and Technology (FST) Department of Electrical Engineering Kampus Pinang Masak, Jl. Jambi – Muara Bulian KM 15, Muaro Jambi, Jambi, Indonesia"
+    "text": "Affiliation\nUniversitas Jambi Faculty of Science and Technology (FST) Department of Electrical Engineering Kampus Pinang Masak, Jl. Jambi, Muara Bulian KM 15, Muaro Jambi, Jambi, Indonesia"
   },
   {
     "objectID": "contact.html#profiles",
@@ -494,14 +571,14 @@
     "href": "cv.html#education",
     "title": "Curriculum Vitae",
     "section": "Education",
-    "text": "Education\n\n\n\n\n\n\n\n\n\nDegree\nInstitution\nProgram\nYear\n\n\n\n\nS2 (M.Kom.)\nUniversitas Indonesia\nIlmu Komputer\n2018–2020\n\n\nS1 (S.Komp.)\nIPB University (Institut Pertanian Bogor)\nIlmu Komputer\n2013–2017"
+    "text": "Education\n\n\n\n\n\n\n\n\n\nDegree\nInstitution\nProgram\nYear\n\n\n\n\nS2 (M.Kom.)\nUniversitas Indonesia\nIlmu Komputer\n2018-2020\n\n\nS1 (S.Komp.)\nIPB University (Institut Pertanian Bogor)\nIlmu Komputer\n2013-2017"
   },
   {
     "objectID": "cv.html#experience",
     "href": "cv.html#experience",
     "title": "Curriculum Vitae",
     "section": "Experience",
-    "text": "Experience\nLecturer (Asisten Ahli): Universitas Jambi, Department of Electrical Engineering, FST (Sep 2024 – present)\n\nTeach artificial intelligence, machine learning, data mining, and pattern recognition.\nSupervise student projects and theses.\nConduct research and community-service (pengabdian) programs in AI, IoT, and data science.\n\nData Scientist: Alfagift, Global Loyalty Indonesia, Tangerang (Sep 2020 – Aug 2024)\n\nBuilt data products, forecasting models, and machine-learning pipelines for a retail loyalty platform.\nDeveloped customer segmentation and recommendation systems.\n\nData Scientist: kumparan, Jakarta (Sep 2018 – Dec 2019; Jan – Jul 2020)\n\nDeveloped NLP and machine-learning solutions in the research department of a digital media platform."
+    "text": "Experience\nLecturer (Asisten Ahli): Universitas Jambi, Department of Electrical Engineering, FST (Sep 2024 - present)\n\nTeach artificial intelligence, machine learning, data mining, and pattern recognition.\nSupervise student projects and theses.\nConduct research and community-service (pengabdian) programs in AI, IoT, and data science.\n\nData Scientist: Alfagift, Global Loyalty Indonesia, Tangerang (Sep 2020 - Aug 2024)\n\nBuilt data products, forecasting models, and machine-learning pipelines for a retail loyalty platform.\nDeveloped customer segmentation and recommendation systems.\n\nData Scientist: kumparan, Jakarta (Sep 2018 - Dec 2019; Jan - Jul 2020)\n\nDeveloped NLP and machine-learning solutions in the research department of a digital media platform."
   },
   {
     "objectID": "cv.html#research-expertise",
@@ -529,42 +606,42 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "I am Akhiyar Waladi, a lecturer (Asisten Ahli) in the Department of Electrical Engineering, Faculty of Science and Technology, Universitas Jambi, where I teach and research topics in artificial intelligence, machine learning, pattern recognition, and predictive systems.\nMy path into computing started at IPB University (Institut Pertanian Bogor), where I earned my Bachelor of Computer Science in 2017. During my undergraduate years I explored embedded systems and computer vision, co-developing an Automated Fish Counter, an embedded system integrated with an Android device for automated fish measurement, counting, and sorting (showcased on Devpost). I continued to a Master of Computer Science at Universitas Indonesia (2018–2020), where I deepened my work on pattern recognition and machine learning, including research on automatic counting of scanned election forms using feature matching and convolutional neural networks.\nBetween 2018 and 2024 I worked in industry as a Data Scientist, first at kumparan (2018–2020) in Jakarta and then at Alfagift – Global Loyalty Indonesia (2020–2024) in Tangerang. In these roles I built and maintained data products, forecasting systems, recommendation and segmentation models, and end-to-end machine-learning pipelines used by millions of retail customers.\nSince September 2024, I have been a lecturer at Universitas Jambi. I currently teach undergraduate courses in the electrical engineering program, supervise student projects, and lead community-service (pengabdian) programs that bring AI and IoT literacy to schools, pesantren, and vocational students in the Jambi region."
+    "text": "I am Akhiyar Waladi, a lecturer (Asisten Ahli) in the Department of Electrical Engineering, Faculty of Science and Technology, Universitas Jambi, where I teach and research topics in artificial intelligence, machine learning, pattern recognition, and predictive systems.\nMy path into computing started at IPB University (Institut Pertanian Bogor), where I earned my Bachelor of Computer Science in 2017. During my undergraduate years I explored embedded systems and computer vision, co-developing an Automated Fish Counter, an embedded system integrated with an Android device for automated fish measurement, counting, and sorting (showcased on Devpost). I continued to a Master of Computer Science at Universitas Indonesia (2018-2020), where I deepened my work on pattern recognition and machine learning, including research on automatic counting of scanned election forms using feature matching and convolutional neural networks.\nBetween 2018 and 2024 I worked in industry as a Data Scientist, first at kumparan (2018-2020) in Jakarta and then at Alfagift, Global Loyalty Indonesia (2020-2024) in Tangerang. In these roles I built and maintained data products, forecasting systems, recommendation and segmentation models, and end-to-end machine-learning pipelines used by millions of retail customers.\nSince September 2024, I have been a lecturer at Universitas Jambi. I currently teach undergraduate courses in the electrical engineering program, supervise student projects, and lead community-service (pengabdian) programs that bring AI and IoT literacy to schools, pesantren, and vocational students in the Jambi region."
   },
   {
     "objectID": "about.html#biography",
     "href": "about.html#biography",
     "title": "About",
     "section": "",
-    "text": "I am Akhiyar Waladi, a lecturer (Asisten Ahli) in the Department of Electrical Engineering, Faculty of Science and Technology, Universitas Jambi, where I teach and research topics in artificial intelligence, machine learning, pattern recognition, and predictive systems.\nMy path into computing started at IPB University (Institut Pertanian Bogor), where I earned my Bachelor of Computer Science in 2017. During my undergraduate years I explored embedded systems and computer vision, co-developing an Automated Fish Counter, an embedded system integrated with an Android device for automated fish measurement, counting, and sorting (showcased on Devpost). I continued to a Master of Computer Science at Universitas Indonesia (2018–2020), where I deepened my work on pattern recognition and machine learning, including research on automatic counting of scanned election forms using feature matching and convolutional neural networks.\nBetween 2018 and 2024 I worked in industry as a Data Scientist, first at kumparan (2018–2020) in Jakarta and then at Alfagift – Global Loyalty Indonesia (2020–2024) in Tangerang. In these roles I built and maintained data products, forecasting systems, recommendation and segmentation models, and end-to-end machine-learning pipelines used by millions of retail customers.\nSince September 2024, I have been a lecturer at Universitas Jambi. I currently teach undergraduate courses in the electrical engineering program, supervise student projects, and lead community-service (pengabdian) programs that bring AI and IoT literacy to schools, pesantren, and vocational students in the Jambi region."
+    "text": "I am Akhiyar Waladi, a lecturer (Asisten Ahli) in the Department of Electrical Engineering, Faculty of Science and Technology, Universitas Jambi, where I teach and research topics in artificial intelligence, machine learning, pattern recognition, and predictive systems.\nMy path into computing started at IPB University (Institut Pertanian Bogor), where I earned my Bachelor of Computer Science in 2017. During my undergraduate years I explored embedded systems and computer vision, co-developing an Automated Fish Counter, an embedded system integrated with an Android device for automated fish measurement, counting, and sorting (showcased on Devpost). I continued to a Master of Computer Science at Universitas Indonesia (2018-2020), where I deepened my work on pattern recognition and machine learning, including research on automatic counting of scanned election forms using feature matching and convolutional neural networks.\nBetween 2018 and 2024 I worked in industry as a Data Scientist, first at kumparan (2018-2020) in Jakarta and then at Alfagift, Global Loyalty Indonesia (2020-2024) in Tangerang. In these roles I built and maintained data products, forecasting systems, recommendation and segmentation models, and end-to-end machine-learning pipelines used by millions of retail customers.\nSince September 2024, I have been a lecturer at Universitas Jambi. I currently teach undergraduate courses in the electrical engineering program, supervise student projects, and lead community-service (pengabdian) programs that bring AI and IoT literacy to schools, pesantren, and vocational students in the Jambi region."
   },
   {
     "objectID": "about.html#research-interests",
     "href": "about.html#research-interests",
     "title": "About",
     "section": "Research Interests",
-    "text": "Research Interests\nMy official expertise profile, as registered with the university, lists artificial intelligence and computing as my fields of expertise, with research spanning pattern recognition, computational systems design, expert systems, and predictive systems. In practice, that means:\n\nPattern Recognition: deep learning and feature-based recognition for documents, remote sensing scenes, agricultural imagery, and medical imaging.\nPredictive Systems: time-series forecasting (SARIMA, LSTM), stock price prediction, and trend analysis.\nMachine Learning & Data Mining: clustering (K-means, hierarchical, agglomerative), classification, and customer/regional segmentation.\nExpert Systems & Intelligent Computing: design and construction of domain-specific decision-support systems.\nComputer Vision & Deep Learning: CNN architectures, transfer learning, and object/feature detection."
+    "text": "Research Interests\nMy formal expertise is artificial intelligence and computing. In day to day work that breaks into a few strands. I use deep learning for recognition tasks on documents, satellite scenes, farm images and medical images. I build forecasting models with SARIMA and LSTM and apply them to prices and trends. A lot of my work is clustering and classification for segmentation, and I also design small decision support systems for specific users. On the vision side I work with CNNs and transfer learning."
   },
   {
     "objectID": "about.html#education",
     "href": "about.html#education",
     "title": "About",
     "section": "Education",
-    "text": "Education\n\n\n\n\n\n\n\n\n\nDegree\nInstitution\nProgram\nYear\n\n\n\n\nS2 (M.Kom.)\nUniversitas Indonesia\nIlmu Komputer\n2018–2020\n\n\nS1 (S.Komp.)\nIPB University (Institut Pertanian Bogor)\nIlmu Komputer\n2013–2017"
+    "text": "Education\n\n\n\n\n\n\n\n\n\nDegree\nInstitution\nProgram\nYear\n\n\n\n\nS2 (M.Kom.)\nUniversitas Indonesia\nIlmu Komputer\n2018-2020\n\n\nS1 (S.Komp.)\nIPB University (Institut Pertanian Bogor)\nIlmu Komputer\n2013-2017"
   },
   {
     "objectID": "about.html#academic-experience",
     "href": "about.html#academic-experience",
     "title": "About",
     "section": "Academic Experience",
-    "text": "Academic Experience\n\nLecturer (Asisten Ahli): Department of Electrical Engineering, Faculty of Science and Technology, Universitas Jambi (Sep 2024 – present)."
+    "text": "Academic Experience\n\nLecturer (Asisten Ahli): Department of Electrical Engineering, Faculty of Science and Technology, Universitas Jambi (Sep 2024 - present)."
   },
   {
     "objectID": "about.html#industry-experience",
     "href": "about.html#industry-experience",
     "title": "About",
     "section": "Industry Experience",
-    "text": "Industry Experience\n\nData Scientist: Alfagift, Global Loyalty Indonesia, Tangerang, Banten (Sep 2020 – Aug 2024). Built data products, forecasting models, and machine-learning pipelines for a retail loyalty platform.\nData Scientist: kumparan, Jakarta (Sep 2018 – Dec 2019; Jan – Jul 2020). Research department; developed NLP and machine-learning solutions for a digital media platform."
+    "text": "Industry Experience\n\nData Scientist: Alfagift, Global Loyalty Indonesia, Tangerang, Banten (Sep 2020 - Aug 2024). Built data products, forecasting models, and machine-learning pipelines for a retail loyalty platform.\nData Scientist: kumparan, Jakarta (Sep 2018 - Dec 2019; Jan - Jul 2020). Research department; developed NLP and machine-learning solutions for a digital media platform."
   },
   {
     "objectID": "about.html#professional-profiles",
@@ -592,7 +669,7 @@
     "href": "index.html",
     "title": "Akhiyar Waladi",
     "section": "",
-    "text": "Lecturer · Universitas Jambi\n\n\nTeaching machines to see, count, and predict.\n\n\nI work on computer vision and predictive systems — from satellite images and microscope slides to forecasts for real use. This site collects my research, course materials, and projects in one place.\n\n\nOpen Bahan Ajar View Research About Me\nI am a lecturer (Asisten Ahli) in the Department of Electrical Engineering at Universitas Jambi. My work centers on Artificial Intelligence, Machine Learning, and Pattern Recognition — with a focus on making them useful outside the lab, whether for agriculture, health, or industry.\nBefore joining Universitas Jambi in 2024, I worked as a Data Scientist at Alfagift (Global Loyalty Indonesia) and kumparan, where I built forecasting systems, segmentation models, and ML pipelines used by millions of people.\nI hold an M.Kom. from Universitas Indonesia and an S.Komp. from IPB University. My papers appear in Scopus-indexed and SINTA-accredited venues — see Google Scholar and SINTA."
+    "text": "Lecturer · Universitas Jambi\n\n\nTeaching machines to see, count, and predict.\n\n\nI work on computer vision and predictive systems, from satellite images and microscope slides to forecasts for real use. This site collects my research, course materials, and projects in one place.\n\n\nOpen Bahan Ajar View Research About Me\nI am a lecturer (Asisten Ahli) in the Department of Electrical Engineering at Universitas Jambi. My work centers on Artificial Intelligence, Machine Learning, and Pattern Recognition, with a focus on making them useful outside the lab, whether for agriculture, health, or industry.\nBefore joining Universitas Jambi in 2024, I worked as a Data Scientist at Alfagift (Global Loyalty Indonesia) and kumparan, where I built forecasting systems, segmentation models, and ML pipelines used by millions of people.\nI hold an M.Kom. from Universitas Indonesia and an S.Komp. from IPB University. My papers appear in Scopus-indexed and SINTA-accredited venues. See Google Scholar and SINTA."
   },
   {
     "objectID": "index.html#bahan-ajar",
@@ -606,28 +683,28 @@
     "href": "index.html#selected-research",
     "title": "Akhiyar Waladi",
     "section": "Selected Research",
-    "text": "Selected Research\nMy research groups into four threads. Each one started from a concrete problem my students or collaborators brought to me:\n\nPattern Recognition and Computer Vision — reading scanned forms, counting fish from images, classifying remote-sensing scenes, and detecting malaria parasites under the microscope.\nPredictive Systems — forecasting with SARIMA and LSTM, applied to energy exports and stock prices.\nClustering and Segmentation — K-means and hierarchical methods for customer segments, provincial profiles, and fire hotspots.\nIntelligent Systems — small decision-support tools built for specific users, from village IoT monitors to pesantren administration."
+    "text": "Selected Research\nMy research follows problems that students and collaborators bring in:\nPattern recognition shows up in reading scanned forms, counting fish from images, classifying satellite scenes and spotting malaria parasites. For forecasting I use SARIMA and LSTM on energy exports and stock prices. Clustering with K-means and hierarchical methods helps with customer groups, province profiles and fire hotspots. I also build small decision tools, from village IoT monitors to admin systems for pesantren."
   },
   {
     "objectID": "index.html#featured-publications",
     "href": "index.html#featured-publications",
     "title": "Akhiyar Waladi",
     "section": "Featured Publications",
-    "text": "Featured Publications\nA short sample. Full list with plain-language summaries on the Publications page.\n\nTransfer Learning for Remote Sensing Scene Classification — which CNN/ViT transfers best for landscape scenes. Jurnal Riset Informatika 8(3), 2026. DOI\nParameter-Efficient Models for Malaria Detection — small-data, imbalanced blood-smear classification. Kinetik 11(2), 2026. DOI\nMulti-Architecture CNN for Automated Malaria Detection — comparing YOLO and CNN variants on microscopy images. PROCA 2(2), 2026. DOI\nAutomatic Counting from Scanned Election Forms — feature matching + CNN. ICACSIS 2019 (Scopus). IEEE\nRandom Forest for Sentinel-2 Land Cover in Jambi — improving accuracy on local landscape. Jurnal Ilmu Komputer (Fasilkom UMRI). PDF"
+    "text": "Featured Publications\nA short sample. Full list with plain-language summaries on the Publications page.\n\nTransfer Learning for Remote Sensing Scene Classification: which CNN and ViT transfers best for landscape scenes. Jurnal Riset Informatika 8(3), 2026. DOI\nParameter-Efficient Models for Malaria Detection: small data, imbalanced blood smear classification. Kinetik 11(2), 2026. DOI\nMulti-Architecture CNN for Automated Malaria Detection: comparing YOLO and CNN variants on microscopy images. PROCA 2(2), 2026. DOI\nAutomatic Counting from Scanned Election Forms: feature matching and CNN. ICACSIS 2019 (Scopus). IEEE\nRandom Forest for Sentinel-2 Land Cover in Jambi: improving accuracy on local landscapes. Jurnal Ilmu Komputer (Fasilkom UMRI). PDF"
   },
   {
     "objectID": "index.html#teaching",
     "href": "index.html#teaching",
     "title": "Akhiyar Waladi",
     "section": "Teaching",
-    "text": "Teaching\nI teach in the Department of Electrical Engineering, Universitas Jambi:\n\nArtificial Intelligence · Machine Learning · Data Mining · Pattern Recognition · Pengolahan Citra Digital\n\nMaterials are open-access — see Bahan Ajar above or the Teaching page."
+    "text": "Teaching\nI teach in the Department of Electrical Engineering, Universitas Jambi:\n\nArtificial Intelligence · Machine Learning · Data Mining · Pattern Recognition · Pengolahan Citra Digital\n\nMaterials are open access. See Bahan Ajar above or the Teaching page."
   },
   {
     "objectID": "index.html#selected-projects",
     "href": "index.html#selected-projects",
     "title": "Akhiyar Waladi",
     "section": "Selected Projects",
-    "text": "Selected Projects\n\nAutomated Fish Counter — Android + embedded vision to measure, count, and sort fish. GitHub · Devpost\nIoT FST Dashboard — live sensor monitoring for the faculty. GitHub\nFire Spot — hierarchical clustering of fire hotspots in Bangka Belitung. GitHub\nML Tutorials — hands-on notebooks for my classes. GitHub\n\nMore detail on the Projects page."
+    "text": "Selected Projects\n\nAutomated Fish Counter: Android and embedded vision to measure, count and sort fish. GitHub · Devpost\nIoT FST Dashboard: live sensor monitoring for the faculty. GitHub\nFire Spot: hierarchical clustering of fire hotspots in Bangka Belitung. GitHub\nML Tutorials: hands-on notebooks for my classes. GitHub\n\nMore detail on the Projects page."
   },
   {
     "objectID": "index.html#get-in-touch",
@@ -763,18 +840,298 @@
     "text": "Links\n\nGitHub repository"
   },
   {
+    "objectID": "docs/quarto-portfolio-master-guide.html",
+    "href": "docs/quarto-portfolio-master-guide.html",
+    "title": "Master Guide: Building a Lecturer Portfolio Website with Quarto + GitHub Pages",
+    "section": "",
+    "text": "Last checked: 19 August 2026\nGoal: Build a professional academic portfolio for a lecturer/researcher containing biodata, research, publications, teaching, learning materials/modules, projects, activities, and contact information, then deploy it with GitHub Pages.\n\n\n\nFor the first version, keep the architecture simple:\nQuarto source files (.qmd, .yml, .scss/.css)\n                 |\n                 | git push\n                 v\n          GitHub repository\n      &lt;username&gt;.github.io\n                 |\n                 | quarto publish gh-pages\n                 v\n           gh-pages branch\n                 |\n                 v\n            GitHub Pages\n                 |\n                 v\nhttps://&lt;username&gt;.github.io\nThis is enough for a complete academic website. A database, VPS, WordPress installation, or backend server is not required for the normal portfolio.\n\n\nHome\n├── About\n├── Research\n├── Publications\n├── Teaching\n│   ├── Courses\n│   └── Learning Materials / Modules\n├── Projects\n├── Students / Supervision\n├── Activities / Talks\n├── Notes / Blog           (optional)\n└── Contact\nFor the first release, prioritize Home, About, Research, Publications, Teaching, Projects, and Contact. Add the others after the core site is stable."
+  },
+  {
+    "objectID": "docs/quarto-portfolio-master-guide.html#recommended-architecture",
+    "href": "docs/quarto-portfolio-master-guide.html#recommended-architecture",
+    "title": "Master Guide: Building a Lecturer Portfolio Website with Quarto + GitHub Pages",
+    "section": "",
+    "text": "For the first version, keep the architecture simple:\nQuarto source files (.qmd, .yml, .scss/.css)\n                 |\n                 | git push\n                 v\n          GitHub repository\n      &lt;username&gt;.github.io\n                 |\n                 | quarto publish gh-pages\n                 v\n           gh-pages branch\n                 |\n                 v\n            GitHub Pages\n                 |\n                 v\nhttps://&lt;username&gt;.github.io\nThis is enough for a complete academic website. A database, VPS, WordPress installation, or backend server is not required for the normal portfolio.\n\n\nHome\n├── About\n├── Research\n├── Publications\n├── Teaching\n│   ├── Courses\n│   └── Learning Materials / Modules\n├── Projects\n├── Students / Supervision\n├── Activities / Talks\n├── Notes / Blog           (optional)\n└── Contact\nFor the first release, prioritize Home, About, Research, Publications, Teaching, Projects, and Contact. Add the others after the core site is stable."
+  },
+  {
+    "objectID": "docs/quarto-portfolio-master-guide.html#can-the-repository-be-private",
+    "href": "docs/quarto-portfolio-master-guide.html#can-the-repository-be-private",
+    "title": "Master Guide: Building a Lecturer Portfolio Website with Quarto + GitHub Pages",
+    "section": "Can the repository be private?",
+    "text": "Can the repository be private?\nYes, but it depends on your GitHub plan.\n\n\n\nGitHub plan\nPublic repository + Pages\nPrivate repository + Pages\n\n\n\n\nGitHub Free (personal)\nYes\nNo\n\n\nGitHub Free (organization)\nYes\nNo\n\n\nGitHub Pro\nYes\nYes\n\n\nGitHub Team\nYes\nYes\n\n\nGitHub Enterprise Cloud\nYes\nYes\n\n\n\nGitHub’s current documentation states that GitHub Pages is available from public repositories on GitHub Free, while public and private repositories are supported on GitHub Pro, Team, and Enterprise plans.\nOfficial source:\nhttps://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages\n\nImportant distinction: private repository is not the same as private website\nEven when the source repository is private, a normal GitHub Pages site is public on the internet by default. A truly privately published Pages site with access control requires an organization using GitHub Enterprise Cloud.\nOfficial sources:\n\nhttps://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site\nhttps://docs.github.com/enterprise-cloud@latest/pages/getting-started-with-github-pages/changing-the-visibility-of-your-github-pages-site\n\n\n\nRecommendation for this portfolio\nUse a public repository on GitHub Free.\nThat gives you:\n\nfree GitHub Pages hosting;\nfree GitHub Actions for a public repository;\nan easy-to-inspect source history;\nno server administration;\na natural place to keep the portfolio under version control.\n\nA public academic website should contain only material that is already intended to be public. Never commit passwords, API keys, unpublished confidential material, student private data, internal documents, or sensitive files.\nIf someday you specifically want the website source hidden while the website remains public, GitHub Pro can host Pages from a private source repository."
+  },
+  {
+    "objectID": "docs/quarto-portfolio-master-guide.html#beatriz-milz",
+    "href": "docs/quarto-portfolio-master-guide.html#beatriz-milz",
+    "title": "Master Guide: Building a Lecturer Portfolio Website with Quarto + GitHub Pages",
+    "section": "4.1 Beatriz Milz",
+    "text": "4.1 Beatriz Milz\nLive site: https://beamilz.com/\nWhy it is useful:\n\nacademic/personal identity is immediately clear;\nresearch, projects, talks, videos, and blog are easy to find;\nmultilingual organization demonstrates that a personal site can grow without becoming confusing;\nclearly built with Quarto.\n\nBorrow this idea: simple landing page + clear content categories + approachable academic identity.\nOfficial Quarto Gallery entry:\nhttps://quarto.org/docs/gallery/"
+  },
+  {
+    "objectID": "docs/quarto-portfolio-master-guide.html#mike-mahoney",
+    "href": "docs/quarto-portfolio-master-guide.html#mike-mahoney",
+    "title": "Master Guide: Building a Lecturer Portfolio Website with Quarto + GitHub Pages",
+    "section": "4.2 Mike Mahoney",
+    "text": "4.2 Mike Mahoney\nLive site: https://www.mm218.dev/\nWhy it is useful:\n\nconcise biography;\nselected projects visible immediately;\npublications, presentations, CV, blog, GitHub, and professional links are close to the homepage;\ninformation hierarchy is strong even without excessive visual effects.\n\nBorrow this idea: homepage should surface selected work rather than act only as a table of contents."
+  },
+  {
+    "objectID": "docs/quarto-portfolio-master-guide.html#hamel-husain",
+    "href": "docs/quarto-portfolio-master-guide.html#hamel-husain",
+    "title": "Master Guide: Building a Lecturer Portfolio Website with Quarto + GitHub Pages",
+    "section": "4.3 Hamel Husain",
+    "text": "4.3 Hamel Husain\nLive site: https://hamel.dev/\nWhy it is useful:\n\nstrong technical writing / teaching emphasis;\nexcellent example of using Quarto for a content-heavy professional identity;\nshows that a Quarto site can scale to many long-form technical articles.\n\nBorrow this idea: make useful technical/teaching content part of the portfolio itself."
+  },
+  {
+    "objectID": "docs/quarto-portfolio-master-guide.html#andrew-heiss-teaching-page",
+    "href": "docs/quarto-portfolio-master-guide.html#andrew-heiss-teaching-page",
+    "title": "Master Guide: Building a Lecturer Portfolio Website with Quarto + GitHub Pages",
+    "section": "4.4 Andrew Heiss, Teaching page",
+    "text": "4.4 Andrew Heiss, Teaching page\nLive teaching page: https://www.andrewheiss.com/teaching/\nWhy it is useful:\n\ncourses are grouped by academic year;\ncourse descriptions are understandable before clicking;\ninteractive resources are placed separately from formal courses;\nthe page demonstrates how teaching history can remain navigable over many years.\n\nBorrow this idea: organize teaching resources by course and/or academic year instead of uploading one long file list."
+  },
+  {
+    "objectID": "docs/quarto-portfolio-master-guide.html#python-for-data-science",
+    "href": "docs/quarto-portfolio-master-guide.html#python-for-data-science",
+    "title": "Master Guide: Building a Lecturer Portfolio Website with Quarto + GitHub Pages",
+    "section": "4.5 Python for Data Science",
+    "text": "4.5 Python for Data Science\nLive site: https://pythonds.linogaliana.fr/\nWhy it is useful:\n\nexcellent reference for online teaching modules;\nuses navigable chapters;\ncombines explanation, code, notebooks, and learning materials;\ndemonstrates the direction the Teaching / Learning Materials section can eventually take.\n\nBorrow this idea: treat teaching materials as structured learning content, not merely a PDF download page."
+  },
+  {
+    "objectID": "docs/quarto-portfolio-master-guide.html#official-quarto-gallery",
+    "href": "docs/quarto-portfolio-master-guide.html#official-quarto-gallery",
+    "title": "Master Guide: Building a Lecturer Portfolio Website with Quarto + GitHub Pages",
+    "section": "4.6 Official Quarto Gallery",
+    "text": "4.6 Official Quarto Gallery\nGallery: https://quarto.org/docs/gallery/\nUse this when looking for new ideas. It contains examples of personal websites, blogs, courses, research-group sites, documentation, notebooks, dashboards, and books."
+  },
+  {
+    "objectID": "docs/quarto-portfolio-master-guide.html#official-quarto-website-documentation",
+    "href": "docs/quarto-portfolio-master-guide.html#official-quarto-website-documentation",
+    "title": "Master Guide: Building a Lecturer Portfolio Website with Quarto + GitHub Pages",
+    "section": "Official Quarto website documentation",
+    "text": "Official Quarto website documentation\nhttps://quarto.org/docs/websites/\nCovers the overall website project model, navigation, search, footer, tools, and publishing."
+  },
+  {
+    "objectID": "docs/quarto-portfolio-master-guide.html#official-four-part-quarto-personal-website-workshop",
+    "href": "docs/quarto-portfolio-master-guide.html#official-four-part-quarto-personal-website-workshop",
+    "title": "Master Guide: Building a Lecturer Portfolio Website with Quarto + GitHub Pages",
+    "section": "Official four-part Quarto personal website workshop",
+    "text": "Official four-part Quarto personal website workshop\nhttps://opensource.posit.co/blog/2024-12-04_websites-workshop/\nThis is especially useful because the sequence is close to the workflow needed here:\n\nbuild the homepage;\nadd pages and navigation;\ncustomize appearance with CSS/SCSS;\nadd listings for projects, talks, publications, or posts."
+  },
+  {
+    "objectID": "docs/quarto-portfolio-master-guide.html#about-page-templates",
+    "href": "docs/quarto-portfolio-master-guide.html#about-page-templates",
+    "title": "Master Guide: Building a Lecturer Portfolio Website with Quarto + GitHub Pages",
+    "section": "About-page templates",
+    "text": "About-page templates\nhttps://quarto.org/docs/websites/website-about.html\nQuarto currently includes built-in about layouts such as:\n\njolla\ntrestles\nsolana\nmarquee\nbroadside\n\nFor a lecturer/researcher homepage, solana, trestles, or broadside are good starting points."
+  },
+  {
+    "objectID": "docs/quarto-portfolio-master-guide.html#document-listings",
+    "href": "docs/quarto-portfolio-master-guide.html#document-listings",
+    "title": "Master Guide: Building a Lecturer Portfolio Website with Quarto + GitHub Pages",
+    "section": "Document listings",
+    "text": "Document listings\nhttps://quarto.org/docs/websites/website-listings.html\nUse listings for:\n\npublications;\nprojects;\ncourses;\ntalks;\nblog/notes;\nlearning resources.\n\nThis avoids manually updating a long index page every time a new item is added."
+  },
+  {
+    "objectID": "docs/quarto-portfolio-master-guide.html#navigation-and-search",
+    "href": "docs/quarto-portfolio-master-guide.html#navigation-and-search",
+    "title": "Master Guide: Building a Lecturer Portfolio Website with Quarto + GitHub Pages",
+    "section": "Navigation and search",
+    "text": "Navigation and search\nhttps://quarto.org/docs/websites/website-navigation.html\nQuarto supports:\n\ntop navbar;\nsidebar;\ncombined navbar + sidebar;\nfull-text site search.\n\nFor this portfolio, use a top navbar for the main portfolio and a sidebar only for large teaching/module sections."
+  },
+  {
+    "objectID": "docs/quarto-portfolio-master-guide.html#html-themes-and-custom-theming",
+    "href": "docs/quarto-portfolio-master-guide.html#html-themes-and-custom-theming",
+    "title": "Master Guide: Building a Lecturer Portfolio Website with Quarto + GitHub Pages",
+    "section": "HTML themes and custom theming",
+    "text": "HTML themes and custom theming\nhttps://quarto.org/docs/output-formats/html-themes.html\nQuarto uses Bootstrap 5 and includes Bootswatch themes. It also supports custom SCSS themes and separate light/dark themes."
+  },
+  {
+    "objectID": "docs/quarto-portfolio-master-guide.html#website-tools-social-preview-favicon-analytics-dark-mode",
+    "href": "docs/quarto-portfolio-master-guide.html#website-tools-social-preview-favicon-analytics-dark-mode",
+    "title": "Master Guide: Building a Lecturer Portfolio Website with Quarto + GitHub Pages",
+    "section": "Website tools: social preview, favicon, analytics, dark mode",
+    "text": "Website tools: social preview, favicon, analytics, dark mode\nhttps://quarto.org/docs/websites/website-tools.html\nImportant quality features include:\n\nfavicon;\nOpen Graph metadata;\nsocial preview images;\nTwitter/X card metadata;\nGoogle Analytics or Plausible Analytics;\ncookie consent where needed;\ndark mode."
+  },
+  {
+    "objectID": "docs/quarto-portfolio-master-guide.html#brand-system",
+    "href": "docs/quarto-portfolio-master-guide.html#brand-system",
+    "title": "Master Guide: Building a Lecturer Portfolio Website with Quarto + GitHub Pages",
+    "section": "Brand system",
+    "text": "Brand system\nQuarto supports _brand.yml for consistent visual branding across supported outputs.\nBackground and examples:\n\nhttps://quarto.org/docs/blog/posts/2024-11-25-1.6-release/\nhttps://quarto.org/docs/blog/posts/2025-01-15-quarto-tip-brand-positron/\n\nThis becomes valuable if the same visual identity will later be reused in presentations, reports, or teaching material."
+  },
+  {
+    "objectID": "docs/quarto-portfolio-master-guide.html#citations-and-bibliography",
+    "href": "docs/quarto-portfolio-master-guide.html#citations-and-bibliography",
+    "title": "Master Guide: Building a Lecturer Portfolio Website with Quarto + GitHub Pages",
+    "section": "Citations and bibliography",
+    "text": "Citations and bibliography\nhttps://quarto.org/docs/authoring/citations.html\nQuarto supports BibTeX/BibLaTeX and CSL. Keep a references.bib file when citation-aware pages are useful."
+  },
+  {
+    "objectID": "docs/quarto-portfolio-master-guide.html#citeable-web-articles",
+    "href": "docs/quarto-portfolio-master-guide.html#citeable-web-articles",
+    "title": "Master Guide: Building a Lecturer Portfolio Website with Quarto + GitHub Pages",
+    "section": "Citeable web articles",
+    "text": "Citeable web articles\nhttps://quarto.org/docs/authoring/create-citeable-articles.html\nUseful later if technical notes or tutorials on the website should themselves expose citation metadata."
+  },
+  {
+    "objectID": "docs/quarto-portfolio-master-guide.html#github-pages-publishing",
+    "href": "docs/quarto-portfolio-master-guide.html#github-pages-publishing",
+    "title": "Master Guide: Building a Lecturer Portfolio Website with Quarto + GitHub Pages",
+    "section": "GitHub Pages publishing",
+    "text": "GitHub Pages publishing\nhttps://quarto.org/docs/publishing/github-pages.html\nThis is the primary deployment reference for the setup below."
+  },
+  {
+    "objectID": "docs/quarto-portfolio-master-guide.html#identity-assets",
+    "href": "docs/quarto-portfolio-master-guide.html#identity-assets",
+    "title": "Master Guide: Building a Lecturer Portfolio Website with Quarto + GitHub Pages",
+    "section": "Identity assets",
+    "text": "Identity assets\n\nprofessional headshot;\npreferred displayed academic name;\nlecturer/researcher title;\nuniversity/faculty/program affiliation;\nshort biography (around 80-150 words for homepage);\nlonger biography for About;\nprofessional email;\nCV PDF;\nORCID;\nGoogle Scholar;\nGitHub;\nLinkedIn, if desired."
+  },
+  {
+    "objectID": "docs/quarto-portfolio-master-guide.html#research-content",
+    "href": "docs/quarto-portfolio-master-guide.html#research-content",
+    "title": "Master Guide: Building a Lecturer Portfolio Website with Quarto + GitHub Pages",
+    "section": "Research content",
+    "text": "Research content\nFor each research theme, prepare:\n\ntitle;\n1-2 sentence explanation understandable outside the narrow field;\nrepresentative image/figure if available;\n2-4 representative publications/projects.\n\nAvoid presenting research interests as only a long keyword list."
+  },
+  {
+    "objectID": "docs/quarto-portfolio-master-guide.html#publications",
+    "href": "docs/quarto-portfolio-master-guide.html#publications",
+    "title": "Master Guide: Building a Lecturer Portfolio Website with Quarto + GitHub Pages",
+    "section": "Publications",
+    "text": "Publications\nFor every publication ideally keep:\nTitle\nAuthors\nYear\nVenue\nDOI / publisher URL\nAbstract or 2-3 sentence summary\nPDF (if legally shareable)\nCode URL\nDataset URL\nBibTeX\nThumbnail / representative figure (optional)"
+  },
+  {
+    "objectID": "docs/quarto-portfolio-master-guide.html#teaching",
+    "href": "docs/quarto-portfolio-master-guide.html#teaching",
+    "title": "Master Guide: Building a Lecturer Portfolio Website with Quarto + GitHub Pages",
+    "section": "Teaching",
+    "text": "Teaching\nFor each course:\nCourse name\nCourse code (optional)\nShort description\nSemester/year\nSyllabus / RPS (if public)\nModules\nSlides\nLabs / notebooks\nDatasets\nAssignments or exercises intended for public release\nDo not publish private student information, answer keys that should remain confidential, internal credentials, or copyrighted material that you do not have permission to redistribute."
+  },
+  {
+    "objectID": "docs/quarto-portfolio-master-guide.html#install-quarto",
+    "href": "docs/quarto-portfolio-master-guide.html#install-quarto",
+    "title": "Master Guide: Building a Lecturer Portfolio Website with Quarto + GitHub Pages",
+    "section": "7.1 Install Quarto",
+    "text": "7.1 Install Quarto\nOfficial download page:\nhttps://quarto.org/docs/download/\nAfter installation, verify:\nquarto --version"
+  },
+  {
+    "objectID": "docs/quarto-portfolio-master-guide.html#recommended-editor",
+    "href": "docs/quarto-portfolio-master-guide.html#recommended-editor",
+    "title": "Master Guide: Building a Lecturer Portfolio Website with Quarto + GitHub Pages",
+    "section": "7.2 Recommended editor",
+    "text": "7.2 Recommended editor\nVS Code works well for this workflow. Install the Quarto extension if desired.\nYou should also have Git installed:\ngit --version"
+  },
+  {
+    "objectID": "docs/quarto-portfolio-master-guide.html#level-a-courses",
+    "href": "docs/quarto-portfolio-master-guide.html#level-a-courses",
+    "title": "Master Guide: Building a Lecturer Portfolio Website with Quarto + GitHub Pages",
+    "section": "Level A, Courses",
+    "text": "Level A, Courses\nTeaching\n├── Data Mining\n├── Artificial Intelligence\n├── Cloud Computing\n└── Statistics\nEach course landing page can show:\n\ndescription;\nlearning objectives;\nsemester/year;\nsyllabus/RPS if public;\nmodules;\nslides;\nnotebooks;\ndatasets;\nrecommended readings."
+  },
+  {
+    "objectID": "docs/quarto-portfolio-master-guide.html#level-b-learning-materialsmodules",
+    "href": "docs/quarto-portfolio-master-guide.html#level-b-learning-materialsmodules",
+    "title": "Master Guide: Building a Lecturer Portfolio Website with Quarto + GitHub Pages",
+    "section": "Level B, Learning materials/modules",
+    "text": "Level B, Learning materials/modules\nExample:\nData Mining\n├── 01 Introduction\n├── 02 Data Preparation\n├── 03 Classification\n├── 04 Clustering\n├── 05 Association Rules\n└── Exercises\nThis is where Quarto is especially strong because a module can include:\n\nMarkdown explanation;\nequations;\nfigures;\ntables;\nexecutable Python/R code;\nJupyter output;\nreferences;\ncross-references;\ncallout boxes.\n\nIf one course grows into a large textbook-like resource, later turn that course into a Quarto Book.\nQuarto Books:\nhttps://quarto.org/docs/books/"
+  },
+  {
+    "objectID": "docs/quarto-portfolio-master-guide.html#use-one-visual-identity",
+    "href": "docs/quarto-portfolio-master-guide.html#use-one-visual-identity",
+    "title": "Master Guide: Building a Lecturer Portfolio Website with Quarto + GitHub Pages",
+    "section": "Use one visual identity",
+    "text": "Use one visual identity\nChoose:\n\none primary accent color;\none secondary color if genuinely necessary;\na consistent heading font;\na highly readable body font;\nconsistent border radius and spacing.\n\nDo not make every section use a different color."
+  },
+  {
+    "objectID": "docs/quarto-portfolio-master-guide.html#use-_brand.yml-later",
+    "href": "docs/quarto-portfolio-master-guide.html#use-_brand.yml-later",
+    "title": "Master Guide: Building a Lecturer Portfolio Website with Quarto + GitHub Pages",
+    "section": "Use _brand.yml later",
+    "text": "Use _brand.yml later\nOnce the visual direction is stable, move core identity settings to _brand.yml so the brand can be reused across website pages, presentations, reports, and possibly teaching outputs."
+  },
+  {
+    "objectID": "docs/quarto-portfolio-master-guide.html#light-and-dark-mode",
+    "href": "docs/quarto-portfolio-master-guide.html#light-and-dark-mode",
+    "title": "Master Guide: Building a Lecturer Portfolio Website with Quarto + GitHub Pages",
+    "section": "Light and dark mode",
+    "text": "Light and dark mode\nA simple Quarto configuration is:\nformat:\n  html:\n    theme:\n      light: cosmo\n      dark: darkly\nOfficial theming guide:\nhttps://quarto.org/docs/output-formats/html-themes.html"
+  },
+  {
+    "objectID": "docs/quarto-portfolio-master-guide.html#typography",
+    "href": "docs/quarto-portfolio-master-guide.html#typography",
+    "title": "Master Guide: Building a Lecturer Portfolio Website with Quarto + GitHub Pages",
+    "section": "Typography",
+    "text": "Typography\nThe official Quarto personal-site workshop specifically points learners to font and contrast resources while teaching CSS/SCSS customization.\nResources:\n\nGoogle Fonts: https://fonts.google.com/\nBootstrap Icons: https://icons.getbootstrap.com/\nColour Contrast Checker: https://colourcontrast.cc/\n\nUse web fonts sparingly; two font families are usually enough."
+  },
+  {
+    "objectID": "docs/quarto-portfolio-master-guide.html#phase-1-functional-portfolio",
+    "href": "docs/quarto-portfolio-master-guide.html#phase-1-functional-portfolio",
+    "title": "Master Guide: Building a Lecturer Portfolio Website with Quarto + GitHub Pages",
+    "section": "Phase 1, Functional portfolio",
+    "text": "Phase 1, Functional portfolio\nComplete:\n\nrepository;\nhomepage;\nAbout;\nResearch;\nPublications;\nTeaching;\nProjects;\nContact;\nworking GitHub Pages deployment.\n\nDo not spend days perfecting CSS before this exists."
+  },
+  {
+    "objectID": "docs/quarto-portfolio-master-guide.html#phase-2-better-information-architecture",
+    "href": "docs/quarto-portfolio-master-guide.html#phase-2-better-information-architecture",
+    "title": "Master Guide: Building a Lecturer Portfolio Website with Quarto + GitHub Pages",
+    "section": "Phase 2, Better information architecture",
+    "text": "Phase 2, Better information architecture\nAdd:\n\npublication listings;\nproject listings;\ncourse structure;\nfull-text search;\nselected/featured content on homepage;\nCV download;\nORCID / Scholar / GitHub links."
+  },
+  {
+    "objectID": "docs/quarto-portfolio-master-guide.html#phase-3-visual-polish",
+    "href": "docs/quarto-portfolio-master-guide.html#phase-3-visual-polish",
+    "title": "Master Guide: Building a Lecturer Portfolio Website with Quarto + GitHub Pages",
+    "section": "Phase 3, Visual polish",
+    "text": "Phase 3, Visual polish\nAdd:\n\ncustom SCSS;\nstable color palette;\ntypography;\nhigh-quality headshot;\nthumbnails;\nfavicon;\nOpen Graph preview image;\nlight/dark mode;\n_brand.yml."
+  },
+  {
+    "objectID": "docs/quarto-portfolio-master-guide.html#phase-4-teaching-platform",
+    "href": "docs/quarto-portfolio-master-guide.html#phase-4-teaching-platform",
+    "title": "Master Guide: Building a Lecturer Portfolio Website with Quarto + GitHub Pages",
+    "section": "Phase 4, Teaching platform",
+    "text": "Phase 4, Teaching platform\nAdd course material progressively:\n\nmodule pages;\nexercises;\nJupyter/Python examples;\ndownloadable resources;\nreferences;\ncourse-specific sidebar;\nconvert large courses into Quarto Books when useful."
+  },
+  {
+    "objectID": "docs/quarto-portfolio-master-guide.html#phase-5-automation",
+    "href": "docs/quarto-portfolio-master-guide.html#phase-5-automation",
+    "title": "Master Guide: Building a Lecturer Portfolio Website with Quarto + GitHub Pages",
+    "section": "Phase 5, Automation",
+    "text": "Phase 5, Automation\nOnly after content is stable:\n\nGitHub Actions auto-publish;\npublication metadata automation if desired;\nanalytics;\ncustom domain;\ncontent update workflow."
+  },
+  {
+    "objectID": "docs/quarto-portfolio-master-guide.html#quarto-official",
+    "href": "docs/quarto-portfolio-master-guide.html#quarto-official",
+    "title": "Master Guide: Building a Lecturer Portfolio Website with Quarto + GitHub Pages",
+    "section": "Quarto official",
+    "text": "Quarto official\n\nMain website guide: https://quarto.org/docs/websites/\nGallery: https://quarto.org/docs/gallery/\nAbout pages: https://quarto.org/docs/websites/website-about.html\nNavigation/search: https://quarto.org/docs/websites/website-navigation.html\nListings: https://quarto.org/docs/websites/website-listings.html\nWebsite tools/social metadata/analytics: https://quarto.org/docs/websites/website-tools.html\nWebsite options: https://quarto.org/docs/reference/projects/websites.html\nHTML themes: https://quarto.org/docs/output-formats/html-themes.html\nCitations: https://quarto.org/docs/authoring/citations.html\nCiteable articles: https://quarto.org/docs/authoring/create-citeable-articles.html\nQuarto Books: https://quarto.org/docs/books/\nGitHub Pages publishing: https://quarto.org/docs/publishing/github-pages.html\nPersonal website video series: https://opensource.posit.co/blog/2024-12-04_websites-workshop/\nQuarto downloads: https://quarto.org/docs/download/"
+  },
+  {
+    "objectID": "docs/quarto-portfolio-master-guide.html#github-official",
+    "href": "docs/quarto-portfolio-master-guide.html#github-official",
+    "title": "Master Guide: Building a Lecturer Portfolio Website with Quarto + GitHub Pages",
+    "section": "GitHub official",
+    "text": "GitHub official\n\nWhat is GitHub Pages: https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages\nCreate a Pages site: https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site\nConfigure publishing source: https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site\nHTTPS: https://docs.github.com/en/pages/getting-started-with-github-pages/securing-your-github-pages-site-with-https\nCustom domains: https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site\nPages access control: https://docs.github.com/enterprise-cloud@latest/pages/getting-started-with-github-pages/changing-the-visibility-of-your-github-pages-site"
+  },
+  {
+    "objectID": "docs/quarto-portfolio-master-guide.html#live-examples",
+    "href": "docs/quarto-portfolio-master-guide.html#live-examples",
+    "title": "Master Guide: Building a Lecturer Portfolio Website with Quarto + GitHub Pages",
+    "section": "Live examples",
+    "text": "Live examples\n\nBeatriz Milz: https://beamilz.com/\nMike Mahoney: https://www.mm218.dev/\nHamel Husain: https://hamel.dev/\nAndrew Heiss teaching: https://www.andrewheiss.com/teaching/\nPython for Data Science: https://pythonds.linogaliana.fr/"
+  },
+  {
     "objectID": "teaching/pattern-recognition/index.html",
     "href": "teaching/pattern-recognition/index.html",
     "title": "Pattern Recognition",
     "section": "",
-    "text": "An introduction to recognizing patterns in data — with a strong emphasis on computer vision and machine-learning approaches used in real recognition systems."
+    "text": "An introduction to recognizing patterns in data, with a strong emphasis on computer vision and machine-learning approaches used in real recognition systems."
   },
   {
     "objectID": "teaching/pattern-recognition/index.html#topics",
     "href": "teaching/pattern-recognition/index.html#topics",
     "title": "Pattern Recognition",
     "section": "Topics",
-    "text": "Topics\n\nPattern Recognition Fundamentals — the recognition pipeline and feature extraction.\nFeature Engineering — descriptors, feature matching, and representation.\nClassical Classifiers — nearest neighbors, Bayes, and support vector machines.\nDeep Learning for Recognition — CNNs, transfer learning, and modern architectures.\nComputer Vision Applications — document analysis, object detection, and image classification.\nEvaluation — accuracy, precision/recall, and real-world constraints."
+    "text": "Topics\n\nPattern Recognition Fundamentals: the recognition pipeline and feature extraction.\nFeature Engineering: descriptors, feature matching, and representation.\nClassical Classifiers: nearest neighbors, Bayes, and support vector machines.\nDeep Learning for Recognition: CNNs, transfer learning, and modern architectures.\nComputer Vision Applications: document analysis, object detection, and image classification.\nEvaluation: accuracy, precision/recall, and real-world constraints."
   },
   {
     "objectID": "teaching/pattern-recognition/index.html#learning-outcomes",
@@ -795,14 +1152,14 @@
     "href": "teaching/artificial-intelligence/index.html",
     "title": "Artificial Intelligence",
     "section": "",
-    "text": "An introduction to the theory and practice of artificial intelligence, covering intelligent agents, search, knowledge representation, and machine learning — with emphasis on how AI systems are designed, built, and evaluated."
+    "text": "An introduction to the theory and practice of artificial intelligence, covering intelligent agents, search, knowledge representation, and machine learning, with emphasis on how AI systems are designed, built, and evaluated."
   },
   {
     "objectID": "teaching/artificial-intelligence/index.html#topics",
     "href": "teaching/artificial-intelligence/index.html#topics",
     "title": "Artificial Intelligence",
     "section": "Topics",
-    "text": "Topics\n\nIntelligent Agents — agent architectures, environments, and rationality.\nProblem Solving & Search — uninformed and informed search, heuristics, and constraint satisfaction.\nKnowledge Representation & Reasoning — logic, rules, and expert systems.\nUncertainty & Probabilistic Reasoning — Bayesian inference and decision making.\nMachine Learning Foundations — supervised and unsupervised learning, model evaluation.\nAI Applications — computer vision, NLP, and intelligent systems in practice."
+    "text": "Topics\n\nIntelligent Agents: agent architectures, environments, and rationality.\nProblem Solving & Search: uninformed and informed search, heuristics, and constraint satisfaction.\nKnowledge Representation & Reasoning: logic, rules, and expert systems.\nUncertainty & Probabilistic Reasoning: Bayesian inference and decision making.\nMachine Learning Foundations: supervised and unsupervised learning, model evaluation.\nAI Applications: computer vision, NLP, and intelligent systems in practice."
   },
   {
     "objectID": "teaching/artificial-intelligence/index.html#learning-outcomes",
@@ -858,14 +1215,14 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "I focus on AI that is grounded in real data from Jambi and Indonesia — images, sensors, and time series that matter to local decisions in health, agriculture, and public services."
+    "text": "I focus on AI that is grounded in real data from Jambi and Indonesia, images, sensors, and time series that matter to local decisions in health, agriculture, and public services."
   },
   {
     "objectID": "research.html#research-themes",
     "href": "research.html#research-themes",
     "title": "Research",
     "section": "Research Themes",
-    "text": "Research Themes\n\nPattern Recognition and Computer Vision\nFrom paper forms to satellite and microscope images, I build systems that learn to read visual data:\n\nElection forms: automatic vote tallying from scanned forms using feature matching + CNN (ICACSIS 2019, Scopus).\nRemote sensing: testing which CNN/ViT backbones transfer best for landscape scene classification.\nMalaria microscopy: comparing YOLO and CNN variants to detect Plasmodium species and stages.\nLand cover: improving Sentinel-2 classification for Jambi with Random Forest.\nFish counter: embedded vision to measure, count, and sort fish on device.\n\n\n\nPredictive Systems and Forecasting\nForecasts are only useful if they help plan. I work on:\n\nOil and gas export values with SARIMA and LSTM (SATESI, 2025).\nStock prices with LSTM (Media JISI, 2025).\nEducation trends 2021–2023 with KNN-based analysis.\n\n\n\nClustering and Segmentation\nFinding structure where labels are scarce:\n\nK-means for customer segmentation.\nHierarchical clustering of provinces by household gas use (JEKIN, 2025).\nAgglomerative clustering of fire hotspots in Bangka Belitung.\nVisual + temporal features behind Instagram engagement.\n\n\n\nIntelligent and Expert Systems\nSmall, user-specific systems — often co-built with students and community partners:\n\nPlant monitoring with IoT for SMK smart-farming classes.\nFinancial data tools for Pondok Pesantren Darul Arifin.\nGeneral computational system design for teaching labs."
+    "text": "Research Themes\n\nPattern Recognition and Computer Vision\nFrom paper forms to satellite and microscope images, I build systems that learn to read visual data:\n\nElection forms: automatic vote tallying from scanned forms using feature matching + CNN (ICACSIS 2019, Scopus).\nRemote sensing: testing which CNN/ViT backbones transfer best for landscape scene classification.\nMalaria microscopy: comparing YOLO and CNN variants to detect Plasmodium species and stages.\nLand cover: improving Sentinel-2 classification for Jambi with Random Forest.\nFish counter: embedded vision to measure, count, and sort fish on device.\n\n\n\nPredictive Systems and Forecasting\nForecasts are only useful if they help plan. I work on:\n\nOil and gas export values with SARIMA and LSTM (SATESI, 2025).\nStock prices with LSTM (Media JISI, 2025).\nEducation trends 2021-2023 with KNN-based analysis.\n\n\n\nClustering and Segmentation\nFinding structure where labels are scarce:\n\nK-means for customer segmentation.\nHierarchical clustering of provinces by household gas use (JEKIN, 2025).\nAgglomerative clustering of fire hotspots in Bangka Belitung.\nVisual + temporal features behind Instagram engagement.\n\n\n\nIntelligent and Expert Systems\nSmall, user-specific systems, often co-built with students and community partners:\n\nPlant monitoring with IoT for SMK smart-farming classes.\nFinancial data tools for Pondok Pesantren Darul Arifin.\nGeneral computational system design for teaching labs."
   },
   {
     "objectID": "research.html#selected-research-output",
@@ -907,7 +1264,7 @@
     "href": "publications/kmeans-customer-segmentation/index.html#links",
     "title": "Application of K-means Clustering Algorithm on Customer Segmentation for Effective Marketing Strategy",
     "section": "Links",
-    "text": "Links\n\nMedia Journal of Information System and Informatic 1(2), 16–25."
+    "text": "Links\n\nMedia Journal of Information System and Informatic 1(2), 16-25."
   },
   {
     "objectID": "publications/kmeans-customer-segmentation/index.html#keywords",
@@ -921,14 +1278,14 @@
     "href": "publications/transfer-learning-remote-sensing/index.html",
     "title": "Transfer Learning Architecture Selection for Remote Sensing Scene Classification",
     "section": "",
-    "text": "Scene classification is a core task in remote sensing. This paper systematically compares transfer-learning architectures — including convolutional neural networks and Vision Transformers — to identify which backbone performs best for classifying remote sensing scenes."
+    "text": "Scene classification is a core task in remote sensing. This paper systematically compares transfer-learning architectures, including convolutional neural networks and Vision Transformers, to identify which backbone performs best for classifying remote sensing scenes."
   },
   {
     "objectID": "publications/transfer-learning-remote-sensing/index.html#summary",
     "href": "publications/transfer-learning-remote-sensing/index.html#summary",
     "title": "Transfer Learning Architecture Selection for Remote Sensing Scene Classification",
     "section": "",
-    "text": "Scene classification is a core task in remote sensing. This paper systematically compares transfer-learning architectures — including convolutional neural networks and Vision Transformers — to identify which backbone performs best for classifying remote sensing scenes."
+    "text": "Scene classification is a core task in remote sensing. This paper systematically compares transfer-learning architectures, including convolutional neural networks and Vision Transformers, to identify which backbone performs best for classifying remote sensing scenes."
   },
   {
     "objectID": "publications/transfer-learning-remote-sensing/index.html#contribution",
@@ -998,7 +1355,7 @@
     "href": "publications/index.html#complete-publication-list",
     "title": "Publications",
     "section": "Complete Publication List",
-    "text": "Complete Publication List\n\n2026\n\nPemberdayaan Siswa SMK melalui Pelatihan IoT untuk Sistem Monitoring Tanaman dalam Mendukung Smart Farming. U. Khaira, E. Saputra, A. Waladi, Y. Perdana, N.R. Hanum, H. Iftitah, R. Ashar, et al. Jurnal Masyarakat Madani Indonesia 5(1), 434–445.\nParameter-Efficient Models for Malaria Detection and Classification Using Small-Scale Imbalanced Blood Smear Images. A. Waladi, H. Iftitah, N.R. Hanum, Y. Perdana, F. Wahyuni, R. Ashar. Kinetik: Game Technology, Information System, Computer Network, Computing, Electronics, and Control 11(2), 323–338. DOI: 10.22219/kinetik.v11i2.2558\nTransfer Learning Architecture Selection for Remote Sensing Scene Classification. A. Waladi, H. Iftitah. Jurnal Riset Informatika 8(3). DOI: 10.34288/jri.v8i3.515\nMulti-Architecture CNN Analysis for Automated Malaria Detection. A. Waladi, N.R. Hanum, Y. Perdana, H. Iftitah, F. Wahyuni, R. Ashar. PROCA 2(2). DOI: 10.22437/proca.v2i2.55514\nColor Complexity and Sharpness for Instagram Engagement. A. Waladi, J. Marzal, M. Razi A., M. Yudistira, H. Iftitah, H. Alghifari. PROCA 2(2). DOI: 10.22437/proca.v2i2.55582\nDesign and Development of a Multi-Blade Horizontal Axis Wind Turbine as an Alternative Energy Source in Talang Solok Regency. F.A. Faruqi, Y. Modika, A. Rabiula, D. Tessal, A. Waladi, L. Gusri, et al. Jurnal Edukasi Elektro 10(1). Article\n\n\n\n2025\n\nPengelompokan Provinsi di Indonesia Berdasarkan Rasio Penggunaan Gas Rumah Tangga pada Tahun 2023 Menggunakan Hierarchical Clustering. A.A. Nasution, P.E.P. Utomo, U. Khaira, A. Waladi. JEKIN – Jurnal Teknik Informatika 5(1), 212–221.\nImplementation of Machine Learning for Stock Price Prediction Using the LSTM Algorithm. N.R.H. Nindy, H. Iftitah, A. Waladi, Y. Perdana. Media Journal of Information System and Informatic 1(2).\nPrediksi Nilai Ekspor Migas Indonesia Menggunakan Metode SARIMA dan LSTM. H. Kuswanto, P.E.P. Utomo, U. Khaira, A. Waladi. SATESI: Jurnal Sains Teknologi dan Sistem Informasi 5(1), 69–79.\nSosialisasi Pemanfaatan Artificial Intelligence untuk Edukasi pada Siswa-Siswi MTs Negeri 3 Kota Jambi. N.R.H. Nindy, A. Waladi, H. Iftitah, Y. Perdana, R. Ashar. Jurnal Pengabdian Dosen Indonesia 2(1), 35–44.\nAnalisis Prediktif Tren Pendidikan di Indonesia Menggunakan KNN (Studi Kasus Data Pendidikan 2021–2023). M.B. Nasution, A. Waladi, U. Khaira, P.E.P. Utomo. Education Library 1(2), 62–73.\nApplication of K-means Clustering Algorithm on Customer Segmentation for Effective Marketing Strategy. A. Waladi, R. Rizaldi, M.A.H. Sutoyo. Media Journal of Information System and Informatic 1(2), 16–25.\nComparative Analysis of Triangulation Methods for Optimal Solutions to the Art Gallery Problem. J. Marzal, N. Rarasati, A. Waladi, Y. Perdana. PIKSEL: Penelitian Ilmu Komputer Sistem Embedded and Logic 13(1), 173–182.\nPelatihan Sistem Informasi Keuangan Pengelolaan Data Pengeluaran pada Pondok Pesantren Darul Arifin Jambi. A. Waladi, H. Iftitah, N.R. Hanum, Y. Perdana, R. Ashar. Jurnal Pengabdian Dosen Indonesia 2(2), 37–46.\nHotspot Clustering in Bangka Belitung Islands Province Using Agglomerative Hierarchical Clustering Algorithm. A. Setiawan, A. Waladi, R. Ashar. Media Journal of Information System and Informatic 1(2), 26–35.\nPeningkatan Akurasi Klasifikasi Tutupan Lahan Menggunakan Random Forest pada Data Sentinel-2 di Jambi. A. Waladi, et al. Jurnal Ilmu Komputer (Fasilkom UMRI). PDF\n\n\n\n2019\n\nAutomatic Counting Based on Scanned Election Form Using Feature Match and Convolutional Neural Network. A. Waladi, et al. 2019 International Conference on Advanced Computer Science and Information Systems (ICACSIS). (Scopus-indexed)"
+    "text": "Complete Publication List\n\n2026\n\nPemberdayaan Siswa SMK melalui Pelatihan IoT untuk Sistem Monitoring Tanaman dalam Mendukung Smart Farming. U. Khaira, E. Saputra, A. Waladi, Y. Perdana, N.R. Hanum, H. Iftitah, R. Ashar, et al. Jurnal Masyarakat Madani Indonesia 5(1), 434-445.\nParameter-Efficient Models for Malaria Detection and Classification Using Small-Scale Imbalanced Blood Smear Images. A. Waladi, H. Iftitah, N.R. Hanum, Y. Perdana, F. Wahyuni, R. Ashar. Kinetik: Game Technology, Information System, Computer Network, Computing, Electronics, and Control 11(2), 323-338. DOI: 10.22219/kinetik.v11i2.2558\nTransfer Learning Architecture Selection for Remote Sensing Scene Classification. A. Waladi, H. Iftitah. Jurnal Riset Informatika 8(3). DOI: 10.34288/jri.v8i3.515\nMulti-Architecture CNN Analysis for Automated Malaria Detection. A. Waladi, N.R. Hanum, Y. Perdana, H. Iftitah, F. Wahyuni, R. Ashar. PROCA 2(2). DOI: 10.22437/proca.v2i2.55514\nColor Complexity and Sharpness for Instagram Engagement. A. Waladi, J. Marzal, M. Razi A., M. Yudistira, H. Iftitah, H. Alghifari. PROCA 2(2). DOI: 10.22437/proca.v2i2.55582\nDesign and Development of a Multi-Blade Horizontal Axis Wind Turbine as an Alternative Energy Source in Talang Solok Regency. F.A. Faruqi, Y. Modika, A. Rabiula, D. Tessal, A. Waladi, L. Gusri, et al. Jurnal Edukasi Elektro 10(1). Article\n\n\n\n2025\n\nPengelompokan Provinsi di Indonesia Berdasarkan Rasio Penggunaan Gas Rumah Tangga pada Tahun 2023 Menggunakan Hierarchical Clustering. A.A. Nasution, P.E.P. Utomo, U. Khaira, A. Waladi. JEKIN, Jurnal Teknik Informatika 5(1), 212-221.\nImplementation of Machine Learning for Stock Price Prediction Using the LSTM Algorithm. N.R.H. Nindy, H. Iftitah, A. Waladi, Y. Perdana. Media Journal of Information System and Informatic 1(2).\nPrediksi Nilai Ekspor Migas Indonesia Menggunakan Metode SARIMA dan LSTM. H. Kuswanto, P.E.P. Utomo, U. Khaira, A. Waladi. SATESI: Jurnal Sains Teknologi dan Sistem Informasi 5(1), 69-79.\nSosialisasi Pemanfaatan Artificial Intelligence untuk Edukasi pada Siswa-Siswi MTs Negeri 3 Kota Jambi. N.R.H. Nindy, A. Waladi, H. Iftitah, Y. Perdana, R. Ashar. Jurnal Pengabdian Dosen Indonesia 2(1), 35-44.\nAnalisis Prediktif Tren Pendidikan di Indonesia Menggunakan KNN (Studi Kasus Data Pendidikan 2021-2023). M.B. Nasution, A. Waladi, U. Khaira, P.E.P. Utomo. Education Library 1(2), 62-73.\nApplication of K-means Clustering Algorithm on Customer Segmentation for Effective Marketing Strategy. A. Waladi, R. Rizaldi, M.A.H. Sutoyo. Media Journal of Information System and Informatic 1(2), 16-25.\nComparative Analysis of Triangulation Methods for Optimal Solutions to the Art Gallery Problem. J. Marzal, N. Rarasati, A. Waladi, Y. Perdana. PIKSEL: Penelitian Ilmu Komputer Sistem Embedded and Logic 13(1), 173-182.\nPelatihan Sistem Informasi Keuangan Pengelolaan Data Pengeluaran pada Pondok Pesantren Darul Arifin Jambi. A. Waladi, H. Iftitah, N.R. Hanum, Y. Perdana, R. Ashar. Jurnal Pengabdian Dosen Indonesia 2(2), 37-46.\nHotspot Clustering in Bangka Belitung Islands Province Using Agglomerative Hierarchical Clustering Algorithm. A. Setiawan, A. Waladi, R. Ashar. Media Journal of Information System and Informatic 1(2), 26-35.\nPeningkatan Akurasi Klasifikasi Tutupan Lahan Menggunakan Random Forest pada Data Sentinel-2 di Jambi. A. Waladi, et al. Jurnal Ilmu Komputer (Fasilkom UMRI). PDF\n\n\n\n2019\n\nAutomatic Counting Based on Scanned Election Form Using Feature Match and Convolutional Neural Network. A. Waladi, et al. 2019 International Conference on Advanced Computer Science and Information Systems (ICACSIS). (Scopus-indexed)"
   },
   {
     "objectID": "publications/wind-turbine-talang-solok/index.html",

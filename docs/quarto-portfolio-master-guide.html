@@ -1,0 +1,2160 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.10.18">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>quarto-portfolio-master-guide – Akhiyar Waladi</title>
+<style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="../images/favicon.png" rel="icon" type="image/png">
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-9b13294eb98a7ccc9837366643235be5.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-ad7a70ee837950f74c3137b2b7f1bb4b.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-9b13294eb98a7ccc9837366643235be5.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-8e057d492a2c642254257e3b80a60510.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark-eaea4e798b5ac172cb3272a08401ea0e.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../site_libs/bootstrap/bootstrap-8e057d492a2c642254257e3b80a60510.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="../styles.css">
+<meta property="og:title" content="Akhiyar Waladi">
+<meta property="og:description" content="Lecturer and researcher in Artificial Intelligence, Machine Learning, and Pattern Recognition at Universitas Jambi.">
+<meta property="og:image" content="https://akhiyarwaladi.github.io/docs/images/og-image.png">
+<meta property="og:site_name" content="Akhiyar Waladi">
+<meta name="twitter:title" content="Akhiyar Waladi">
+<meta name="twitter:description" content="Lecturer and researcher in Artificial Intelligence, Machine Learning, and Pattern Recognition at Universitas Jambi.">
+<meta name="twitter:image" content="https://akhiyarwaladi.github.io/docs/images/og-image.png">
+<meta name="twitter:card" content="summary_large_image">
+</head>
+
+<body class="nav-fixed quarto-light"><script id="quarto-html-before-body" type="application/javascript">
+    const toggleBodyColorMode = (bsSheetEl) => {
+      const mode = bsSheetEl.getAttribute("data-mode");
+      const bodyEl = window.document.querySelector("body");
+      if (mode === "dark") {
+        bodyEl.classList.add("quarto-dark");
+        bodyEl.classList.remove("quarto-light");
+      } else {
+        bodyEl.classList.add("quarto-light");
+        bodyEl.classList.remove("quarto-dark");
+      }
+    }
+    const toggleBodyColorPrimary = () => {
+      const bsSheetEl = window.document.querySelector("link#quarto-bootstrap:not([rel=disabled-stylesheet])");
+      if (bsSheetEl) {
+        toggleBodyColorMode(bsSheetEl);
+      }
+    }
+    const setColorSchemeToggle = (alternate) => {
+      const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+      for (let i=0; i < toggles.length; i++) {
+        const toggle = toggles[i];
+        if (toggle) {
+          if (alternate) {
+            toggle.classList.add("alternate");
+          } else {
+            toggle.classList.remove("alternate");
+          }
+        }
+      }
+    };
+    const toggleColorMode = (alternate) => {
+      // Switch the stylesheets
+      const primaryStylesheets = window.document.querySelectorAll('link.quarto-color-scheme:not(.quarto-color-alternate)');
+      const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+      manageTransitions('#quarto-margin-sidebar .nav-link', false);
+      if (alternate) {
+        // note: dark is layered on light, we don't disable primary!
+        enableStylesheet(alternateStylesheets);
+        for (const sheetNode of alternateStylesheets) {
+          if (sheetNode.id === "quarto-bootstrap") {
+            toggleBodyColorMode(sheetNode);
+          }
+        }
+      } else {
+        disableStylesheet(alternateStylesheets);
+        enableStylesheet(primaryStylesheets)
+        toggleBodyColorPrimary();
+      }
+      manageTransitions('#quarto-margin-sidebar .nav-link', true);
+      // Switch the toggles
+      setColorSchemeToggle(alternate)
+      // Hack to workaround the fact that safari doesn't
+      // properly recolor the scrollbar when toggling (#1455)
+      if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+        manageTransitions("body", false);
+        window.scrollTo(0, 1);
+        setTimeout(() => {
+          window.scrollTo(0, 0);
+          manageTransitions("body", true);
+        }, 40);
+      }
+    }
+    const disableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        stylesheet.rel = 'disabled-stylesheet';
+      }
+    }
+    const enableStylesheet = (stylesheets) => {
+      for (let i=0; i < stylesheets.length; i++) {
+        const stylesheet = stylesheets[i];
+        if(stylesheet.rel !== 'stylesheet') { // for Chrome, which will still FOUC without this check
+          stylesheet.rel = 'stylesheet';
+        }
+      }
+    }
+    const manageTransitions = (selector, allowTransitions) => {
+      const els = window.document.querySelectorAll(selector);
+      for (let i=0; i < els.length; i++) {
+        const el = els[i];
+        if (allowTransitions) {
+          el.classList.remove('notransition');
+        } else {
+          el.classList.add('notransition');
+        }
+      }
+    }
+    const isFileUrl = () => {
+      return window.location.protocol === 'file:';
+    }
+    const hasAlternateSentinel = () => {
+      let styleSentinel = getColorSchemeSentinel();
+      if (styleSentinel !== null) {
+        return styleSentinel === "alternate";
+      } else {
+        return false;
+      }
+    }
+    const setStyleSentinel = (alternate) => {
+      const value = alternate ? "alternate" : "default";
+      if (!isFileUrl()) {
+        window.localStorage.setItem("quarto-color-scheme", value);
+      } else {
+        localAlternateSentinel = value;
+      }
+    }
+    const getColorSchemeSentinel = () => {
+      if (!isFileUrl()) {
+        const storageValue = window.localStorage.getItem("quarto-color-scheme");
+        return storageValue != null ? storageValue : localAlternateSentinel;
+      } else {
+        return localAlternateSentinel;
+      }
+    }
+    const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+      const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+      const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+      let newTheme = '';
+      if(authorPrefersDark) {
+        newTheme = isAlternate ? baseTheme : alternateTheme;
+      } else {
+        newTheme = isAlternate ? alternateTheme : baseTheme;
+      }
+      const changeGiscusTheme = () => {
+        // From: https://github.com/giscus/giscus/issues/336
+        const sendMessage = (message) => {
+          const iframe = document.querySelector('iframe.giscus-frame');
+          if (!iframe) return;
+          iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+        }
+        sendMessage({
+          setConfig: {
+            theme: newTheme
+          }
+        });
+      }
+      const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+      if (isGiscussLoaded) {
+        changeGiscusTheme();
+      }
+    };
+    const authorPrefersDark = false;
+    const darkModeDefault = authorPrefersDark;
+      document.querySelector('link#quarto-text-highlighting-styles.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+      document.querySelector('link#quarto-bootstrap.quarto-color-scheme-extra').rel = 'disabled-stylesheet';
+    let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
+    // Dark / light mode switch
+    window.quartoToggleColorScheme = () => {
+      // Read the current dark / light value
+      let toAlternate = !hasAlternateSentinel();
+      toggleColorMode(toAlternate);
+      setStyleSentinel(toAlternate);
+      toggleGiscusIfUsed(toAlternate, darkModeDefault);
+      window.dispatchEvent(new Event('resize'));
+    };
+    // Switch to dark mode if need be
+    if (hasAlternateSentinel()) {
+      toggleColorMode(true);
+    } else {
+      toggleColorMode(false);
+    }
+  </script>
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="../index.html">
+    <span class="navbar-title">Akhiyar Waladi</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../about.html"> 
+<span class="menu-text">About</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../research.html"> 
+<span class="menu-text">Research</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../publications/index.html"> 
+<span class="menu-text">Publications</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../teaching/index.html"> 
+<span class="menu-text">Teaching</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../projects/index.html"> 
+<span class="menu-text">Projects</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../contact.html"> 
+<span class="menu-text">Contact</span></a>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/akhiyarwaladi"> <i class="bi bi-github" role="img" aria-label="GitHub">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://id.linkedin.com/in/akhiyar-waladi"> <i class="bi bi-linkedin" role="img" aria-label="LinkedIn">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://scholar.google.com/citations?user=OaPOYtEAAAAJ&amp;hl=id"> <i class="bi bi-google" role="img" aria-label="Google Scholar">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#master-guide-building-a-lecturer-portfolio-website-with-quarto-github-pages" id="toc-master-guide-building-a-lecturer-portfolio-website-with-quarto-github-pages" class="nav-link active" data-scroll-target="#master-guide-building-a-lecturer-portfolio-website-with-quarto-github-pages">Master Guide: Building a Lecturer Portfolio Website with Quarto + GitHub Pages</a>
+  <ul class="collapse">
+  <li><a href="#recommended-architecture" id="toc-recommended-architecture" class="nav-link" data-scroll-target="#recommended-architecture">1. Recommended architecture</a>
+  <ul class="collapse">
+  <li><a href="#recommended-content-model" id="toc-recommended-content-model" class="nav-link" data-scroll-target="#recommended-content-model">Recommended content model</a></li>
+  </ul></li>
+  </ul></li>
+  <li><a href="#important-github-pages-visibility-rule" id="toc-important-github-pages-visibility-rule" class="nav-link" data-scroll-target="#important-github-pages-visibility-rule">2. Important GitHub Pages visibility rule</a>
+  <ul class="collapse">
+  <li><a href="#can-the-repository-be-private" id="toc-can-the-repository-be-private" class="nav-link" data-scroll-target="#can-the-repository-be-private">Can the repository be private?</a>
+  <ul class="collapse">
+  <li><a href="#important-distinction-private-repository-is-not-the-same-as-private-website" id="toc-important-distinction-private-repository-is-not-the-same-as-private-website" class="nav-link" data-scroll-target="#important-distinction-private-repository-is-not-the-same-as-private-website">Important distinction: private repository is not the same as private website</a></li>
+  <li><a href="#recommendation-for-this-portfolio" id="toc-recommendation-for-this-portfolio" class="nav-link" data-scroll-target="#recommendation-for-this-portfolio">Recommendation for this portfolio</a></li>
+  </ul></li>
+  </ul></li>
+  <li><a href="#repository-naming-use-a-dedicated-repository" id="toc-repository-naming-use-a-dedicated-repository" class="nav-link" data-scroll-target="#repository-naming-use-a-dedicated-repository">3. Repository naming: use a dedicated repository</a></li>
+  <li><a href="#live-quarto-websites-worth-studying" id="toc-live-quarto-websites-worth-studying" class="nav-link" data-scroll-target="#live-quarto-websites-worth-studying">4. Live Quarto websites worth studying</a>
+  <ul class="collapse">
+  <li><a href="#beatriz-milz" id="toc-beatriz-milz" class="nav-link" data-scroll-target="#beatriz-milz">4.1 Beatriz Milz</a></li>
+  <li><a href="#mike-mahoney" id="toc-mike-mahoney" class="nav-link" data-scroll-target="#mike-mahoney">4.2 Mike Mahoney</a></li>
+  <li><a href="#hamel-husain" id="toc-hamel-husain" class="nav-link" data-scroll-target="#hamel-husain">4.3 Hamel Husain</a></li>
+  <li><a href="#andrew-heiss-teaching-page" id="toc-andrew-heiss-teaching-page" class="nav-link" data-scroll-target="#andrew-heiss-teaching-page">4.4 Andrew Heiss, Teaching page</a></li>
+  <li><a href="#python-for-data-science" id="toc-python-for-data-science" class="nav-link" data-scroll-target="#python-for-data-science">4.5 Python for Data Science</a></li>
+  <li><a href="#official-quarto-gallery" id="toc-official-quarto-gallery" class="nav-link" data-scroll-target="#official-quarto-gallery">4.6 Official Quarto Gallery</a></li>
+  </ul></li>
+  <li><a href="#high-quality-resources-to-learn-quarto-website-design" id="toc-high-quality-resources-to-learn-quarto-website-design" class="nav-link" data-scroll-target="#high-quality-resources-to-learn-quarto-website-design">5. High-quality resources to learn Quarto website design</a>
+  <ul class="collapse">
+  <li><a href="#official-quarto-website-documentation" id="toc-official-quarto-website-documentation" class="nav-link" data-scroll-target="#official-quarto-website-documentation">Official Quarto website documentation</a></li>
+  <li><a href="#official-four-part-quarto-personal-website-workshop" id="toc-official-four-part-quarto-personal-website-workshop" class="nav-link" data-scroll-target="#official-four-part-quarto-personal-website-workshop">Official four-part Quarto personal website workshop</a></li>
+  <li><a href="#about-page-templates" id="toc-about-page-templates" class="nav-link" data-scroll-target="#about-page-templates">About-page templates</a></li>
+  <li><a href="#document-listings" id="toc-document-listings" class="nav-link" data-scroll-target="#document-listings">Document listings</a></li>
+  <li><a href="#navigation-and-search" id="toc-navigation-and-search" class="nav-link" data-scroll-target="#navigation-and-search">Navigation and search</a></li>
+  <li><a href="#html-themes-and-custom-theming" id="toc-html-themes-and-custom-theming" class="nav-link" data-scroll-target="#html-themes-and-custom-theming">HTML themes and custom theming</a></li>
+  <li><a href="#website-tools-social-preview-favicon-analytics-dark-mode" id="toc-website-tools-social-preview-favicon-analytics-dark-mode" class="nav-link" data-scroll-target="#website-tools-social-preview-favicon-analytics-dark-mode">Website tools: social preview, favicon, analytics, dark mode</a></li>
+  <li><a href="#brand-system" id="toc-brand-system" class="nav-link" data-scroll-target="#brand-system">Brand system</a></li>
+  <li><a href="#citations-and-bibliography" id="toc-citations-and-bibliography" class="nav-link" data-scroll-target="#citations-and-bibliography">Citations and bibliography</a></li>
+  <li><a href="#citeable-web-articles" id="toc-citeable-web-articles" class="nav-link" data-scroll-target="#citeable-web-articles">Citeable web articles</a></li>
+  <li><a href="#github-pages-publishing" id="toc-github-pages-publishing" class="nav-link" data-scroll-target="#github-pages-publishing">GitHub Pages publishing</a></li>
+  </ul></li>
+  <li><a href="#content-preparation-before-coding" id="toc-content-preparation-before-coding" class="nav-link" data-scroll-target="#content-preparation-before-coding">6. Content preparation before coding</a>
+  <ul class="collapse">
+  <li><a href="#identity-assets" id="toc-identity-assets" class="nav-link" data-scroll-target="#identity-assets">Identity assets</a></li>
+  <li><a href="#research-content" id="toc-research-content" class="nav-link" data-scroll-target="#research-content">Research content</a></li>
+  <li><a href="#publications" id="toc-publications" class="nav-link" data-scroll-target="#publications">Publications</a></li>
+  <li><a href="#teaching" id="toc-teaching" class="nav-link" data-scroll-target="#teaching">Teaching</a></li>
+  </ul></li>
+  <li><a href="#install-the-tools" id="toc-install-the-tools" class="nav-link" data-scroll-target="#install-the-tools">7. Install the tools</a>
+  <ul class="collapse">
+  <li><a href="#install-quarto" id="toc-install-quarto" class="nav-link" data-scroll-target="#install-quarto">7.1 Install Quarto</a></li>
+  <li><a href="#recommended-editor" id="toc-recommended-editor" class="nav-link" data-scroll-target="#recommended-editor">7.2 Recommended editor</a></li>
+  </ul></li>
+  <li><a href="#create-the-github-repository" id="toc-create-the-github-repository" class="nav-link" data-scroll-target="#create-the-github-repository">8. Create the GitHub repository</a></li>
+  <li><a href="#create-the-local-quarto-website-and-connect-it-to-github" id="toc-create-the-local-quarto-website-and-connect-it-to-github" class="nav-link" data-scroll-target="#create-the-local-quarto-website-and-connect-it-to-github">9. Create the local Quarto website and connect it to GitHub</a></li>
+  <li><a href="#recommended-project-structure" id="toc-recommended-project-structure" class="nav-link" data-scroll-target="#recommended-project-structure">10. Recommended project structure</a></li>
+  <li><a href="#starter-_quarto.yml" id="toc-starter-_quarto.yml" class="nav-link" data-scroll-target="#starter-_quarto.yml">11. Starter <code>_quarto.yml</code></a>
+  <ul class="collapse">
+  <li><a href="#notes" id="toc-notes" class="nav-link" data-scroll-target="#notes">Notes</a></li>
+  </ul></li>
+  <li><a href="#design-the-homepage-as-an-academic-landing-page-not-a-cv-dump" id="toc-design-the-homepage-as-an-academic-landing-page-not-a-cv-dump" class="nav-link" data-scroll-target="#design-the-homepage-as-an-academic-landing-page-not-a-cv-dump">12. Design the homepage as an academic landing page, not a CV dump</a>
+  <ul class="collapse">
+  <li><a href="#avoid-on-the-homepage" id="toc-avoid-on-the-homepage" class="nav-link" data-scroll-target="#avoid-on-the-homepage">Avoid on the homepage</a></li>
+  </ul></li>
+  <li><a href="#create-the-about-page" id="toc-create-the-about-page" class="nav-link" data-scroll-target="#create-the-about-page">13. Create the About page</a></li>
+  <li><a href="#build-publications-with-quarto-listings" id="toc-build-publications-with-quarto-listings" class="nav-link" data-scroll-target="#build-publications-with-quarto-listings">14. Build Publications with Quarto listings</a>
+  <ul class="collapse">
+  <li><a href="#publication-quality-rule" id="toc-publication-quality-rule" class="nav-link" data-scroll-target="#publication-quality-rule">Publication quality rule</a></li>
+  </ul></li>
+  <li><a href="#use-bibtex-when-useful" id="toc-use-bibtex-when-useful" class="nav-link" data-scroll-target="#use-bibtex-when-useful">15. Use BibTeX when useful</a></li>
+  <li><a href="#build-the-teaching-section-in-two-levels" id="toc-build-the-teaching-section-in-two-levels" class="nav-link" data-scroll-target="#build-the-teaching-section-in-two-levels">16. Build the Teaching section in two levels</a>
+  <ul class="collapse">
+  <li><a href="#level-a-courses" id="toc-level-a-courses" class="nav-link" data-scroll-target="#level-a-courses">Level A, Courses</a></li>
+  <li><a href="#level-b-learning-materialsmodules" id="toc-level-b-learning-materialsmodules" class="nav-link" data-scroll-target="#level-b-learning-materialsmodules">Level B, Learning materials/modules</a></li>
+  </ul></li>
+  <li><a href="#create-a-projects-page" id="toc-create-a-projects-page" class="nav-link" data-scroll-target="#create-a-projects-page">17. Create a Projects page</a></li>
+  <li><a href="#add-professional-visual-quality" id="toc-add-professional-visual-quality" class="nav-link" data-scroll-target="#add-professional-visual-quality">18. Add professional visual quality</a>
+  <ul class="collapse">
+  <li><a href="#use-one-visual-identity" id="toc-use-one-visual-identity" class="nav-link" data-scroll-target="#use-one-visual-identity">Use one visual identity</a></li>
+  <li><a href="#use-_brand.yml-later" id="toc-use-_brand.yml-later" class="nav-link" data-scroll-target="#use-_brand.yml-later">Use <code>_brand.yml</code> later</a></li>
+  <li><a href="#light-and-dark-mode" id="toc-light-and-dark-mode" class="nav-link" data-scroll-target="#light-and-dark-mode">Light and dark mode</a></li>
+  <li><a href="#typography" id="toc-typography" class="nav-link" data-scroll-target="#typography">Typography</a></li>
+  </ul></li>
+  <li><a href="#improve-accessibility" id="toc-improve-accessibility" class="nav-link" data-scroll-target="#improve-accessibility">19. Improve accessibility</a></li>
+  <li><a href="#add-social-metadata-and-preview-images" id="toc-add-social-metadata-and-preview-images" class="nav-link" data-scroll-target="#add-social-metadata-and-preview-images">20. Add social metadata and preview images</a></li>
+  <li><a href="#add-site-search-early" id="toc-add-site-search-early" class="nav-link" data-scroll-target="#add-site-search-early">21. Add site search early</a></li>
+  <li><a href="#analytics-optional-not-required-for-launch" id="toc-analytics-optional-not-required-for-launch" class="nav-link" data-scroll-target="#analytics-optional-not-required-for-launch">22. Analytics: optional, not required for launch</a></li>
+  <li><a href="#create-.gitignore" id="toc-create-.gitignore" class="nav-link" data-scroll-target="#create-.gitignore">23. Create <code>.gitignore</code></a></li>
+  <li><a href="#test-locally-before-every-important-publish" id="toc-test-locally-before-every-important-publish" class="nav-link" data-scroll-target="#test-locally-before-every-important-publish">24. Test locally before every important publish</a></li>
+  <li><a href="#make-the-first-git-commit" id="toc-make-the-first-git-commit" class="nav-link" data-scroll-target="#make-the-first-git-commit">25. Make the first Git commit</a></li>
+  <li><a href="#first-deployment-to-github-pages-recommended-simple-method" id="toc-first-deployment-to-github-pages-recommended-simple-method" class="nav-link" data-scroll-target="#first-deployment-to-github-pages-recommended-simple-method">26. First deployment to GitHub Pages, recommended simple method</a></li>
+  <li><a href="#special-step-for-username.github.io-repositories" id="toc-special-step-for-username.github.io-repositories" class="nav-link" data-scroll-target="#special-step-for-username.github.io-repositories">27. Special step for <code>&lt;username&gt;.github.io</code> repositories</a></li>
+  <li><a href="#normal-update-workflow-after-the-first-deployment" id="toc-normal-update-workflow-after-the-first-deployment" class="nav-link" data-scroll-target="#normal-update-workflow-after-the-first-deployment">28. Normal update workflow after the first deployment</a></li>
+  <li><a href="#optional-automatic-deployment-with-github-actions" id="toc-optional-automatic-deployment-with-github-actions" class="nav-link" data-scroll-target="#optional-automatic-deployment-with-github-actions">29. Optional: automatic deployment with GitHub Actions</a>
+  <ul class="collapse">
+  <li><a href="#executable-pythonr-code" id="toc-executable-pythonr-code" class="nav-link" data-scroll-target="#executable-pythonr-code">Executable Python/R code</a></li>
+  </ul></li>
+  <li><a href="#add-https" id="toc-add-https" class="nav-link" data-scroll-target="#add-https">30. Add HTTPS</a></li>
+  <li><a href="#custom-domain-optional-later" id="toc-custom-domain-optional-later" class="nav-link" data-scroll-target="#custom-domain-optional-later">31. Custom domain, optional later</a></li>
+  <li><a href="#quality-roadmap-build-in-phases" id="toc-quality-roadmap-build-in-phases" class="nav-link" data-scroll-target="#quality-roadmap-build-in-phases">32. Quality roadmap: build in phases</a>
+  <ul class="collapse">
+  <li><a href="#phase-1-functional-portfolio" id="toc-phase-1-functional-portfolio" class="nav-link" data-scroll-target="#phase-1-functional-portfolio">Phase 1, Functional portfolio</a></li>
+  <li><a href="#phase-2-better-information-architecture" id="toc-phase-2-better-information-architecture" class="nav-link" data-scroll-target="#phase-2-better-information-architecture">Phase 2, Better information architecture</a></li>
+  <li><a href="#phase-3-visual-polish" id="toc-phase-3-visual-polish" class="nav-link" data-scroll-target="#phase-3-visual-polish">Phase 3, Visual polish</a></li>
+  <li><a href="#phase-4-teaching-platform" id="toc-phase-4-teaching-platform" class="nav-link" data-scroll-target="#phase-4-teaching-platform">Phase 4, Teaching platform</a></li>
+  <li><a href="#phase-5-automation" id="toc-phase-5-automation" class="nav-link" data-scroll-target="#phase-5-automation">Phase 5, Automation</a></li>
+  </ul></li>
+  <li><a href="#suggested-content-update-routine" id="toc-suggested-content-update-routine" class="nav-link" data-scroll-target="#suggested-content-update-routine">33. Suggested content update routine</a>
+  <ul class="collapse">
+  <li><a href="#new-publication" id="toc-new-publication" class="nav-link" data-scroll-target="#new-publication">New publication</a></li>
+  <li><a href="#new-coursemodule" id="toc-new-coursemodule" class="nav-link" data-scroll-target="#new-coursemodule">New course/module</a></li>
+  <li><a href="#new-project" id="toc-new-project" class="nav-link" data-scroll-target="#new-project">New project</a></li>
+  </ul></li>
+  <li><a href="#recommended-design-principles-for-this-specific-academic-portfolio" id="toc-recommended-design-principles-for-this-specific-academic-portfolio" class="nav-link" data-scroll-target="#recommended-design-principles-for-this-specific-academic-portfolio">34. Recommended design principles for this specific academic portfolio</a></li>
+  <li><a href="#what-should-not-be-in-the-repository" id="toc-what-should-not-be-in-the-repository" class="nav-link" data-scroll-target="#what-should-not-be-in-the-repository">35. What should NOT be in the repository</a></li>
+  <li><a href="#recommended-first-week-build-order" id="toc-recommended-first-week-build-order" class="nav-link" data-scroll-target="#recommended-first-week-build-order">36. Recommended first-week build order</a></li>
+  <li><a href="#minimal-launch-criteria" id="toc-minimal-launch-criteria" class="nav-link" data-scroll-target="#minimal-launch-criteria">37. Minimal launch criteria</a></li>
+  <li><a href="#sourcereference-list" id="toc-sourcereference-list" class="nav-link" data-scroll-target="#sourcereference-list">38. Source/reference list</a>
+  <ul class="collapse">
+  <li><a href="#quarto-official" id="toc-quarto-official" class="nav-link" data-scroll-target="#quarto-official">Quarto official</a></li>
+  <li><a href="#github-official" id="toc-github-official" class="nav-link" data-scroll-target="#github-official">GitHub official</a></li>
+  <li><a href="#live-examples" id="toc-live-examples" class="nav-link" data-scroll-target="#live-examples">Live examples</a></li>
+  </ul></li>
+  <li><a href="#final-recommendation" id="toc-final-recommendation" class="nav-link" data-scroll-target="#final-recommendation">39. Final recommendation</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+
+
+
+
+
+<section id="master-guide-building-a-lecturer-portfolio-website-with-quarto-github-pages" class="level1">
+<h1>Master Guide: Building a Lecturer Portfolio Website with Quarto + GitHub Pages</h1>
+<p><strong>Last checked:</strong> 19 August 2026<br>
+<strong>Goal:</strong> Build a professional academic portfolio for a lecturer/researcher containing biodata, research, publications, teaching, learning materials/modules, projects, activities, and contact information, then deploy it with GitHub Pages.</p>
+<hr>
+<section id="recommended-architecture" class="level2">
+<h2 class="anchored" data-anchor-id="recommended-architecture">1. Recommended architecture</h2>
+<p>For the first version, keep the architecture simple:</p>
+<pre class="text"><code>Quarto source files (.qmd, .yml, .scss/.css)
+                 |
+                 | git push
+                 v
+          GitHub repository
+      &lt;username&gt;.github.io
+                 |
+                 | quarto publish gh-pages
+                 v
+           gh-pages branch
+                 |
+                 v
+            GitHub Pages
+                 |
+                 v
+https://&lt;username&gt;.github.io</code></pre>
+<p>This is enough for a complete academic website. A database, VPS, WordPress installation, or backend server is not required for the normal portfolio.</p>
+<section id="recommended-content-model" class="level3">
+<h3 class="anchored" data-anchor-id="recommended-content-model">Recommended content model</h3>
+<pre class="text"><code>Home
+├── About
+├── Research
+├── Publications
+├── Teaching
+│   ├── Courses
+│   └── Learning Materials / Modules
+├── Projects
+├── Students / Supervision
+├── Activities / Talks
+├── Notes / Blog           (optional)
+└── Contact</code></pre>
+<p>For the first release, prioritize <strong>Home, About, Research, Publications, Teaching, Projects, and Contact</strong>. Add the others after the core site is stable.</p>
+<hr>
+</section>
+</section>
+</section>
+<section id="important-github-pages-visibility-rule" class="level1">
+<h1>2. Important GitHub Pages visibility rule</h1>
+<section id="can-the-repository-be-private" class="level2">
+<h2 class="anchored" data-anchor-id="can-the-repository-be-private">Can the repository be private?</h2>
+<p>Yes, but it depends on your GitHub plan.</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>GitHub plan</th>
+<th style="text-align: right;">Public repository + Pages</th>
+<th style="text-align: right;">Private repository + Pages</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>GitHub Free (personal)</td>
+<td style="text-align: right;">Yes</td>
+<td style="text-align: right;"><strong>No</strong></td>
+</tr>
+<tr class="even">
+<td>GitHub Free (organization)</td>
+<td style="text-align: right;">Yes</td>
+<td style="text-align: right;"><strong>No</strong></td>
+</tr>
+<tr class="odd">
+<td>GitHub Pro</td>
+<td style="text-align: right;">Yes</td>
+<td style="text-align: right;">Yes</td>
+</tr>
+<tr class="even">
+<td>GitHub Team</td>
+<td style="text-align: right;">Yes</td>
+<td style="text-align: right;">Yes</td>
+</tr>
+<tr class="odd">
+<td>GitHub Enterprise Cloud</td>
+<td style="text-align: right;">Yes</td>
+<td style="text-align: right;">Yes</td>
+</tr>
+</tbody>
+</table>
+<p>GitHub’s current documentation states that GitHub Pages is available from <strong>public repositories on GitHub Free</strong>, while public and private repositories are supported on GitHub Pro, Team, and Enterprise plans.</p>
+<p>Official source:<br>
+https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages</p>
+<section id="important-distinction-private-repository-is-not-the-same-as-private-website" class="level3">
+<h3 class="anchored" data-anchor-id="important-distinction-private-repository-is-not-the-same-as-private-website">Important distinction: private repository is not the same as private website</h3>
+<p>Even when the source repository is private, a normal GitHub Pages site is <strong>public on the internet by default</strong>. A truly privately published Pages site with access control requires an organization using GitHub Enterprise Cloud.</p>
+<p>Official sources:</p>
+<ul>
+<li>https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site</li>
+<li>https://docs.github.com/enterprise-cloud@latest/pages/getting-started-with-github-pages/changing-the-visibility-of-your-github-pages-site</li>
+</ul>
+</section>
+<section id="recommendation-for-this-portfolio" class="level3">
+<h3 class="anchored" data-anchor-id="recommendation-for-this-portfolio">Recommendation for this portfolio</h3>
+<p>Use a <strong>public repository on GitHub Free</strong>.</p>
+<p>That gives you:</p>
+<ul>
+<li>free GitHub Pages hosting;</li>
+<li>free GitHub Actions for a public repository;</li>
+<li>an easy-to-inspect source history;</li>
+<li>no server administration;</li>
+<li>a natural place to keep the portfolio under version control.</li>
+</ul>
+<p>A public academic website should contain only material that is already intended to be public. <strong>Never commit passwords, API keys, unpublished confidential material, student private data, internal documents, or sensitive files.</strong></p>
+<p>If someday you specifically want the website source hidden while the website remains public, GitHub Pro can host Pages from a private source repository.</p>
+<hr>
+</section>
+</section>
+</section>
+<section id="repository-naming-use-a-dedicated-repository" class="level1">
+<h1>3. Repository naming: use a dedicated repository</h1>
+<p>For a personal root GitHub Pages site, create a repository named exactly:</p>
+<pre class="text"><code>&lt;github-username&gt;.github.io</code></pre>
+<p>Example:</p>
+<pre class="text"><code>akhiyarwaladi.github.io</code></pre>
+<p>The resulting default address is:</p>
+<pre class="text"><code>https://akhiyarwaladi.github.io</code></pre>
+<p>GitHub distinguishes between:</p>
+<ul>
+<li><strong>User site</strong>: <code>&lt;username&gt;.github.io</code> -&gt; <code>https://&lt;username&gt;.github.io</code></li>
+<li><strong>Project site</strong>: another repository name -&gt; <code>https://&lt;username&gt;.github.io/&lt;repository-name&gt;/</code></li>
+</ul>
+<p>Official source:<br>
+https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages</p>
+<p>For a permanent lecturer portfolio, the root user site is cleaner.</p>
+<hr>
+</section>
+<section id="live-quarto-websites-worth-studying" class="level1">
+<h1>4. Live Quarto websites worth studying</h1>
+<p>Do not copy one site exactly. Instead, borrow the strongest design/content idea from several examples.</p>
+<section id="beatriz-milz" class="level2">
+<h2 class="anchored" data-anchor-id="beatriz-milz">4.1 Beatriz Milz</h2>
+<p><strong>Live site:</strong> https://beamilz.com/</p>
+<p>Why it is useful:</p>
+<ul>
+<li>academic/personal identity is immediately clear;</li>
+<li>research, projects, talks, videos, and blog are easy to find;</li>
+<li>multilingual organization demonstrates that a personal site can grow without becoming confusing;</li>
+<li>clearly built with Quarto.</li>
+</ul>
+<p>Borrow this idea: <strong>simple landing page + clear content categories + approachable academic identity</strong>.</p>
+<p>Official Quarto Gallery entry:<br>
+https://quarto.org/docs/gallery/</p>
+<hr>
+</section>
+<section id="mike-mahoney" class="level2">
+<h2 class="anchored" data-anchor-id="mike-mahoney">4.2 Mike Mahoney</h2>
+<p><strong>Live site:</strong> https://www.mm218.dev/</p>
+<p>Why it is useful:</p>
+<ul>
+<li>concise biography;</li>
+<li>selected projects visible immediately;</li>
+<li>publications, presentations, CV, blog, GitHub, and professional links are close to the homepage;</li>
+<li>information hierarchy is strong even without excessive visual effects.</li>
+</ul>
+<p>Borrow this idea: <strong>homepage should surface selected work rather than act only as a table of contents</strong>.</p>
+<hr>
+</section>
+<section id="hamel-husain" class="level2">
+<h2 class="anchored" data-anchor-id="hamel-husain">4.3 Hamel Husain</h2>
+<p><strong>Live site:</strong> https://hamel.dev/</p>
+<p>Why it is useful:</p>
+<ul>
+<li>strong technical writing / teaching emphasis;</li>
+<li>excellent example of using Quarto for a content-heavy professional identity;</li>
+<li>shows that a Quarto site can scale to many long-form technical articles.</li>
+</ul>
+<p>Borrow this idea: <strong>make useful technical/teaching content part of the portfolio itself</strong>.</p>
+<hr>
+</section>
+<section id="andrew-heiss-teaching-page" class="level2">
+<h2 class="anchored" data-anchor-id="andrew-heiss-teaching-page">4.4 Andrew Heiss, Teaching page</h2>
+<p><strong>Live teaching page:</strong> https://www.andrewheiss.com/teaching/</p>
+<p>Why it is useful:</p>
+<ul>
+<li>courses are grouped by academic year;</li>
+<li>course descriptions are understandable before clicking;</li>
+<li>interactive resources are placed separately from formal courses;</li>
+<li>the page demonstrates how teaching history can remain navigable over many years.</li>
+</ul>
+<p>Borrow this idea: <strong>organize teaching resources by course and/or academic year instead of uploading one long file list</strong>.</p>
+<hr>
+</section>
+<section id="python-for-data-science" class="level2">
+<h2 class="anchored" data-anchor-id="python-for-data-science">4.5 Python for Data Science</h2>
+<p><strong>Live site:</strong> https://pythonds.linogaliana.fr/</p>
+<p>Why it is useful:</p>
+<ul>
+<li>excellent reference for online teaching modules;</li>
+<li>uses navigable chapters;</li>
+<li>combines explanation, code, notebooks, and learning materials;</li>
+<li>demonstrates the direction the Teaching / Learning Materials section can eventually take.</li>
+</ul>
+<p>Borrow this idea: <strong>treat teaching materials as structured learning content, not merely a PDF download page</strong>.</p>
+<hr>
+</section>
+<section id="official-quarto-gallery" class="level2">
+<h2 class="anchored" data-anchor-id="official-quarto-gallery">4.6 Official Quarto Gallery</h2>
+<p><strong>Gallery:</strong> https://quarto.org/docs/gallery/</p>
+<p>Use this when looking for new ideas. It contains examples of personal websites, blogs, courses, research-group sites, documentation, notebooks, dashboards, and books.</p>
+<hr>
+</section>
+</section>
+<section id="high-quality-resources-to-learn-quarto-website-design" class="level1">
+<h1>5. High-quality resources to learn Quarto website design</h1>
+<section id="official-quarto-website-documentation" class="level2">
+<h2 class="anchored" data-anchor-id="official-quarto-website-documentation">Official Quarto website documentation</h2>
+<p>https://quarto.org/docs/websites/</p>
+<p>Covers the overall website project model, navigation, search, footer, tools, and publishing.</p>
+</section>
+<section id="official-four-part-quarto-personal-website-workshop" class="level2">
+<h2 class="anchored" data-anchor-id="official-four-part-quarto-personal-website-workshop">Official four-part Quarto personal website workshop</h2>
+<p>https://opensource.posit.co/blog/2024-12-04_websites-workshop/</p>
+<p>This is especially useful because the sequence is close to the workflow needed here:</p>
+<ol type="1">
+<li>build the homepage;</li>
+<li>add pages and navigation;</li>
+<li>customize appearance with CSS/SCSS;</li>
+<li>add listings for projects, talks, publications, or posts.</li>
+</ol>
+</section>
+<section id="about-page-templates" class="level2">
+<h2 class="anchored" data-anchor-id="about-page-templates">About-page templates</h2>
+<p>https://quarto.org/docs/websites/website-about.html</p>
+<p>Quarto currently includes built-in about layouts such as:</p>
+<ul>
+<li><code>jolla</code></li>
+<li><code>trestles</code></li>
+<li><code>solana</code></li>
+<li><code>marquee</code></li>
+<li><code>broadside</code></li>
+</ul>
+<p>For a lecturer/researcher homepage, <code>solana</code>, <code>trestles</code>, or <code>broadside</code> are good starting points.</p>
+</section>
+<section id="document-listings" class="level2">
+<h2 class="anchored" data-anchor-id="document-listings">Document listings</h2>
+<p>https://quarto.org/docs/websites/website-listings.html</p>
+<p>Use listings for:</p>
+<ul>
+<li>publications;</li>
+<li>projects;</li>
+<li>courses;</li>
+<li>talks;</li>
+<li>blog/notes;</li>
+<li>learning resources.</li>
+</ul>
+<p>This avoids manually updating a long index page every time a new item is added.</p>
+</section>
+<section id="navigation-and-search" class="level2">
+<h2 class="anchored" data-anchor-id="navigation-and-search">Navigation and search</h2>
+<p>https://quarto.org/docs/websites/website-navigation.html</p>
+<p>Quarto supports:</p>
+<ul>
+<li>top navbar;</li>
+<li>sidebar;</li>
+<li>combined navbar + sidebar;</li>
+<li>full-text site search.</li>
+</ul>
+<p>For this portfolio, use a top navbar for the main portfolio and a sidebar only for large teaching/module sections.</p>
+</section>
+<section id="html-themes-and-custom-theming" class="level2">
+<h2 class="anchored" data-anchor-id="html-themes-and-custom-theming">HTML themes and custom theming</h2>
+<p>https://quarto.org/docs/output-formats/html-themes.html</p>
+<p>Quarto uses Bootstrap 5 and includes Bootswatch themes. It also supports custom SCSS themes and separate light/dark themes.</p>
+</section>
+<section id="website-tools-social-preview-favicon-analytics-dark-mode" class="level2">
+<h2 class="anchored" data-anchor-id="website-tools-social-preview-favicon-analytics-dark-mode">Website tools: social preview, favicon, analytics, dark mode</h2>
+<p>https://quarto.org/docs/websites/website-tools.html</p>
+<p>Important quality features include:</p>
+<ul>
+<li>favicon;</li>
+<li>Open Graph metadata;</li>
+<li>social preview images;</li>
+<li>Twitter/X card metadata;</li>
+<li>Google Analytics or Plausible Analytics;</li>
+<li>cookie consent where needed;</li>
+<li>dark mode.</li>
+</ul>
+</section>
+<section id="brand-system" class="level2">
+<h2 class="anchored" data-anchor-id="brand-system">Brand system</h2>
+<p>Quarto supports <code>_brand.yml</code> for consistent visual branding across supported outputs.</p>
+<p>Background and examples:</p>
+<ul>
+<li>https://quarto.org/docs/blog/posts/2024-11-25-1.6-release/</li>
+<li>https://quarto.org/docs/blog/posts/2025-01-15-quarto-tip-brand-positron/</li>
+</ul>
+<p>This becomes valuable if the same visual identity will later be reused in presentations, reports, or teaching material.</p>
+</section>
+<section id="citations-and-bibliography" class="level2">
+<h2 class="anchored" data-anchor-id="citations-and-bibliography">Citations and bibliography</h2>
+<p>https://quarto.org/docs/authoring/citations.html</p>
+<p>Quarto supports BibTeX/BibLaTeX and CSL. Keep a <code>references.bib</code> file when citation-aware pages are useful.</p>
+</section>
+<section id="citeable-web-articles" class="level2">
+<h2 class="anchored" data-anchor-id="citeable-web-articles">Citeable web articles</h2>
+<p>https://quarto.org/docs/authoring/create-citeable-articles.html</p>
+<p>Useful later if technical notes or tutorials on the website should themselves expose citation metadata.</p>
+</section>
+<section id="github-pages-publishing" class="level2">
+<h2 class="anchored" data-anchor-id="github-pages-publishing">GitHub Pages publishing</h2>
+<p>https://quarto.org/docs/publishing/github-pages.html</p>
+<p>This is the primary deployment reference for the setup below.</p>
+<hr>
+</section>
+</section>
+<section id="content-preparation-before-coding" class="level1">
+<h1>6. Content preparation before coding</h1>
+<p>Prepare the following before spending time on design.</p>
+<section id="identity-assets" class="level2">
+<h2 class="anchored" data-anchor-id="identity-assets">Identity assets</h2>
+<ul>
+<li>professional headshot;</li>
+<li>preferred displayed academic name;</li>
+<li>lecturer/researcher title;</li>
+<li>university/faculty/program affiliation;</li>
+<li>short biography (around 80-150 words for homepage);</li>
+<li>longer biography for About;</li>
+<li>professional email;</li>
+<li>CV PDF;</li>
+<li>ORCID;</li>
+<li>Google Scholar;</li>
+<li>GitHub;</li>
+<li>LinkedIn, if desired.</li>
+</ul>
+</section>
+<section id="research-content" class="level2">
+<h2 class="anchored" data-anchor-id="research-content">Research content</h2>
+<p>For each research theme, prepare:</p>
+<ul>
+<li>title;</li>
+<li>1-2 sentence explanation understandable outside the narrow field;</li>
+<li>representative image/figure if available;</li>
+<li>2-4 representative publications/projects.</li>
+</ul>
+<p>Avoid presenting research interests as only a long keyword list.</p>
+</section>
+<section id="publications" class="level2">
+<h2 class="anchored" data-anchor-id="publications">Publications</h2>
+<p>For every publication ideally keep:</p>
+<pre class="text"><code>Title
+Authors
+Year
+Venue
+DOI / publisher URL
+Abstract or 2-3 sentence summary
+PDF (if legally shareable)
+Code URL
+Dataset URL
+BibTeX
+Thumbnail / representative figure (optional)</code></pre>
+</section>
+<section id="teaching" class="level2">
+<h2 class="anchored" data-anchor-id="teaching">Teaching</h2>
+<p>For each course:</p>
+<pre class="text"><code>Course name
+Course code (optional)
+Short description
+Semester/year
+Syllabus / RPS (if public)
+Modules
+Slides
+Labs / notebooks
+Datasets
+Assignments or exercises intended for public release</code></pre>
+<p>Do <strong>not</strong> publish private student information, answer keys that should remain confidential, internal credentials, or copyrighted material that you do not have permission to redistribute.</p>
+<hr>
+</section>
+</section>
+<section id="install-the-tools" class="level1">
+<h1>7. Install the tools</h1>
+<section id="install-quarto" class="level2">
+<h2 class="anchored" data-anchor-id="install-quarto">7.1 Install Quarto</h2>
+<p>Official download page:</p>
+<p>https://quarto.org/docs/download/</p>
+<p>After installation, verify:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb8"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb8-1"><a href="#cb8-1" aria-hidden="true" tabindex="-1"></a><span class="ex">quarto</span> <span class="at">--version</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+</section>
+<section id="recommended-editor" class="level2">
+<h2 class="anchored" data-anchor-id="recommended-editor">7.2 Recommended editor</h2>
+<p>VS Code works well for this workflow. Install the Quarto extension if desired.</p>
+<p>You should also have Git installed:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb9"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb9-1"><a href="#cb9-1" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> <span class="at">--version</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<hr>
+</section>
+</section>
+<section id="create-the-github-repository" class="level1">
+<h1>8. Create the GitHub repository</h1>
+<p>On GitHub:</p>
+<ol type="1">
+<li><p>Click <strong>New repository</strong>.</p></li>
+<li><p>Name it exactly:</p>
+<pre class="text"><code>&lt;username&gt;.github.io</code></pre></li>
+<li><p>If using <strong>GitHub Free</strong>, choose <strong>Public</strong>.</p></li>
+<li><p>Add a short description, for example:</p>
+<pre class="text"><code>Academic portfolio, research, publications, and teaching resources.</code></pre></li>
+<li><p>Create the repository.</p></li>
+</ol>
+<p>For the first setup, it is fine to create it without extra generated files and initialize the project locally.</p>
+<hr>
+</section>
+<section id="create-the-local-quarto-website-and-connect-it-to-github" class="level1">
+<h1>9. Create the local Quarto website and connect it to GitHub</h1>
+<p>Example workflow:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb12"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb12-1"><a href="#cb12-1" aria-hidden="true" tabindex="-1"></a><span class="ex">quarto</span> create project website <span class="op">&lt;</span>username<span class="op">&gt;</span>.github.io</span>
+<span id="cb12-2"><a href="#cb12-2" aria-hidden="true" tabindex="-1"></a><span class="bu">cd</span> <span class="op">&lt;</span>username<span class="op">&gt;</span>.github.io</span>
+<span id="cb12-3"><a href="#cb12-3" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> init</span>
+<span id="cb12-4"><a href="#cb12-4" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> branch <span class="at">-M</span> main</span>
+<span id="cb12-5"><a href="#cb12-5" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> remote add origin https://github.com/<span class="op">&lt;</span>username<span class="op">&gt;</span>/<span class="op">&lt;</span>username<span class="op">&gt;</span>.github.io.git</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<p>Then preview:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb13"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb13-1"><a href="#cb13-1" aria-hidden="true" tabindex="-1"></a><span class="ex">quarto</span> preview</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<p>Quarto opens a local development address in your browser. Keep <code>quarto preview</code> running while editing; most changes will appear automatically.</p>
+<p>If creating the project through VS Code/Positron instead, the resulting structure is equivalent.</p>
+<hr>
+</section>
+<section id="recommended-project-structure" class="level1">
+<h1>10. Recommended project structure</h1>
+<p>Use a scalable structure from the beginning:</p>
+<pre class="text"><code>&lt;username&gt;.github.io/
+├── _quarto.yml
+├── _brand.yml                 # optional, recommended later
+├── styles.css
+├── index.qmd
+├── about.qmd
+├── research.qmd
+├── contact.qmd
+├── cv/
+│   └── cv.pdf
+├── publications/
+│   ├── index.qmd
+│   ├── paper-01/
+│   │   └── index.qmd
+│   └── paper-02/
+│       └── index.qmd
+├── projects/
+│   ├── index.qmd
+│   ├── project-01/
+│   │   └── index.qmd
+│   └── project-02/
+│       └── index.qmd
+├── teaching/
+│   ├── index.qmd
+│   ├── data-mining/
+│   │   ├── index.qmd
+│   │   ├── module-01.qmd
+│   │   └── module-02.qmd
+│   └── artificial-intelligence/
+│       └── index.qmd
+├── activities/
+│   └── index.qmd
+├── posts/                     # optional blog / technical notes
+├── images/
+│   ├── profile.jpg
+│   ├── og-image.png
+│   └── projects/
+├── references.bib             # optional
+├── .gitignore
+└── README.md</code></pre>
+<p>Do not create every folder immediately if there is no content yet. The structure is the target architecture.</p>
+<hr>
+</section>
+<section id="starter-_quarto.yml" class="level1">
+<h1>11. Starter <code>_quarto.yml</code></h1>
+<p>A strong first configuration is:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb15"><pre class="sourceCode yaml code-with-copy"><code class="sourceCode yaml"><span id="cb15-1"><a href="#cb15-1" aria-hidden="true" tabindex="-1"></a><span class="fu">project</span><span class="kw">:</span></span>
+<span id="cb15-2"><a href="#cb15-2" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">type</span><span class="kw">:</span><span class="at"> website</span></span>
+<span id="cb15-3"><a href="#cb15-3" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb15-4"><a href="#cb15-4" aria-hidden="true" tabindex="-1"></a><span class="fu">website</span><span class="kw">:</span></span>
+<span id="cb15-5"><a href="#cb15-5" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">title</span><span class="kw">:</span><span class="at"> </span><span class="st">"Akhiyar Waladi"</span></span>
+<span id="cb15-6"><a href="#cb15-6" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">description</span><span class="kw">:</span><span class="at"> </span><span class="st">"Lecturer, researcher, publications, projects, and teaching resources."</span></span>
+<span id="cb15-7"><a href="#cb15-7" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">site-url</span><span class="kw">:</span><span class="at"> </span><span class="st">"https://akhiyarwaladi.github.io"</span></span>
+<span id="cb15-8"><a href="#cb15-8" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">favicon</span><span class="kw">:</span><span class="at"> images/favicon.png</span></span>
+<span id="cb15-9"><a href="#cb15-9" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">image</span><span class="kw">:</span><span class="at"> images/og-image.png</span></span>
+<span id="cb15-10"><a href="#cb15-10" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">open-graph</span><span class="kw">:</span><span class="at"> </span><span class="ch">true</span></span>
+<span id="cb15-11"><a href="#cb15-11" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">twitter-card</span><span class="kw">:</span><span class="at"> </span><span class="ch">true</span></span>
+<span id="cb15-12"><a href="#cb15-12" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">search</span><span class="kw">:</span><span class="at"> </span><span class="ch">true</span></span>
+<span id="cb15-13"><a href="#cb15-13" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">back-to-top-navigation</span><span class="kw">:</span><span class="at"> </span><span class="ch">true</span></span>
+<span id="cb15-14"><a href="#cb15-14" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb15-15"><a href="#cb15-15" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">navbar</span><span class="kw">:</span></span>
+<span id="cb15-16"><a href="#cb15-16" aria-hidden="true" tabindex="-1"></a><span class="at">    </span><span class="fu">left</span><span class="kw">:</span></span>
+<span id="cb15-17"><a href="#cb15-17" aria-hidden="true" tabindex="-1"></a><span class="at">      </span><span class="kw">-</span><span class="at"> </span><span class="fu">text</span><span class="kw">:</span><span class="at"> Home</span></span>
+<span id="cb15-18"><a href="#cb15-18" aria-hidden="true" tabindex="-1"></a><span class="at">        </span><span class="fu">href</span><span class="kw">:</span><span class="at"> index.qmd</span></span>
+<span id="cb15-19"><a href="#cb15-19" aria-hidden="true" tabindex="-1"></a><span class="at">      </span><span class="kw">-</span><span class="at"> </span><span class="fu">text</span><span class="kw">:</span><span class="at"> About</span></span>
+<span id="cb15-20"><a href="#cb15-20" aria-hidden="true" tabindex="-1"></a><span class="at">        </span><span class="fu">href</span><span class="kw">:</span><span class="at"> about.qmd</span></span>
+<span id="cb15-21"><a href="#cb15-21" aria-hidden="true" tabindex="-1"></a><span class="at">      </span><span class="kw">-</span><span class="at"> </span><span class="fu">text</span><span class="kw">:</span><span class="at"> Research</span></span>
+<span id="cb15-22"><a href="#cb15-22" aria-hidden="true" tabindex="-1"></a><span class="at">        </span><span class="fu">href</span><span class="kw">:</span><span class="at"> research.qmd</span></span>
+<span id="cb15-23"><a href="#cb15-23" aria-hidden="true" tabindex="-1"></a><span class="at">      </span><span class="kw">-</span><span class="at"> </span><span class="fu">text</span><span class="kw">:</span><span class="at"> Publications</span></span>
+<span id="cb15-24"><a href="#cb15-24" aria-hidden="true" tabindex="-1"></a><span class="at">        </span><span class="fu">href</span><span class="kw">:</span><span class="at"> publications/index.qmd</span></span>
+<span id="cb15-25"><a href="#cb15-25" aria-hidden="true" tabindex="-1"></a><span class="at">      </span><span class="kw">-</span><span class="at"> </span><span class="fu">text</span><span class="kw">:</span><span class="at"> Teaching</span></span>
+<span id="cb15-26"><a href="#cb15-26" aria-hidden="true" tabindex="-1"></a><span class="at">        </span><span class="fu">href</span><span class="kw">:</span><span class="at"> teaching/index.qmd</span></span>
+<span id="cb15-27"><a href="#cb15-27" aria-hidden="true" tabindex="-1"></a><span class="at">      </span><span class="kw">-</span><span class="at"> </span><span class="fu">text</span><span class="kw">:</span><span class="at"> Projects</span></span>
+<span id="cb15-28"><a href="#cb15-28" aria-hidden="true" tabindex="-1"></a><span class="at">        </span><span class="fu">href</span><span class="kw">:</span><span class="at"> projects/index.qmd</span></span>
+<span id="cb15-29"><a href="#cb15-29" aria-hidden="true" tabindex="-1"></a><span class="at">      </span><span class="kw">-</span><span class="at"> </span><span class="fu">text</span><span class="kw">:</span><span class="at"> Contact</span></span>
+<span id="cb15-30"><a href="#cb15-30" aria-hidden="true" tabindex="-1"></a><span class="at">        </span><span class="fu">href</span><span class="kw">:</span><span class="at"> contact.qmd</span></span>
+<span id="cb15-31"><a href="#cb15-31" aria-hidden="true" tabindex="-1"></a><span class="at">    </span><span class="fu">right</span><span class="kw">:</span></span>
+<span id="cb15-32"><a href="#cb15-32" aria-hidden="true" tabindex="-1"></a><span class="at">      </span><span class="kw">-</span><span class="at"> </span><span class="fu">icon</span><span class="kw">:</span><span class="at"> github</span></span>
+<span id="cb15-33"><a href="#cb15-33" aria-hidden="true" tabindex="-1"></a><span class="at">        </span><span class="fu">href</span><span class="kw">:</span><span class="at"> https://github.com/&lt;username&gt;</span></span>
+<span id="cb15-34"><a href="#cb15-34" aria-hidden="true" tabindex="-1"></a><span class="at">        </span><span class="fu">aria-label</span><span class="kw">:</span><span class="at"> GitHub</span></span>
+<span id="cb15-35"><a href="#cb15-35" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb15-36"><a href="#cb15-36" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">page-footer</span><span class="kw">:</span></span>
+<span id="cb15-37"><a href="#cb15-37" aria-hidden="true" tabindex="-1"></a><span class="at">    </span><span class="fu">left</span><span class="kw">:</span><span class="at"> </span><span class="st">"© Akhiyar Waladi"</span></span>
+<span id="cb15-38"><a href="#cb15-38" aria-hidden="true" tabindex="-1"></a><span class="at">    </span><span class="fu">right</span><span class="kw">:</span><span class="at"> </span><span class="st">"Built with Quarto"</span></span>
+<span id="cb15-39"><a href="#cb15-39" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb15-40"><a href="#cb15-40" aria-hidden="true" tabindex="-1"></a><span class="fu">format</span><span class="kw">:</span></span>
+<span id="cb15-41"><a href="#cb15-41" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">html</span><span class="kw">:</span></span>
+<span id="cb15-42"><a href="#cb15-42" aria-hidden="true" tabindex="-1"></a><span class="at">    </span><span class="fu">theme</span><span class="kw">:</span></span>
+<span id="cb15-43"><a href="#cb15-43" aria-hidden="true" tabindex="-1"></a><span class="at">      </span><span class="fu">light</span><span class="kw">:</span><span class="at"> cosmo</span></span>
+<span id="cb15-44"><a href="#cb15-44" aria-hidden="true" tabindex="-1"></a><span class="at">      </span><span class="fu">dark</span><span class="kw">:</span><span class="at"> darkly</span></span>
+<span id="cb15-45"><a href="#cb15-45" aria-hidden="true" tabindex="-1"></a><span class="at">    </span><span class="fu">css</span><span class="kw">:</span><span class="at"> styles.css</span></span>
+<span id="cb15-46"><a href="#cb15-46" aria-hidden="true" tabindex="-1"></a><span class="at">    </span><span class="fu">toc</span><span class="kw">:</span><span class="at"> </span><span class="ch">true</span></span>
+<span id="cb15-47"><a href="#cb15-47" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb15-48"><a href="#cb15-48" aria-hidden="true" tabindex="-1"></a><span class="fu">execute</span><span class="kw">:</span></span>
+<span id="cb15-49"><a href="#cb15-49" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">freeze</span><span class="kw">:</span><span class="at"> auto</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<section id="notes" class="level3">
+<h3 class="anchored" data-anchor-id="notes">Notes</h3>
+<ul>
+<li>Replace placeholder URLs before publishing.</li>
+<li><code>site-url</code> is important for correct absolute social-preview metadata.</li>
+<li><code>open-graph: true</code> improves link previews on services such as LinkedIn and other apps that use Open Graph.</li>
+<li><code>search: true</code> becomes increasingly valuable when teaching pages grow.</li>
+<li><code>freeze: auto</code> is useful if pages contain executable Python/R/Julia content and the computation should not run every time the site is rebuilt on GitHub.</li>
+</ul>
+<p>Official website options:<br>
+https://quarto.org/docs/reference/projects/websites.html</p>
+<hr>
+</section>
+</section>
+<section id="design-the-homepage-as-an-academic-landing-page-not-a-cv-dump" class="level1">
+<h1>12. Design the homepage as an academic landing page, not a CV dump</h1>
+<p>A recommended homepage information order:</p>
+<pre class="text"><code>[Headshot]   Name
+             Lecturer | Researcher | Educator
+             Short 2-3 sentence introduction
+             [Publications] [Research] [Teaching] [CV]
+
+Selected Research
+-----------------
+Research theme 1 | Research theme 2 | Research theme 3
+
+Featured Publications
+---------------------
+Publication 1
+Publication 2
+Publication 3
+
+Teaching
+--------
+Course 1 | Course 2 | Course 3
+
+Selected Projects / Activities
+------------------------------
+Project cards
+
+Professional links / Contact</code></pre>
+<section id="avoid-on-the-homepage" class="level3">
+<h3 class="anchored" data-anchor-id="avoid-on-the-homepage">Avoid on the homepage</h3>
+<ul>
+<li>full multi-page CV copied into the homepage;</li>
+<li>30-publication bibliography;</li>
+<li>large tables;</li>
+<li>too many institutional details above the research identity;</li>
+<li>excessive animations;</li>
+<li>several different accent colors;</li>
+<li>low-resolution profile photos.</li>
+</ul>
+<p>The homepage should answer within a few seconds:</p>
+<ol type="1">
+<li>Who is this person?</li>
+<li>What does this person work on?</li>
+<li>What can I explore here?</li>
+<li>How can I contact or verify this person’s work?</li>
+</ol>
+<hr>
+</section>
+</section>
+<section id="create-the-about-page" class="level1">
+<h1>13. Create the About page</h1>
+<p>Quarto has purpose-built personal About templates.</p>
+<p>Example:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb17"><pre class="sourceCode yaml code-with-copy"><code class="sourceCode yaml"><span id="cb17-1"><a href="#cb17-1" aria-hidden="true" tabindex="-1"></a><span class="pp">---</span></span>
+<span id="cb17-2"><a href="#cb17-2" aria-hidden="true" tabindex="-1"></a><span class="fu">title</span><span class="kw">:</span><span class="at"> </span><span class="st">"About"</span></span>
+<span id="cb17-3"><a href="#cb17-3" aria-hidden="true" tabindex="-1"></a><span class="fu">image</span><span class="kw">:</span><span class="at"> images/profile.jpg</span></span>
+<span id="cb17-4"><a href="#cb17-4" aria-hidden="true" tabindex="-1"></a><span class="fu">about</span><span class="kw">:</span></span>
+<span id="cb17-5"><a href="#cb17-5" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">template</span><span class="kw">:</span><span class="at"> solana</span></span>
+<span id="cb17-6"><a href="#cb17-6" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">image-shape</span><span class="kw">:</span><span class="at"> rounded</span></span>
+<span id="cb17-7"><a href="#cb17-7" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">links</span><span class="kw">:</span></span>
+<span id="cb17-8"><a href="#cb17-8" aria-hidden="true" tabindex="-1"></a><span class="at">    </span><span class="kw">-</span><span class="at"> </span><span class="fu">icon</span><span class="kw">:</span><span class="at"> envelope</span></span>
+<span id="cb17-9"><a href="#cb17-9" aria-hidden="true" tabindex="-1"></a><span class="at">      </span><span class="fu">text</span><span class="kw">:</span><span class="at"> Email</span></span>
+<span id="cb17-10"><a href="#cb17-10" aria-hidden="true" tabindex="-1"></a><span class="at">      </span><span class="fu">href</span><span class="kw">:</span><span class="at"> mailto:your-email@example.com</span></span>
+<span id="cb17-11"><a href="#cb17-11" aria-hidden="true" tabindex="-1"></a><span class="at">    </span><span class="kw">-</span><span class="at"> </span><span class="fu">icon</span><span class="kw">:</span><span class="at"> github</span></span>
+<span id="cb17-12"><a href="#cb17-12" aria-hidden="true" tabindex="-1"></a><span class="at">      </span><span class="fu">text</span><span class="kw">:</span><span class="at"> GitHub</span></span>
+<span id="cb17-13"><a href="#cb17-13" aria-hidden="true" tabindex="-1"></a><span class="at">      </span><span class="fu">href</span><span class="kw">:</span><span class="at"> https://github.com/&lt;username&gt;</span></span>
+<span id="cb17-14"><a href="#cb17-14" aria-hidden="true" tabindex="-1"></a><span class="pp">---</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<p>Below the header, include only useful sections such as:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb18"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb18-1"><a href="#cb18-1" aria-hidden="true" tabindex="-1"></a><span class="fu">## Biography</span></span>
+<span id="cb18-2"><a href="#cb18-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb18-3"><a href="#cb18-3" aria-hidden="true" tabindex="-1"></a><span class="fu">## Research interests</span></span>
+<span id="cb18-4"><a href="#cb18-4" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb18-5"><a href="#cb18-5" aria-hidden="true" tabindex="-1"></a><span class="fu">## Education</span></span>
+<span id="cb18-6"><a href="#cb18-6" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb18-7"><a href="#cb18-7" aria-hidden="true" tabindex="-1"></a><span class="fu">## Academic experience</span></span>
+<span id="cb18-8"><a href="#cb18-8" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb18-9"><a href="#cb18-9" aria-hidden="true" tabindex="-1"></a><span class="fu">## Professional service</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<p>Keep the formal downloadable CV available separately.</p>
+<p>Official About-page documentation:<br>
+https://quarto.org/docs/websites/website-about.html</p>
+<hr>
+</section>
+<section id="build-publications-with-quarto-listings" class="level1">
+<h1>14. Build Publications with Quarto listings</h1>
+<p>Do not maintain a giant hand-written list if the publication count will grow.</p>
+<p>Recommended structure:</p>
+<pre class="text"><code>publications/
+├── index.qmd
+├── publication-a/
+│   └── index.qmd
+├── publication-b/
+│   └── index.qmd
+└── publication-c/
+    └── index.qmd</code></pre>
+<p>Example metadata for one publication page:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb20"><pre class="sourceCode yaml code-with-copy"><code class="sourceCode yaml"><span id="cb20-1"><a href="#cb20-1" aria-hidden="true" tabindex="-1"></a><span class="pp">---</span></span>
+<span id="cb20-2"><a href="#cb20-2" aria-hidden="true" tabindex="-1"></a><span class="fu">title</span><span class="kw">:</span><span class="at"> </span><span class="st">"Example Publication Title"</span></span>
+<span id="cb20-3"><a href="#cb20-3" aria-hidden="true" tabindex="-1"></a><span class="fu">description</span><span class="kw">:</span><span class="at"> </span><span class="st">"A concise plain-language explanation of the paper."</span></span>
+<span id="cb20-4"><a href="#cb20-4" aria-hidden="true" tabindex="-1"></a><span class="fu">date</span><span class="kw">:</span><span class="at"> 2026-01-01</span></span>
+<span id="cb20-5"><a href="#cb20-5" aria-hidden="true" tabindex="-1"></a><span class="fu">categories</span><span class="kw">:</span><span class="at"> </span><span class="kw">[</span><span class="at">Machine Learning</span><span class="kw">,</span><span class="at"> Computer Vision</span><span class="kw">]</span></span>
+<span id="cb20-6"><a href="#cb20-6" aria-hidden="true" tabindex="-1"></a><span class="fu">author</span><span class="kw">:</span></span>
+<span id="cb20-7"><a href="#cb20-7" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="kw">-</span><span class="at"> </span><span class="fu">name</span><span class="kw">:</span><span class="at"> </span><span class="st">"Author One"</span></span>
+<span id="cb20-8"><a href="#cb20-8" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="kw">-</span><span class="at"> </span><span class="fu">name</span><span class="kw">:</span><span class="at"> </span><span class="st">"Author Two"</span></span>
+<span id="cb20-9"><a href="#cb20-9" aria-hidden="true" tabindex="-1"></a><span class="fu">doi</span><span class="kw">:</span><span class="at"> </span><span class="st">"10.xxxx/example"</span></span>
+<span id="cb20-10"><a href="#cb20-10" aria-hidden="true" tabindex="-1"></a><span class="fu">image</span><span class="kw">:</span><span class="at"> thumbnail.png</span></span>
+<span id="cb20-11"><a href="#cb20-11" aria-hidden="true" tabindex="-1"></a><span class="pp">---</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<p>Then <code>publications/index.qmd</code> can use a listing:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb21"><pre class="sourceCode yaml code-with-copy"><code class="sourceCode yaml"><span id="cb21-1"><a href="#cb21-1" aria-hidden="true" tabindex="-1"></a><span class="pp">---</span></span>
+<span id="cb21-2"><a href="#cb21-2" aria-hidden="true" tabindex="-1"></a><span class="fu">title</span><span class="kw">:</span><span class="at"> </span><span class="st">"Publications"</span></span>
+<span id="cb21-3"><a href="#cb21-3" aria-hidden="true" tabindex="-1"></a><span class="fu">listing</span><span class="kw">:</span></span>
+<span id="cb21-4"><a href="#cb21-4" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">contents</span><span class="kw">:</span><span class="at"> </span><span class="st">"**/index.qmd"</span></span>
+<span id="cb21-5"><a href="#cb21-5" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">type</span><span class="kw">:</span><span class="at"> default</span></span>
+<span id="cb21-6"><a href="#cb21-6" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">sort</span><span class="kw">:</span><span class="at"> </span><span class="st">"date desc"</span></span>
+<span id="cb21-7"><a href="#cb21-7" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">fields</span><span class="kw">:</span><span class="at"> </span><span class="kw">[</span><span class="at">date</span><span class="kw">,</span><span class="at"> title</span><span class="kw">,</span><span class="at"> description</span><span class="kw">,</span><span class="at"> categories</span><span class="kw">]</span></span>
+<span id="cb21-8"><a href="#cb21-8" aria-hidden="true" tabindex="-1"></a><span class="pp">---</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<p>You can also use a grid layout for more visual publication cards.</p>
+<p>Official listings documentation:<br>
+https://quarto.org/docs/websites/website-listings.html</p>
+<section id="publication-quality-rule" class="level3">
+<h3 class="anchored" data-anchor-id="publication-quality-rule">Publication quality rule</h3>
+<p>For important papers, add a <strong>plain-language summary and key contribution</strong>. Do not make visitors infer the value of the research only from the paper title and abstract.</p>
+<p>Where appropriate provide:</p>
+<pre class="text"><code>[DOI] [Publisher] [PDF] [Code] [Dataset] [BibTeX]</code></pre>
+<p>Only provide PDFs you are legally permitted to distribute.</p>
+<hr>
+</section>
+</section>
+<section id="use-bibtex-when-useful" class="level1">
+<h1>15. Use BibTeX when useful</h1>
+<p>Keep shared citation data in:</p>
+<pre class="text"><code>references.bib</code></pre>
+<p>Quarto can use BibTeX/BibLaTeX/CSL to generate citations and bibliographies.</p>
+<p>Official citation guide:<br>
+https://quarto.org/docs/authoring/citations.html</p>
+<p>For a portfolio, you do not necessarily need to generate the entire Publications page from a <code>.bib</code> file in version 1. It is often easier to create richer publication pages with metadata first and introduce automation later.</p>
+<hr>
+</section>
+<section id="build-the-teaching-section-in-two-levels" class="level1">
+<h1>16. Build the Teaching section in two levels</h1>
+<p>Use two concepts:</p>
+<section id="level-a-courses" class="level2">
+<h2 class="anchored" data-anchor-id="level-a-courses">Level A, Courses</h2>
+<pre class="text"><code>Teaching
+├── Data Mining
+├── Artificial Intelligence
+├── Cloud Computing
+└── Statistics</code></pre>
+<p>Each course landing page can show:</p>
+<ul>
+<li>description;</li>
+<li>learning objectives;</li>
+<li>semester/year;</li>
+<li>syllabus/RPS if public;</li>
+<li>modules;</li>
+<li>slides;</li>
+<li>notebooks;</li>
+<li>datasets;</li>
+<li>recommended readings.</li>
+</ul>
+</section>
+<section id="level-b-learning-materialsmodules" class="level2">
+<h2 class="anchored" data-anchor-id="level-b-learning-materialsmodules">Level B, Learning materials/modules</h2>
+<p>Example:</p>
+<pre class="text"><code>Data Mining
+├── 01 Introduction
+├── 02 Data Preparation
+├── 03 Classification
+├── 04 Clustering
+├── 05 Association Rules
+└── Exercises</code></pre>
+<p>This is where Quarto is especially strong because a module can include:</p>
+<ul>
+<li>Markdown explanation;</li>
+<li>equations;</li>
+<li>figures;</li>
+<li>tables;</li>
+<li>executable Python/R code;</li>
+<li>Jupyter output;</li>
+<li>references;</li>
+<li>cross-references;</li>
+<li>callout boxes.</li>
+</ul>
+<p>If one course grows into a large textbook-like resource, later turn that course into a <strong>Quarto Book</strong>.</p>
+<p>Quarto Books:<br>
+https://quarto.org/docs/books/</p>
+<hr>
+</section>
+</section>
+<section id="create-a-projects-page" class="level1">
+<h1>17. Create a Projects page</h1>
+<p>Use a grid listing with a representative image for each project.</p>
+<p>Each project card/page should answer:</p>
+<pre class="text"><code>What problem is being solved?
+What is your role?
+What technology/method is used?
+What was produced?
+Where can someone see the paper/code/demo?</code></pre>
+<p>Good project metadata:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb27"><pre class="sourceCode yaml code-with-copy"><code class="sourceCode yaml"><span id="cb27-1"><a href="#cb27-1" aria-hidden="true" tabindex="-1"></a><span class="pp">---</span></span>
+<span id="cb27-2"><a href="#cb27-2" aria-hidden="true" tabindex="-1"></a><span class="fu">title</span><span class="kw">:</span><span class="at"> </span><span class="st">"Project Name"</span></span>
+<span id="cb27-3"><a href="#cb27-3" aria-hidden="true" tabindex="-1"></a><span class="fu">description</span><span class="kw">:</span><span class="at"> </span><span class="st">"One-sentence description."</span></span>
+<span id="cb27-4"><a href="#cb27-4" aria-hidden="true" tabindex="-1"></a><span class="fu">date</span><span class="kw">:</span><span class="at"> 2026-01-01</span></span>
+<span id="cb27-5"><a href="#cb27-5" aria-hidden="true" tabindex="-1"></a><span class="fu">categories</span><span class="kw">:</span><span class="at"> </span><span class="kw">[</span><span class="at">AI</span><span class="kw">,</span><span class="at"> IoT</span><span class="kw">]</span></span>
+<span id="cb27-6"><a href="#cb27-6" aria-hidden="true" tabindex="-1"></a><span class="fu">image</span><span class="kw">:</span><span class="at"> thumbnail.jpg</span></span>
+<span id="cb27-7"><a href="#cb27-7" aria-hidden="true" tabindex="-1"></a><span class="pp">---</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<p>Avoid listing only software names or buzzwords.</p>
+<hr>
+</section>
+<section id="add-professional-visual-quality" class="level1">
+<h1>18. Add professional visual quality</h1>
+<section id="use-one-visual-identity" class="level2">
+<h2 class="anchored" data-anchor-id="use-one-visual-identity">Use one visual identity</h2>
+<p>Choose:</p>
+<ul>
+<li>one primary accent color;</li>
+<li>one secondary color if genuinely necessary;</li>
+<li>a consistent heading font;</li>
+<li>a highly readable body font;</li>
+<li>consistent border radius and spacing.</li>
+</ul>
+<p>Do not make every section use a different color.</p>
+</section>
+<section id="use-_brand.yml-later" class="level2">
+<h2 class="anchored" data-anchor-id="use-_brand.yml-later">Use <code>_brand.yml</code> later</h2>
+<p>Once the visual direction is stable, move core identity settings to <code>_brand.yml</code> so the brand can be reused across website pages, presentations, reports, and possibly teaching outputs.</p>
+</section>
+<section id="light-and-dark-mode" class="level2">
+<h2 class="anchored" data-anchor-id="light-and-dark-mode">Light and dark mode</h2>
+<p>A simple Quarto configuration is:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb28"><pre class="sourceCode yaml code-with-copy"><code class="sourceCode yaml"><span id="cb28-1"><a href="#cb28-1" aria-hidden="true" tabindex="-1"></a><span class="fu">format</span><span class="kw">:</span></span>
+<span id="cb28-2"><a href="#cb28-2" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">html</span><span class="kw">:</span></span>
+<span id="cb28-3"><a href="#cb28-3" aria-hidden="true" tabindex="-1"></a><span class="at">    </span><span class="fu">theme</span><span class="kw">:</span></span>
+<span id="cb28-4"><a href="#cb28-4" aria-hidden="true" tabindex="-1"></a><span class="at">      </span><span class="fu">light</span><span class="kw">:</span><span class="at"> cosmo</span></span>
+<span id="cb28-5"><a href="#cb28-5" aria-hidden="true" tabindex="-1"></a><span class="at">      </span><span class="fu">dark</span><span class="kw">:</span><span class="at"> darkly</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<p>Official theming guide:<br>
+https://quarto.org/docs/output-formats/html-themes.html</p>
+</section>
+<section id="typography" class="level2">
+<h2 class="anchored" data-anchor-id="typography">Typography</h2>
+<p>The official Quarto personal-site workshop specifically points learners to font and contrast resources while teaching CSS/SCSS customization.</p>
+<p>Resources:</p>
+<ul>
+<li>Google Fonts: https://fonts.google.com/</li>
+<li>Bootstrap Icons: https://icons.getbootstrap.com/</li>
+<li>Colour Contrast Checker: https://colourcontrast.cc/</li>
+</ul>
+<p>Use web fonts sparingly; two font families are usually enough.</p>
+<hr>
+</section>
+</section>
+<section id="improve-accessibility" class="level1">
+<h1>19. Improve accessibility</h1>
+<p>For every meaningful image, provide alt text:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb29"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb29-1"><a href="#cb29-1" aria-hidden="true" tabindex="-1"></a><span class="al">![Diagram showing the model evaluation workflow](images/workflow.png)</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<p>Also:</p>
+<ul>
+<li>use real headings (<code>##</code>, <code>###</code>) instead of bold text as fake headings;</li>
+<li>maintain sufficient color contrast;</li>
+<li>do not encode meaning using color alone;</li>
+<li>make link text descriptive;</li>
+<li>test keyboard navigation;</li>
+<li>test mobile widths;</li>
+<li>keep font sizes readable;</li>
+<li>avoid huge animated elements.</li>
+</ul>
+<p>Accessibility is part of site quality, not an optional visual extra.</p>
+<hr>
+</section>
+<section id="add-social-metadata-and-preview-images" class="level1">
+<h1>20. Add social metadata and preview images</h1>
+<p>In <code>_quarto.yml</code>:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb30"><pre class="sourceCode yaml code-with-copy"><code class="sourceCode yaml"><span id="cb30-1"><a href="#cb30-1" aria-hidden="true" tabindex="-1"></a><span class="fu">website</span><span class="kw">:</span></span>
+<span id="cb30-2"><a href="#cb30-2" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">site-url</span><span class="kw">:</span><span class="at"> </span><span class="st">"https://&lt;username&gt;.github.io"</span></span>
+<span id="cb30-3"><a href="#cb30-3" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">image</span><span class="kw">:</span><span class="at"> images/og-image.png</span></span>
+<span id="cb30-4"><a href="#cb30-4" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">open-graph</span><span class="kw">:</span><span class="at"> </span><span class="ch">true</span></span>
+<span id="cb30-5"><a href="#cb30-5" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">twitter-card</span><span class="kw">:</span><span class="at"> </span><span class="ch">true</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<p>This helps produce richer previews when your website or article is shared on compatible social/professional platforms.</p>
+<p>Official source:<br>
+https://quarto.org/docs/websites/website-tools.html</p>
+<p>Create a clean default preview graphic containing only essential branding, not a screenshot of the entire homepage.</p>
+<hr>
+</section>
+<section id="add-site-search-early" class="level1">
+<h1>21. Add site search early</h1>
+<p>Enable:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb31"><pre class="sourceCode yaml code-with-copy"><code class="sourceCode yaml"><span id="cb31-1"><a href="#cb31-1" aria-hidden="true" tabindex="-1"></a><span class="fu">website</span><span class="kw">:</span></span>
+<span id="cb31-2"><a href="#cb31-2" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">search</span><span class="kw">:</span><span class="at"> </span><span class="ch">true</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<p>Search becomes particularly useful when modules, publications, and technical notes grow.</p>
+<p>Official navigation/search guide:<br>
+https://quarto.org/docs/websites/website-navigation.html</p>
+<hr>
+</section>
+<section id="analytics-optional-not-required-for-launch" class="level1">
+<h1>22. Analytics: optional, not required for launch</h1>
+<p>Do not delay the portfolio launch because analytics are not configured.</p>
+<p>Later, Quarto supports integrations including Google Analytics and Plausible Analytics.</p>
+<p>Official documentation:<br>
+https://quarto.org/docs/websites/website-tools.html</p>
+<p>If using tracking that relies on cookies, review the relevant privacy/cookie-consent requirements. Quarto provides cookie-consent configuration for supported use cases.</p>
+<hr>
+</section>
+<section id="create-.gitignore" class="level1">
+<h1>23. Create <code>.gitignore</code></h1>
+<p>For a <code>gh-pages</code> publishing workflow, start with:</p>
+<pre class="gitignore"><code>/.quarto/
+/_site/</code></pre>
+<p>If using executable notebooks, do <strong>not</strong> automatically ignore <code>_freeze/</code> if you rely on Quarto’s <code>freeze: auto</code> workflow; the official GitHub Actions guidance describes committing cached computation results when using that strategy.</p>
+<p>Official deployment reference:<br>
+https://quarto.org/docs/publishing/github-pages.html</p>
+<hr>
+</section>
+<section id="test-locally-before-every-important-publish" class="level1">
+<h1>24. Test locally before every important publish</h1>
+<p>Run:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb33"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb33-1"><a href="#cb33-1" aria-hidden="true" tabindex="-1"></a><span class="ex">quarto</span> preview</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<p>Before committing a major change, also test a full render:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb34"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb34-1"><a href="#cb34-1" aria-hidden="true" tabindex="-1"></a><span class="ex">quarto</span> render</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<p>Check:</p>
+<ul>
+<li>no broken internal links;</li>
+<li>navigation works;</li>
+<li>images load;</li>
+<li>PDF links work;</li>
+<li>mobile layout is acceptable;</li>
+<li>publication cards are not missing metadata;</li>
+<li>no local/private file path is visible;</li>
+<li>no secrets appear in source files.</li>
+</ul>
+<hr>
+</section>
+<section id="make-the-first-git-commit" class="level1">
+<h1>25. Make the first Git commit</h1>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb35"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb35-1"><a href="#cb35-1" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> status</span>
+<span id="cb35-2"><a href="#cb35-2" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> add .</span>
+<span id="cb35-3"><a href="#cb35-3" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> commit <span class="at">-m</span> <span class="st">"Initial Quarto academic portfolio"</span></span>
+<span id="cb35-4"><a href="#cb35-4" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> branch <span class="at">-M</span> main</span>
+<span id="cb35-5"><a href="#cb35-5" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> push <span class="at">-u</span> origin main</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<p>Verify the source files appear in the repository.</p>
+<hr>
+</section>
+<section id="first-deployment-to-github-pages-recommended-simple-method" class="level1">
+<h1>26. First deployment to GitHub Pages, recommended simple method</h1>
+<p>Quarto’s official documentation describes <code>quarto publish gh-pages</code> as the straightforward publishing workflow.</p>
+<p>Run from the project directory:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb36"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb36-1"><a href="#cb36-1" aria-hidden="true" tabindex="-1"></a><span class="ex">quarto</span> publish gh-pages</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<p>On the first run, Quarto will create a <code>gh-pages</code> branch and publish the rendered site there.</p>
+<p>Official source:<br>
+https://quarto.org/docs/publishing/github-pages.html</p>
+<hr>
+</section>
+<section id="special-step-for-username.github.io-repositories" class="level1">
+<h1>27. Special step for <code>&lt;username&gt;.github.io</code> repositories</h1>
+<p>A root user site behaves slightly differently from a normal project repository.</p>
+<p>After the first:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb37"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb37-1"><a href="#cb37-1" aria-hidden="true" tabindex="-1"></a><span class="ex">quarto</span> publish gh-pages</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<p>open the GitHub repository and go to:</p>
+<pre class="text"><code>Settings
+  -&gt; Pages
+  -&gt; Build and deployment</code></pre>
+<p>Set the publishing source to the <code>gh-pages</code> branch (root folder) if GitHub has not already selected it.</p>
+<p>The Quarto documentation explicitly notes that user sites served at <code>https://&lt;username&gt;.github.io/</code> need the source branch switched to <code>gh-pages</code> when using this workflow.</p>
+<p>Official source:<br>
+https://quarto.org/docs/publishing/github-pages.html#user-site</p>
+<p>Then visit:</p>
+<pre class="text"><code>https://&lt;username&gt;.github.io</code></pre>
+<hr>
+</section>
+<section id="normal-update-workflow-after-the-first-deployment" class="level1">
+<h1>28. Normal update workflow after the first deployment</h1>
+<p>Edit the source files, test locally, then:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb40"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb40-1"><a href="#cb40-1" aria-hidden="true" tabindex="-1"></a><span class="ex">quarto</span> preview</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<p>Commit your changes:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb41"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb41-1"><a href="#cb41-1" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> add .</span>
+<span id="cb41-2"><a href="#cb41-2" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> commit <span class="at">-m</span> <span class="st">"Update publications and teaching materials"</span></span>
+<span id="cb41-3"><a href="#cb41-3" aria-hidden="true" tabindex="-1"></a><span class="fu">git</span> push</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<p>Then publish:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb42"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb42-1"><a href="#cb42-1" aria-hidden="true" tabindex="-1"></a><span class="ex">quarto</span> publish gh-pages</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<p>This manual workflow is completely adequate for the first version.</p>
+<hr>
+</section>
+<section id="optional-automatic-deployment-with-github-actions" class="level1">
+<h1>29. Optional: automatic deployment with GitHub Actions</h1>
+<p>After the manual deployment is working reliably, automate it.</p>
+<p>First run a local publish at least once:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb43"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb43-1"><a href="#cb43-1" aria-hidden="true" tabindex="-1"></a><span class="ex">quarto</span> publish gh-pages</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<p>Then create:</p>
+<pre class="text"><code>.github/workflows/publish.yml</code></pre>
+<p>Example based on Quarto’s official workflow:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb45"><pre class="sourceCode yaml code-with-copy"><code class="sourceCode yaml"><span id="cb45-1"><a href="#cb45-1" aria-hidden="true" tabindex="-1"></a><span class="fu">on</span><span class="kw">:</span></span>
+<span id="cb45-2"><a href="#cb45-2" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">workflow_dispatch</span><span class="kw">:</span></span>
+<span id="cb45-3"><a href="#cb45-3" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">push</span><span class="kw">:</span></span>
+<span id="cb45-4"><a href="#cb45-4" aria-hidden="true" tabindex="-1"></a><span class="at">    </span><span class="fu">branches</span><span class="kw">:</span><span class="at"> main</span></span>
+<span id="cb45-5"><a href="#cb45-5" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb45-6"><a href="#cb45-6" aria-hidden="true" tabindex="-1"></a><span class="fu">name</span><span class="kw">:</span><span class="at"> Quarto Publish</span></span>
+<span id="cb45-7"><a href="#cb45-7" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb45-8"><a href="#cb45-8" aria-hidden="true" tabindex="-1"></a><span class="fu">jobs</span><span class="kw">:</span></span>
+<span id="cb45-9"><a href="#cb45-9" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">build-deploy</span><span class="kw">:</span></span>
+<span id="cb45-10"><a href="#cb45-10" aria-hidden="true" tabindex="-1"></a><span class="at">    </span><span class="fu">runs-on</span><span class="kw">:</span><span class="at"> ubuntu-latest</span></span>
+<span id="cb45-11"><a href="#cb45-11" aria-hidden="true" tabindex="-1"></a><span class="at">    </span><span class="fu">permissions</span><span class="kw">:</span></span>
+<span id="cb45-12"><a href="#cb45-12" aria-hidden="true" tabindex="-1"></a><span class="at">      </span><span class="fu">contents</span><span class="kw">:</span><span class="at"> write</span></span>
+<span id="cb45-13"><a href="#cb45-13" aria-hidden="true" tabindex="-1"></a><span class="at">    </span><span class="fu">steps</span><span class="kw">:</span></span>
+<span id="cb45-14"><a href="#cb45-14" aria-hidden="true" tabindex="-1"></a><span class="at">      </span><span class="kw">-</span><span class="at"> </span><span class="fu">name</span><span class="kw">:</span><span class="at"> Check out repository</span></span>
+<span id="cb45-15"><a href="#cb45-15" aria-hidden="true" tabindex="-1"></a><span class="at">        </span><span class="fu">uses</span><span class="kw">:</span><span class="at"> actions/checkout@v4</span></span>
+<span id="cb45-16"><a href="#cb45-16" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb45-17"><a href="#cb45-17" aria-hidden="true" tabindex="-1"></a><span class="at">      </span><span class="kw">-</span><span class="at"> </span><span class="fu">name</span><span class="kw">:</span><span class="at"> Set up Quarto</span></span>
+<span id="cb45-18"><a href="#cb45-18" aria-hidden="true" tabindex="-1"></a><span class="at">        </span><span class="fu">uses</span><span class="kw">:</span><span class="at"> quarto-dev/quarto-actions/setup@v2</span></span>
+<span id="cb45-19"><a href="#cb45-19" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb45-20"><a href="#cb45-20" aria-hidden="true" tabindex="-1"></a><span class="at">      </span><span class="kw">-</span><span class="at"> </span><span class="fu">name</span><span class="kw">:</span><span class="at"> Render and Publish</span></span>
+<span id="cb45-21"><a href="#cb45-21" aria-hidden="true" tabindex="-1"></a><span class="at">        </span><span class="fu">uses</span><span class="kw">:</span><span class="at"> quarto-dev/quarto-actions/publish@v2</span></span>
+<span id="cb45-22"><a href="#cb45-22" aria-hidden="true" tabindex="-1"></a><span class="at">        </span><span class="fu">with</span><span class="kw">:</span></span>
+<span id="cb45-23"><a href="#cb45-23" aria-hidden="true" tabindex="-1"></a><span class="at">          </span><span class="fu">target</span><span class="kw">:</span><span class="at"> gh-pages</span></span>
+<span id="cb45-24"><a href="#cb45-24" aria-hidden="true" tabindex="-1"></a><span class="at">        </span><span class="fu">env</span><span class="kw">:</span></span>
+<span id="cb45-25"><a href="#cb45-25" aria-hidden="true" tabindex="-1"></a><span class="at">          </span><span class="fu">GITHUB_TOKEN</span><span class="kw">:</span><span class="at"> ${{ secrets.GITHUB_TOKEN }}</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<p>Then in GitHub check:</p>
+<pre class="text"><code>Settings
+  -&gt; Actions
+  -&gt; General
+  -&gt; Workflow permissions
+  -&gt; Read and write permissions</code></pre>
+<p>After this, a push to <code>main</code> can automatically rebuild/publish the site.</p>
+<p>Official workflow reference:<br>
+https://quarto.org/docs/publishing/github-pages.html#github-action</p>
+<section id="executable-pythonr-code" class="level3">
+<h3 class="anchored" data-anchor-id="executable-pythonr-code">Executable Python/R code</h3>
+<p>If website pages execute Python or R, do not make CI complexity the first problem you solve. Start with:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb47"><pre class="sourceCode yaml code-with-copy"><code class="sourceCode yaml"><span id="cb47-1"><a href="#cb47-1" aria-hidden="true" tabindex="-1"></a><span class="fu">execute</span><span class="kw">:</span></span>
+<span id="cb47-2"><a href="#cb47-2" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">freeze</span><span class="kw">:</span><span class="at"> auto</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<p>Render computations locally and commit the frozen results. Later, if reproducible CI execution is genuinely needed, configure Python/R environments in the workflow.</p>
+<hr>
+</section>
+</section>
+<section id="add-https" class="level1">
+<h1>30. Add HTTPS</h1>
+<p>GitHub Pages supports HTTPS. In the repository:</p>
+<pre class="text"><code>Settings -&gt; Pages -&gt; Enforce HTTPS</code></pre>
+<p>Official documentation:<br>
+https://docs.github.com/en/pages/getting-started-with-github-pages/securing-your-github-pages-site-with-https</p>
+<hr>
+</section>
+<section id="custom-domain-optional-later" class="level1">
+<h1>31. Custom domain, optional later</h1>
+<p>Do not buy/configure a domain until the <code>github.io</code> version works properly.</p>
+<p>Later you can point a custom domain such as:</p>
+<pre class="text"><code>example.com
+www.example.com</code></pre>
+<p>Quarto’s GitHub Pages documentation recommends adding a <code>CNAME</code> file to the Quarto project root so it is preserved during rendering/publishing.</p>
+<p>Official resources:</p>
+<ul>
+<li>https://quarto.org/docs/publishing/github-pages.html#custom-domain</li>
+<li>https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site</li>
+</ul>
+<p>The hosting can remain on GitHub Pages; the domain registration is the part that normally costs money.</p>
+<hr>
+</section>
+<section id="quality-roadmap-build-in-phases" class="level1">
+<h1>32. Quality roadmap: build in phases</h1>
+<section id="phase-1-functional-portfolio" class="level2">
+<h2 class="anchored" data-anchor-id="phase-1-functional-portfolio">Phase 1, Functional portfolio</h2>
+<p>Complete:</p>
+<ul class="task-list">
+<li><label><input type="checkbox">repository;</label></li>
+<li><label><input type="checkbox">homepage;</label></li>
+<li><label><input type="checkbox">About;</label></li>
+<li><label><input type="checkbox">Research;</label></li>
+<li><label><input type="checkbox">Publications;</label></li>
+<li><label><input type="checkbox">Teaching;</label></li>
+<li><label><input type="checkbox">Projects;</label></li>
+<li><label><input type="checkbox">Contact;</label></li>
+<li><label><input type="checkbox">working GitHub Pages deployment.</label></li>
+</ul>
+<p>Do not spend days perfecting CSS before this exists.</p>
+</section>
+<section id="phase-2-better-information-architecture" class="level2">
+<h2 class="anchored" data-anchor-id="phase-2-better-information-architecture">Phase 2, Better information architecture</h2>
+<p>Add:</p>
+<ul class="task-list">
+<li><label><input type="checkbox">publication listings;</label></li>
+<li><label><input type="checkbox">project listings;</label></li>
+<li><label><input type="checkbox">course structure;</label></li>
+<li><label><input type="checkbox">full-text search;</label></li>
+<li><label><input type="checkbox">selected/featured content on homepage;</label></li>
+<li><label><input type="checkbox">CV download;</label></li>
+<li><label><input type="checkbox">ORCID / Scholar / GitHub links.</label></li>
+</ul>
+</section>
+<section id="phase-3-visual-polish" class="level2">
+<h2 class="anchored" data-anchor-id="phase-3-visual-polish">Phase 3, Visual polish</h2>
+<p>Add:</p>
+<ul class="task-list">
+<li><label><input type="checkbox">custom SCSS;</label></li>
+<li><label><input type="checkbox">stable color palette;</label></li>
+<li><label><input type="checkbox">typography;</label></li>
+<li><label><input type="checkbox">high-quality headshot;</label></li>
+<li><label><input type="checkbox">thumbnails;</label></li>
+<li><label><input type="checkbox">favicon;</label></li>
+<li><label><input type="checkbox">Open Graph preview image;</label></li>
+<li><label><input type="checkbox">light/dark mode;</label></li>
+<li><label><input type="checkbox"><code>_brand.yml</code>.</label></li>
+</ul>
+</section>
+<section id="phase-4-teaching-platform" class="level2">
+<h2 class="anchored" data-anchor-id="phase-4-teaching-platform">Phase 4, Teaching platform</h2>
+<p>Add course material progressively:</p>
+<ul class="task-list">
+<li><label><input type="checkbox">module pages;</label></li>
+<li><label><input type="checkbox">exercises;</label></li>
+<li><label><input type="checkbox">Jupyter/Python examples;</label></li>
+<li><label><input type="checkbox">downloadable resources;</label></li>
+<li><label><input type="checkbox">references;</label></li>
+<li><label><input type="checkbox">course-specific sidebar;</label></li>
+<li><label><input type="checkbox">convert large courses into Quarto Books when useful.</label></li>
+</ul>
+</section>
+<section id="phase-5-automation" class="level2">
+<h2 class="anchored" data-anchor-id="phase-5-automation">Phase 5, Automation</h2>
+<p>Only after content is stable:</p>
+<ul class="task-list">
+<li><label><input type="checkbox">GitHub Actions auto-publish;</label></li>
+<li><label><input type="checkbox">publication metadata automation if desired;</label></li>
+<li><label><input type="checkbox">analytics;</label></li>
+<li><label><input type="checkbox">custom domain;</label></li>
+<li><label><input type="checkbox">content update workflow.</label></li>
+</ul>
+<hr>
+</section>
+</section>
+<section id="suggested-content-update-routine" class="level1">
+<h1>33. Suggested content update routine</h1>
+<p>A portfolio becomes stale when updating it is difficult. Keep the workflow simple.</p>
+<section id="new-publication" class="level3">
+<h3 class="anchored" data-anchor-id="new-publication">New publication</h3>
+<pre class="text"><code>1. Add publication page/metadata.
+2. Add DOI and permitted links.
+3. Add 2-3 sentence plain-language summary.
+4. Add thumbnail if useful.
+5. Preview.
+6. Commit and publish.</code></pre>
+</section>
+<section id="new-coursemodule" class="level3">
+<h3 class="anchored" data-anchor-id="new-coursemodule">New course/module</h3>
+<pre class="text"><code>1. Add/update course landing page.
+2. Add module .qmd.
+3. Add code/notebook/assets.
+4. Preview mobile + desktop.
+5. Commit and publish.</code></pre>
+</section>
+<section id="new-project" class="level3">
+<h3 class="anchored" data-anchor-id="new-project">New project</h3>
+<pre class="text"><code>1. Add project page.
+2. Explain problem and contribution.
+3. Add representative visual.
+4. Link paper/code/demo if public.
+5. Commit and publish.</code></pre>
+<hr>
+</section>
+</section>
+<section id="recommended-design-principles-for-this-specific-academic-portfolio" class="level1">
+<h1>34. Recommended design principles for this specific academic portfolio</h1>
+<ol type="1">
+<li><strong>Lead with academic identity, not administrative biodata.</strong></li>
+<li><strong>Show 3-5 selected works before showing complete archives.</strong></li>
+<li><strong>Give every important publication a plain-language explanation.</strong></li>
+<li><strong>Make teaching materials directly useful to students.</strong></li>
+<li><strong>Use cards/listings for scannable content, but avoid making every paragraph a card.</strong></li>
+<li><strong>Keep navigation to roughly 6-8 top-level items.</strong></li>
+<li><strong>Use one consistent visual identity.</strong></li>
+<li><strong>Make the website mobile-friendly.</strong></li>
+<li><strong>Optimize images before committing them.</strong></li>
+<li><strong>Keep PDFs and large datasets out of the repository when an external canonical source is better.</strong></li>
+<li><strong>Link to DOI, ORCID, Scholar, GitHub, and institutional profiles instead of duplicating everything.</strong></li>
+<li><strong>Treat accessibility and social metadata as part of professional quality.</strong></li>
+</ol>
+<hr>
+</section>
+<section id="what-should-not-be-in-the-repository" class="level1">
+<h1>35. What should NOT be in the repository</h1>
+<p>Especially if the repository is public, never commit:</p>
+<pre class="text"><code>.env
+API keys
+cloud credentials
+private SSH keys
+passwords
+private student data
+unreleased confidential manuscripts
+internal university documents not meant for publication
+copyrighted books/slides you cannot redistribute
+large raw research datasets that belong elsewhere</code></pre>
+<p>Use <code>.gitignore</code> for local/generated files and keep secrets outside the website project.</p>
+<hr>
+</section>
+<section id="recommended-first-week-build-order" class="level1">
+<h1>36. Recommended first-week build order</h1>
+<p>Use this sequence rather than trying to finish everything at once:</p>
+<pre class="text"><code>1. Create public &lt;username&gt;.github.io repository.
+2. Install Quarto and verify it.
+3. Create website project.
+4. Create navbar and basic pages.
+5. Build a clean homepage.
+6. Add About.
+7. Add 3 selected publications.
+8. Add current teaching courses.
+9. Add 2-3 selected projects.
+10. Configure social links and CV.
+11. Preview and fix mobile layout.
+12. Publish to gh-pages.
+13. Verify GitHub Pages source branch.
+14. Test the live site.
+15. Only then improve custom CSS/SCSS.</code></pre>
+<p>The objective of version 1 is <strong>a useful live academic portfolio</strong>, not a perfect design system.</p>
+<hr>
+</section>
+<section id="minimal-launch-criteria" class="level1">
+<h1>37. Minimal launch criteria</h1>
+<p>The website is ready for its first public release when all of these are true:</p>
+<ul class="task-list">
+<li><label><input type="checkbox">Homepage explains who you are and what you work on.</label></li>
+<li><label><input type="checkbox">Profile photo is clear and appropriately sized.</label></li>
+<li><label><input type="checkbox">About page is complete.</label></li>
+<li><label><input type="checkbox">At least three representative publications are available.</label></li>
+<li><label><input type="checkbox">Research themes are explained in plain language.</label></li>
+<li><label><input type="checkbox">Teaching page lists current/relevant courses.</label></li>
+<li><label><input type="checkbox">At least some learning materials are useful, not placeholder pages.</label></li>
+<li><label><input type="checkbox">Projects page has representative work.</label></li>
+<li><label><input type="checkbox">Professional links work.</label></li>
+<li><label><input type="checkbox">Contact information is available.</label></li>
+<li><label><input type="checkbox">Site search works if enabled.</label></li>
+<li><label><input type="checkbox">No broken images or links.</label></li>
+<li><label><input type="checkbox">Mobile layout has been checked.</label></li>
+<li><label><input type="checkbox">No secret/private files are present in Git history.</label></li>
+<li><label><input type="checkbox">GitHub Pages deploy succeeds.</label></li>
+<li><label><input type="checkbox">HTTPS works.</label></li>
+</ul>
+<hr>
+</section>
+<section id="sourcereference-list" class="level1">
+<h1>38. Source/reference list</h1>
+<section id="quarto-official" class="level2">
+<h2 class="anchored" data-anchor-id="quarto-official">Quarto official</h2>
+<ul>
+<li>Main website guide: https://quarto.org/docs/websites/</li>
+<li>Gallery: https://quarto.org/docs/gallery/</li>
+<li>About pages: https://quarto.org/docs/websites/website-about.html</li>
+<li>Navigation/search: https://quarto.org/docs/websites/website-navigation.html</li>
+<li>Listings: https://quarto.org/docs/websites/website-listings.html</li>
+<li>Website tools/social metadata/analytics: https://quarto.org/docs/websites/website-tools.html</li>
+<li>Website options: https://quarto.org/docs/reference/projects/websites.html</li>
+<li>HTML themes: https://quarto.org/docs/output-formats/html-themes.html</li>
+<li>Citations: https://quarto.org/docs/authoring/citations.html</li>
+<li>Citeable articles: https://quarto.org/docs/authoring/create-citeable-articles.html</li>
+<li>Quarto Books: https://quarto.org/docs/books/</li>
+<li>GitHub Pages publishing: https://quarto.org/docs/publishing/github-pages.html</li>
+<li>Personal website video series: https://opensource.posit.co/blog/2024-12-04_websites-workshop/</li>
+<li>Quarto downloads: https://quarto.org/docs/download/</li>
+</ul>
+</section>
+<section id="github-official" class="level2">
+<h2 class="anchored" data-anchor-id="github-official">GitHub official</h2>
+<ul>
+<li>What is GitHub Pages: https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages</li>
+<li>Create a Pages site: https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site</li>
+<li>Configure publishing source: https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site</li>
+<li>HTTPS: https://docs.github.com/en/pages/getting-started-with-github-pages/securing-your-github-pages-site-with-https</li>
+<li>Custom domains: https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site</li>
+<li>Pages access control: https://docs.github.com/enterprise-cloud@latest/pages/getting-started-with-github-pages/changing-the-visibility-of-your-github-pages-site</li>
+</ul>
+</section>
+<section id="live-examples" class="level2">
+<h2 class="anchored" data-anchor-id="live-examples">Live examples</h2>
+<ul>
+<li>Beatriz Milz: https://beamilz.com/</li>
+<li>Mike Mahoney: https://www.mm218.dev/</li>
+<li>Hamel Husain: https://hamel.dev/</li>
+<li>Andrew Heiss teaching: https://www.andrewheiss.com/teaching/</li>
+<li>Python for Data Science: https://pythonds.linogaliana.fr/</li>
+</ul>
+<hr>
+</section>
+</section>
+<section id="final-recommendation" class="level1">
+<h1>39. Final recommendation</h1>
+<p>For the initial version:</p>
+<pre class="text"><code>Framework:       Quarto
+Source control:  GitHub
+Repository:      &lt;username&gt;.github.io
+Visibility:      Public (GitHub Free)
+Hosting:         GitHub Pages
+First publish:   quarto publish gh-pages
+Automation:      GitHub Actions after manual deployment works
+Domain:          github.io first; custom domain later
+Content style:   Academic portfolio + useful teaching resources</code></pre>
+<p>This gives the best balance of cost, maintainability, academic publishing features, and long-term usefulness for a lecturer/researcher portfolio.</p>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    // Ensure there is a toggle, if there isn't float one in the top right
+    if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+      const a = window.document.createElement('a');
+      a.classList.add('top-right');
+      a.classList.add('quarto-color-scheme-toggle');
+      a.href = "";
+      a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+      const i = window.document.createElement("i");
+      i.classList.add('bi');
+      a.appendChild(i);
+      window.document.body.appendChild(a);
+    }
+    setColorSchemeToggle(hasAlternateSentinel())
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp("https:\/\/akhiyarwaladi\.github\.io");
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p>© 2026 Akhiyar Waladi, S.Komp., M.Kom. · Universitas Jambi</p>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+<p>Built with Quarto and GitHub Pages</p>
+</div>
+  </div>
+</footer>
+
+
+
+
+</body></html>
