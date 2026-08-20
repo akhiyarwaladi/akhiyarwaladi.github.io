@@ -57,6 +57,18 @@ h3 { font-size: 1.25rem; }
   color: var(--accent);
 }
 
+.navbar .nav-link.active,
+.navbar .nav-link.active:hover {
+  color: var(--accent-dark);
+  font-weight: 600;
+}
+
+html[data-bs-theme="dark"] .navbar .nav-link.active,
+html[data-bs-theme="dark"] .navbar .nav-link.active:hover {
+  color: #fff;
+  font-weight: 600;
+}
+
 /* ---------- Links ---------- */
 a { color: var(--accent); text-decoration: none; }
 a:hover { color: var(--accent-dark); text-decoration: underline; }
