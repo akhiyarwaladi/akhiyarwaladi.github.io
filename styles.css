@@ -303,6 +303,20 @@ html[data-bs-theme="dark"] blockquote {
   overflow: hidden;
   box-shadow: 0 1px 6px rgba(15, 23, 42, 0.05);
   transition: transform 0.15s ease, box-shadow 0.15s ease, border-color 0.15s ease;
+  height: 100%;
+  min-height: 260px;
+}
+.resource-grid {
+  align-items: stretch;
+}
+.resource-card > section {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+.resource-card > section > p {
+  flex-grow: 1;
+  margin-bottom: 0.6rem;
 }
 
 .resource-card::before {
@@ -396,7 +410,7 @@ html[data-bs-theme="dark"] blockquote {
 
 .resource-btn {
   display: inline-block;
-  margin-top: 1.1rem;
+  margin-top: auto;
   padding: 0.5rem 1.15rem;
   border-radius: 999px;
   font-weight: 600;
@@ -720,6 +734,9 @@ html[data-bs-theme="dark"] .home-hero-inner .hero-cta a.btn-ghost {
   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
   gap: 0.9rem;
   margin: 1rem 0 1.6rem;
+}
+.course-grid > p {
+  display: contents;
 }
 .course-mini {
   border: 1px solid #e2e8f0;
