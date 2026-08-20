@@ -1,107 +1,119 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://akhiyarwaladi.github.io/publications/kinetik-malaria-efficient/index.html</loc>
+    <lastmod>2026-08-20T01:50:13.084Z</lastmod>
+  </url>
+  <url>
     <loc>https://akhiyarwaladi.github.io/publications/instagram-engagement/index.html</loc>
-    <lastmod>2026-08-19T16:44:53.513Z</lastmod>
+    <lastmod>2026-08-20T01:50:13.084Z</lastmod>
   </url>
   <url>
     <loc>https://akhiyarwaladi.github.io/publications/hierarchical-clustering-gas/index.html</loc>
-    <lastmod>2026-08-19T16:44:53.513Z</lastmod>
+    <lastmod>2026-08-20T01:50:13.084Z</lastmod>
   </url>
   <url>
     <loc>https://akhiyarwaladi.github.io/publications/malaria-detection-cnn/index.html</loc>
-    <lastmod>2026-08-19T16:44:53.513Z</lastmod>
+    <lastmod>2026-08-20T01:50:13.084Z</lastmod>
   </url>
   <url>
     <loc>https://akhiyarwaladi.github.io/publications/sarima-lstm-ekspor/index.html</loc>
-    <lastmod>2026-08-19T16:44:53.513Z</lastmod>
+    <lastmod>2026-08-20T01:50:13.084Z</lastmod>
   </url>
   <url>
     <loc>https://akhiyarwaladi.github.io/publications/automatic-counting-election/index.html</loc>
-    <lastmod>2026-08-19T16:44:53.513Z</lastmod>
+    <lastmod>2026-08-20T01:50:13.084Z</lastmod>
   </url>
   <url>
     <loc>https://akhiyarwaladi.github.io/teaching/data-mining/index.html</loc>
-    <lastmod>2026-08-19T16:44:53.514Z</lastmod>
-  </url>
-  <url>
-    <loc>https://akhiyarwaladi.github.io/teaching/artificial-intelligence/index.html</loc>
-    <lastmod>2026-08-19T16:44:53.514Z</lastmod>
-  </url>
-  <url>
-    <loc>https://akhiyarwaladi.github.io/teaching/pattern-recognition/index.html</loc>
-    <lastmod>2026-08-19T16:44:53.514Z</lastmod>
-  </url>
-  <url>
-    <loc>https://akhiyarwaladi.github.io/projects/fire-spot/index.html</loc>
-    <lastmod>2026-08-19T16:44:53.512Z</lastmod>
-  </url>
-  <url>
-    <loc>https://akhiyarwaladi.github.io/projects/trash-binary/index.html</loc>
-    <lastmod>2026-08-19T16:44:53.512Z</lastmod>
-  </url>
-  <url>
-    <loc>https://akhiyarwaladi.github.io/projects/iot-fst-dashboard/index.html</loc>
-    <lastmod>2026-08-19T16:44:53.512Z</lastmod>
-  </url>
-  <url>
-    <loc>https://akhiyarwaladi.github.io/index.html</loc>
-    <lastmod>2026-08-19T16:44:53.511Z</lastmod>
-  </url>
-  <url>
-    <loc>https://akhiyarwaladi.github.io/about.html</loc>
-    <lastmod>2026-08-19T16:44:53.510Z</lastmod>
-  </url>
-  <url>
-    <loc>https://akhiyarwaladi.github.io/cv.html</loc>
-    <lastmod>2026-08-19T16:44:53.510Z</lastmod>
-  </url>
-  <url>
-    <loc>https://akhiyarwaladi.github.io/contact.html</loc>
-    <lastmod>2026-08-19T16:44:53.510Z</lastmod>
-  </url>
-  <url>
-    <loc>https://akhiyarwaladi.github.io/projects/ml-tutorials/index.html</loc>
-    <lastmod>2026-08-19T16:44:53.512Z</lastmod>
-  </url>
-  <url>
-    <loc>https://akhiyarwaladi.github.io/projects/sigap-mobile/index.html</loc>
-    <lastmod>2026-08-19T16:44:53.512Z</lastmod>
-  </url>
-  <url>
-    <loc>https://akhiyarwaladi.github.io/projects/index.html</loc>
-    <lastmod>2026-08-19T16:44:53.512Z</lastmod>
-  </url>
-  <url>
-    <loc>https://akhiyarwaladi.github.io/projects/automated-fish-counter/index.html</loc>
-    <lastmod>2026-08-19T16:44:53.512Z</lastmod>
-  </url>
-  <url>
-    <loc>https://akhiyarwaladi.github.io/teaching/machine-learning/index.html</loc>
-    <lastmod>2026-08-19T16:44:53.514Z</lastmod>
+    <lastmod>2026-08-20T01:50:13.085Z</lastmod>
   </url>
   <url>
     <loc>https://akhiyarwaladi.github.io/teaching/index.html</loc>
-    <lastmod>2026-08-19T16:44:53.514Z</lastmod>
+    <lastmod>2026-08-20T01:50:13.085Z</lastmod>
+  </url>
+  <url>
+    <loc>https://akhiyarwaladi.github.io/teaching/machine-learning/index.html</loc>
+    <lastmod>2026-08-20T01:50:13.085Z</lastmod>
+  </url>
+  <url>
+    <loc>https://akhiyarwaladi.github.io/projects/automated-fish-counter/index.html</loc>
+    <lastmod>2026-08-20T01:50:13.083Z</lastmod>
+  </url>
+  <url>
+    <loc>https://akhiyarwaladi.github.io/projects/index.html</loc>
+    <lastmod>2026-08-20T01:50:13.083Z</lastmod>
+  </url>
+  <url>
+    <loc>https://akhiyarwaladi.github.io/projects/sigap-mobile/index.html</loc>
+    <lastmod>2026-08-20T01:50:13.083Z</lastmod>
+  </url>
+  <url>
+    <loc>https://akhiyarwaladi.github.io/projects/ml-tutorials/index.html</loc>
+    <lastmod>2026-08-20T01:50:13.083Z</lastmod>
+  </url>
+  <url>
+    <loc>https://akhiyarwaladi.github.io/contact.html</loc>
+    <lastmod>2026-08-20T01:50:13.080Z</lastmod>
+  </url>
+  <url>
+    <loc>https://akhiyarwaladi.github.io/cv.html</loc>
+    <lastmod>2026-08-20T01:50:13.080Z</lastmod>
+  </url>
+  <url>
+    <loc>https://akhiyarwaladi.github.io/about.html</loc>
+    <lastmod>2026-08-20T01:50:13.080Z</lastmod>
+  </url>
+  <url>
+    <loc>https://akhiyarwaladi.github.io/index.html</loc>
+    <lastmod>2026-08-20T01:50:13.082Z</lastmod>
+  </url>
+  <url>
+    <loc>https://akhiyarwaladi.github.io/projects/iot-fst-dashboard/index.html</loc>
+    <lastmod>2026-08-20T01:50:13.083Z</lastmod>
+  </url>
+  <url>
+    <loc>https://akhiyarwaladi.github.io/projects/trash-binary/index.html</loc>
+    <lastmod>2026-08-20T01:50:13.083Z</lastmod>
+  </url>
+  <url>
+    <loc>https://akhiyarwaladi.github.io/projects/fire-spot/index.html</loc>
+    <lastmod>2026-08-20T01:50:13.083Z</lastmod>
+  </url>
+  <url>
+    <loc>https://akhiyarwaladi.github.io/teaching/pattern-recognition/index.html</loc>
+    <lastmod>2026-08-20T01:50:13.085Z</lastmod>
+  </url>
+  <url>
+    <loc>https://akhiyarwaladi.github.io/teaching/artificial-intelligence/index.html</loc>
+    <lastmod>2026-08-20T01:50:13.085Z</lastmod>
+  </url>
+  <url>
+    <loc>https://akhiyarwaladi.github.io/teaching/pengolahan-citra-digital/index.html</loc>
+    <lastmod>2026-08-20T01:50:13.085Z</lastmod>
   </url>
   <url>
     <loc>https://akhiyarwaladi.github.io/research.html</loc>
-    <lastmod>2026-08-19T16:44:53.513Z</lastmod>
+    <lastmod>2026-08-20T01:50:13.084Z</lastmod>
   </url>
   <url>
     <loc>https://akhiyarwaladi.github.io/publications/kmeans-customer-segmentation/index.html</loc>
-    <lastmod>2026-08-19T16:44:53.513Z</lastmod>
+    <lastmod>2026-08-20T01:50:13.084Z</lastmod>
   </url>
   <url>
     <loc>https://akhiyarwaladi.github.io/publications/transfer-learning-remote-sensing/index.html</loc>
-    <lastmod>2026-08-19T16:44:53.513Z</lastmod>
+    <lastmod>2026-08-20T01:50:13.084Z</lastmod>
   </url>
   <url>
     <loc>https://akhiyarwaladi.github.io/publications/landcover-random-forest-sentinel2/index.html</loc>
-    <lastmod>2026-08-19T16:44:53.513Z</lastmod>
+    <lastmod>2026-08-20T01:50:13.084Z</lastmod>
   </url>
   <url>
     <loc>https://akhiyarwaladi.github.io/publications/index.html</loc>
-    <lastmod>2026-08-19T16:44:53.513Z</lastmod>
+    <lastmod>2026-08-20T01:50:13.084Z</lastmod>
+  </url>
+  <url>
+    <loc>https://akhiyarwaladi.github.io/publications/wind-turbine-talang-solok/index.html</loc>
+    <lastmod>2026-08-20T01:50:13.084Z</lastmod>
   </url>
 </urlset>
